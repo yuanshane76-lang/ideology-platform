@@ -1,0 +1,13 @@
+flask
+python-dotenv
+openai
+qdrant-client
+langgraph
+langchain-community
+langchain-openai
+langchain-core
+requests-toolbelt
+python-pptx>=0.6.21
+Pillow>=10.0.0
+dashscope>=1.14.1
+playwright

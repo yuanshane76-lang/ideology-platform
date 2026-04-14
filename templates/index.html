@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>红芯平台 - 红芯问答</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- 引入图标库 -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- 配置自定义颜色 -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#E11D48', // 玫瑰红
+                        secondary: '#F97316', // 活力橙
+                    },
+                    animation: {
+                        'bounce-slow': 'bounce 3s infinite',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* 自定义滚动条 */
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .glass { background: rgba(255, 255, 255, 0.75); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.5); }
+        .gradient-text { background: linear-gradient(to right, #E11D48, #F97316); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .gradient-bg { background: linear-gradient(135deg, #E11D48, #F97316); }
+        body { background-color: #F3F4F6; font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    </style>
+    <!-- 1. 引入 marked 库 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <style>
+        /* ... 其他样式 ... */
+        
+        /* 2. 添加 Markdown 专用样式 (Tailwind Typography 风格) */
+        .prose h1 { font-size: 1.5em; font-weight: bold; margin: 0.8em 0 0.4em; color: #1e293b; }
+        .prose h2 { font-size: 1.3em; font-weight: bold; margin: 0.8em 0 0.4em; color: #334155; }
+        .prose h3 { font-size: 1.1em; font-weight: bold; margin: 0.6em 0 0.3em; }
+        .prose p { margin-bottom: 0.8em; line-height: 1.6; }
+        .prose ul { list-style-type: disc; padding-left: 1.2em; margin-bottom: 0.8em; }
+        .prose ol { list-style-type: decimal; padding-left: 1.2em; margin-bottom: 0.8em; }
+        .prose strong { color: #E11D48; font-weight: 700; } /* 重点标红 */
+        .prose blockquote { border-left: 4px solid #F97316; padding-left: 1em; color: #64748b; background: #fff7ed; padding: 0.5em 1em; margin: 1em 0; border-radius: 0 0.5rem 0.5rem 0; }
+    </style>
+    
+</head>
+<body class="h-screen flex overflow-hidden text-slate-800">
+
+    <!-- 侧边栏 Sidebar -->
+    <aside class="w-72 bg-white/80 backdrop-blur-xl border-r border-white/40 hidden md:flex flex-col z-20">
+        <div class="p-6 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-xl gradient-bg flex items-center justify-center shadow-lg shadow-rose-500/30">
+                <i data-lucide="book-open" class="text-white w-6 h-6"></i>
+            </div>
+            <span class="text-xl font-bold gradient-text">红芯平台</span>
+        </div>
+
+        <div class="px-4 py-2 space-y-2">
+            <button onclick="resetChat()" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-rose-300 bg-rose-50 text-rose-700 font-medium hover:bg-rose-100 transition-all">
+                <i data-lucide="plus-circle" class="w-5 h-5"></i>
+                新建红芯问答
+            </button>
+            <a href="/" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-rose-300 bg-rose-50 text-rose-700 font-medium">
+                <i data-lucide="message-square" class="w-5 h-5"></i>
+                红芯问答
+            </a>
+            <a href="/ppt" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-orange-300 bg-orange-50 text-orange-700 font-medium hover:bg-orange-100 transition-all">
+                <i data-lucide="presentation" class="w-5 h-5"></i>
+                红芯备课（PPT生成）
+            </a>
+            <a href="/debate" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-sky-300 bg-sky-50 text-sky-700 font-medium hover:bg-sky-100 transition-all">
+                <i data-lucide="scale" class="w-5 h-5"></i>
+                红芯理辩（开发中）
+            </a>
+        </div>
+
+        <div class="flex-1 overflow-y-auto px-4 py-4 space-y-2" id="history-list">
+            <div class="text-xs font-semibold text-slate-400 px-2 mb-2 uppercase tracking-wider">红芯问答记录</div>
+            <!-- 历史列表由 JS 动态生成 -->
+            <div class="p-3 text-sm text-slate-400 text-center">加载中...</div>
+        </div>
+
+        <div class="p-4 border-t border-slate-100 bg-white/50">
+            <div class="flex items-center gap-3 w-full p-2 rounded-lg">
+                <div class="w-8 h-8 rounded-full bg-slate-200 flex items-center justify-center">
+                    <i data-lucide="user" class="w-5 h-5 text-slate-500"></i>
+                </div>
+                <div class="flex-1 text-left">
+                    <div class="text-sm font-bold text-slate-700">同学</div>
+                    <div class="text-xs text-slate-500">计算机学院</div>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- 主内容区 Main -->
+    <main class="flex-1 flex flex-col relative w-full h-full">
+        
+        <!-- 顶部 Header -->
+        <header class="absolute top-0 left-0 right-0 z-10 px-6 py-4 flex items-center justify-between pointer-events-none">
+            <div class="md:hidden pointer-events-auto">
+                <!-- 移动端菜单按钮 (暂未实现功能) -->
+                <button class="p-2 bg-white/80 rounded-lg shadow-sm backdrop-blur-md"><i data-lucide="menu"></i></button>
+            </div>
+            <div class="hidden md:block"></div>
+            
+            <div class="flex items-center gap-2 bg-white/60 backdrop-blur-md border border-white/40 px-4 py-2 rounded-full shadow-sm pointer-events-auto">
+                <i data-lucide="award" class="w-5 h-5 text-orange-500"></i>
+                <span class="text-sm font-bold text-slate-700">红芯成长值: <span id="score">1,280</span></span>
+            </div>
+        </header>
+
+        <!-- 聊天区域 Chat Area -->
+        <div id="chat-container" class="flex-1 overflow-y-auto pb-40 pt-24 px-4 md:px-20 scroll-smooth">
+            
+            <!-- 欢迎界面 (默认显示) -->
+            <div id="welcome-screen" class="h-full flex flex-col items-center justify-center transition-opacity duration-500">
+                <div class="w-24 h-24 rounded-3xl gradient-bg flex items-center justify-center shadow-xl shadow-rose-500/20 mb-8 rotate-3">
+                    <i data-lucide="sparkles" class="w-12 h-12 text-white"></i>
+                </div>
+                <h1 class="text-3xl md:text-4xl font-bold text-slate-800 mb-4 text-center">
+                    你好，这里是<span class="gradient-text">红芯问答</span>
+                </h1>
+                <p class="text-slate-500 text-center max-w-lg mb-10 text-lg">
+                    红芯平台统一知识中枢，为你提供思政课程问答、备课生成与理辩训练入口。
+                </p>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-full max-w-4xl">
+                    <button onclick="sendQuery('什么是新质生产力？')" class="bg-white/70 backdrop-blur-sm p-5 rounded-2xl text-left border border-white/50 shadow-sm hover:shadow-md hover:border-rose-200 transition-all group">
+                        <div class="text-xs inline-flex px-2 py-1 rounded-full bg-rose-100 text-rose-600 mb-3">红芯问答</div>
+                        <div class="flex justify-between items-center">
+                            <span class="text-slate-700 font-semibold group-hover:text-rose-600">理论问答入口</span>
+                            <i data-lucide="chevron-right" class="w-4 h-4 text-slate-300 group-hover:text-rose-500"></i>
+                        </div>
+                        <p class="text-xs text-slate-500 mt-2">快速解析课程概念与热点问题</p>
+                    </button>
+                    <a href="/ppt" class="bg-white/70 backdrop-blur-sm p-5 rounded-2xl text-left border border-white/50 shadow-sm hover:shadow-md hover:border-orange-200 transition-all group block">
+                        <div class="text-xs inline-flex px-2 py-1 rounded-full bg-orange-100 text-orange-600 mb-3">红芯备课（PPT生成）</div>
+                        <div class="flex justify-between items-center">
+                            <span class="text-slate-700 font-semibold group-hover:text-orange-600">备课生成入口</span>
+                            <i data-lucide="chevron-right" class="w-4 h-4 text-slate-300 group-hover:text-orange-500"></i>
+                        </div>
+                        <p class="text-xs text-slate-500 mt-2">从主题到大纲，再到幻灯片下载</p>
+                    </a>
+                    <a href="/debate" class="bg-white/70 backdrop-blur-sm p-5 rounded-2xl text-left border border-white/50 shadow-sm hover:shadow-md hover:border-sky-200 transition-all group block">
+                        <div class="text-xs inline-flex px-2 py-1 rounded-full bg-sky-100 text-sky-600 mb-3">红芯理辩（开发中）</div>
+                        <div class="flex justify-between items-center">
+                            <span class="text-slate-700 font-semibold group-hover:text-sky-600">理辩训练入口</span>
+                            <i data-lucide="chevron-right" class="w-4 h-4 text-slate-300 group-hover:text-sky-500"></i>
+                        </div>
+                        <p class="text-xs text-slate-500 mt-2">围绕议题展开正反交锋与裁判总结</p>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 消息列表 (JS动态插入) -->
+            <div id="message-list" class="space-y-8 max-w-3xl mx-auto hidden"></div>
+
+            <!-- 思考状态 Loading -->
+            <div id="loading-indicator" class="hidden mt-4 max-w-3xl mx-auto">
+                <div class="flex justify-start w-full">
+                    <div class="bg-white/80 backdrop-blur-sm border border-slate-100 rounded-2xl rounded-tl-none p-4 shadow-sm flex items-center gap-3">
+                        <div class="flex space-x-1">
+                            <div class="w-2 h-2 bg-rose-400 rounded-full animate-bounce"></div>
+                            <div class="w-2 h-2 bg-rose-400 rounded-full animate-bounce" style="animation-delay: 0.1s"></div>
+                            <div class="w-2 h-2 bg-rose-400 rounded-full animate-bounce" style="animation-delay: 0.2s"></div>
+                        </div>
+                        <span class="text-sm text-slate-500 font-medium">红芯问答正在组织知识依据...</span>
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="bottom-anchor"></div>
+        </div>
+
+        <!-- 底部输入区 Input Area -->
+        <div class="absolute bottom-6 left-0 right-0 px-4 md:px-0 flex justify-center z-20">
+            <div class="w-full max-w-3xl relative">
+                <div class="glass rounded-[2rem] shadow-2xl shadow-slate-200/50 p-2 flex items-end gap-2 transition-all focus-within:ring-2 focus-within:ring-rose-500/20">
+                    <textarea id="user-input" rows="1" placeholder="在此输入你的问题，例如：如何理解“两个结合”？" 
+                        class="w-full bg-transparent border-none text-slate-700 placeholder-slate-400 focus:ring-0 resize-none py-3 px-4 max-h-32 min-h-[52px] outline-none"
+                        oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px'"
+                    ></textarea>
+                    <div class="flex items-center gap-2 pb-1.5 pr-2">
+                        <button class="p-2.5 text-slate-400 hover:text-slate-600 hover:bg-slate-100 rounded-full transition-colors"><i data-lucide="mic"></i></button>
+                        <button onclick="handleSendClick()" id="send-btn" class="p-2.5 rounded-full shadow-lg gradient-bg text-white hover:shadow-orange-500/30 transform active:scale-95 transition-all">
+                            <i data-lucide="send"></i>
+                        </button>
+                        <button onclick="stopGeneration()" id="stop-btn" class="hidden p-2.5 rounded-full shadow-lg gradient-bg text-white hover:shadow-orange-500/30 transform active:scale-95 transition-all">
+                            <i data-lucide="square"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="text-center mt-2">
+                    <span class="text-[10px] text-slate-400">内容由 AI 生成，仅供学习参考，请以官方文献为准</span>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- 引用 JS 逻辑 -->
+    <script src="/static/app.js?v=1769079592?v=3"></script>
+
+    <!-- 引用详情模态框 -->
+    <div id="reference-modal" class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+        <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[80vh] overflow-y-auto shadow-2xl">
+            <div class="p-6">
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-lg font-bold text-slate-800">引用详情</h3>
+                    <button onclick="closeReferenceModal()" class="p-2 hover:bg-slate-100 rounded-full transition-colors">
+                        <i data-lucide="x" class="w-5 h-5 text-slate-500"></i>
+                    </button>
+                </div>
+                <div id="reference-modal-content"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

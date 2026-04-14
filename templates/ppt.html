@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>红芯平台 - 红芯备课（PPT生成）</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#E11D48',
+                        secondary: '#F97316',
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.3s ease-out',
+                        'slide-down': 'slideDown 0.3s ease-out',
+                        'pulse-soft': 'pulseSoft 2s infinite',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        },
+                        slideDown: {
+                            '0%': { opacity: '0', transform: 'translateY(-10px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        },
+                        pulseSoft: {
+                            '0%, 100%': { opacity: '1' },
+                            '50%': { opacity: '0.7' },
+                        },
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        :root {
+            --color-primary: #E11D48;
+            --color-secondary: #F97316;
+            --gradient-primary: linear-gradient(135deg, #E11D48, #F97316);
+            --gradient-text: linear-gradient(to right, #E11D48, #F97316);
+            --glass-bg: rgba(255, 255, 255, 0.75);
+            --glass-blur: blur(12px);
+            --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.08);
+            --shadow-input: 0 10px 40px rgba(0, 0, 0, 0.12);
+            --radius-sm: 0.5rem;
+            --radius-md: 1rem;
+            --radius-lg: 1.5rem;
+            --radius-xl: 2rem;
+        }
+        
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        
+        .glass { 
+            background: var(--glass-bg); 
+            backdrop-filter: var(--glass-blur); 
+            -webkit-backdrop-filter: var(--glass-blur); 
+            border: 1px solid rgba(255, 255, 255, 0.5); 
+        }
+        
+        .gradient-text { 
+            background: var(--gradient-text); 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent; 
+            background-clip: text;
+        }
+        
+        .gradient-bg { 
+            background: var(--gradient-primary); 
+        }
+        
+        body { 
+            background: linear-gradient(180deg, #F8FAFC 0%, #F1F5F9 100%); 
+            font-family: 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, sans-serif; 
+        }
+        
+        .input-glow:focus-within {
+            box-shadow: 0 0 0 4px rgba(225, 29, 72, 0.1), var(--shadow-input);
+        }
+        
+        .progress-bar-animated {
+            animation: progressPulse 1.5s infinite;
+        }
+        
+        @keyframes progressPulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+        
+        .mobile-menu-overlay {
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .mobile-menu-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+        
+        .mobile-sidebar {
+            transform: translateX(-100%);
+            transition: transform 0.3s ease;
+        }
+        
+        .mobile-sidebar.active {
+            transform: translateX(0);
+        }
+        
+        .quick-card {
+            transition: all 0.2s ease;
+        }
+        
+        .quick-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+        }
+        
+        .step-indicator {
+            transition: all 0.3s ease;
+        }
+        
+        .step-indicator.active {
+            background: var(--gradient-primary);
+            color: white;
+            box-shadow: 0 4px 15px rgba(225, 29, 72, 0.3);
+        }
+        
+        .step-indicator.completed {
+            background: #10B981;
+            color: white;
+        }
+        
+        .result-card {
+            animation: slideDown 0.3s ease-out;
+        }
+    </style>
+</head>
+<body class="h-screen flex overflow-hidden text-slate-800">
+    
+    <!-- 移动端侧边栏遮罩 -->
+    <div id="mobile-menu-overlay" class="mobile-menu-overlay fixed inset-0 bg-black/50 z-40 md:hidden" onclick="closeMobileMenu()" aria-hidden="true"></div>
+    
+    <!-- 移动端侧边栏 -->
+    <aside id="mobile-sidebar" class="mobile-sidebar fixed left-0 top-0 h-full w-72 bg-white/95 backdrop-blur-xl border-r border-white/40 z-50 flex flex-col md:hidden" role="navigation" aria-label="移动端导航">
+        <div class="p-5 flex items-center justify-between border-b border-slate-100">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-xl gradient-bg flex items-center justify-center shadow-lg shadow-rose-500/30">
+                    <i data-lucide="presentation" class="text-white w-5 h-5"></i>
+                </div>
+                <span class="text-lg font-bold gradient-text">红芯备课</span>
+            </div>
+            <button onclick="closeMobileMenu()" class="p-2 hover:bg-slate-100 rounded-lg transition-colors" aria-label="关闭菜单">
+                <i data-lucide="x" class="w-5 h-5 text-slate-500"></i>
+            </button>
+        </div>
+        <div class="p-4">
+            <a href="/" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-rose-300 bg-rose-50 text-rose-700 font-medium hover:bg-rose-100 transition-all">
+                <i data-lucide="message-square" class="w-5 h-5"></i>
+                红芯问答
+            </a>
+            <a href="/debate" class="mt-2 w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-sky-300 bg-sky-50 text-sky-700 font-medium hover:bg-sky-100 transition-all">
+                <i data-lucide="scale" class="w-5 h-5"></i>
+                红芯理辩（开发中）
+            </a>
+        </div>
+        <div class="flex-1 overflow-y-auto p-4">
+            <div class="text-xs font-semibold text-slate-400 mb-3 uppercase tracking-wider">生成历史</div>
+            <div id="mobile-ppt-history" class="space-y-2">
+                <div class="p-3 text-sm text-slate-400 text-center">暂无历史记录</div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- 桌面端侧边栏 -->
+    <aside class="w-72 bg-white/80 backdrop-blur-xl border-r border-white/40 hidden md:flex flex-col z-20" role="navigation" aria-label="主导航">
+        <div class="p-5 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-xl gradient-bg flex items-center justify-center shadow-lg shadow-rose-500/30">
+                <i data-lucide="presentation" class="text-white w-5 h-5"></i>
+            </div>
+            <div>
+                <span class="text-lg font-bold gradient-text">红芯备课</span>
+                <p class="text-xs text-slate-400">红芯平台 · PPT生成</p>
+            </div>
+        </div>
+
+        <div class="px-3 py-2">
+            <a href="/" class="w-full py-2.5 px-4 rounded-xl flex items-center gap-3 border border-dashed border-rose-300 bg-rose-50 text-rose-700 font-medium hover:bg-rose-100 hover:border-rose-400 transition-all group">
+                <i data-lucide="message-square" class="w-5 h-5 group-hover:-translate-x-1 transition-transform"></i>
+                红芯问答
+            </a>
+            <a href="/debate" class="mt-2 w-full py-2.5 px-4 rounded-xl flex items-center gap-3 border border-dashed border-sky-300 bg-sky-50 text-sky-700 font-medium hover:bg-sky-100 hover:border-sky-400 transition-all group">
+                <i data-lucide="scale" class="w-5 h-5 group-hover:-translate-x-1 transition-transform"></i>
+                红芯理辩（开发中）
+            </a>
+        </div>
+
+        <div class="flex-1 overflow-y-auto px-3 py-3">
+            <div class="text-xs font-semibold text-slate-400 px-3 mb-3 uppercase tracking-wider flex items-center gap-2">
+                <i data-lucide="history" class="w-3.5 h-3.5"></i>
+                生成历史
+            </div>
+            <div id="ppt-history" class="space-y-2">
+                <div class="p-3 text-sm text-slate-400 text-center">暂无历史记录</div>
+            </div>
+        </div>
+
+        <div class="p-3 border-t border-slate-100 bg-gradient-to-b from-white/50 to-slate-50/50">
+            <div class="flex items-center gap-3 p-2 rounded-xl bg-slate-50/50">
+                <div class="w-9 h-9 rounded-full bg-gradient-to-br from-rose-100 to-orange-100 flex items-center justify-center">
+                    <i data-lucide="user" class="w-5 h-5 text-rose-600"></i>
+                </div>
+                <div class="flex-1">
+                    <div class="text-sm font-semibold text-slate-700">同学</div>
+                    <div class="text-xs text-slate-500">计算机学院</div>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- 主内容区 -->
+    <main class="flex-1 flex flex-col w-full h-full overflow-hidden" role="main">
+        
+        <!-- 顶部需求输入区 -->
+        <header class="bg-white/90 backdrop-blur-xl border-b border-slate-200/50 px-6 py-4 z-10">
+            <div class="max-w-4xl mx-auto">
+                <!-- 步骤指示器 - 两步：生成大纲 | 预览下载 -->
+                <div class="flex items-center justify-center gap-2 mb-3">
+                    <div id="step-1" class="step-indicator active w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold bg-slate-200 text-slate-500">
+                        <i data-lucide="file-text" class="w-4 h-4"></i>
+                    </div>
+                    <div class="w-16 h-1 bg-slate-200 rounded-full overflow-hidden" id="line-1">
+                        <div id="progress-bar" class="h-full bg-gradient-to-r from-rose-500 to-orange-500 w-0 transition-all duration-500"></div>
+                    </div>
+                    <div id="step-2" class="step-indicator w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold bg-slate-200 text-slate-500">
+                        <i data-lucide="download" class="w-4 h-4"></i>
+                    </div>
+                </div>
+                <div class="flex items-center justify-between max-w-[200px] mx-auto mb-3 text-xs text-slate-500">
+                    <span id="step-text-1" class="font-medium text-rose-600">生成大纲</span>
+                    <span id="step-text-2">预览下载</span>
+                </div>
+                
+                <!-- 操作引导提示 -->
+                <div id="guide-hint" class="bg-gradient-to-r from-blue-50 to-indigo-50 border border-blue-200 rounded-xl px-4 py-2.5 mb-4 flex items-center gap-3">
+                    <div class="w-6 h-6 rounded-full bg-blue-500 flex items-center justify-center flex-shrink-0">
+                        <i data-lucide="info" class="w-3.5 h-3.5 text-white"></i>
+                    </div>
+                    <div class="flex-1">
+                        <p class="text-sm text-slate-700" id="guide-text">在下方输入框描述您的备课主题，红芯备课将为你生成可编辑大纲与PPT预览</p>
+                    </div>
+                    <button onclick="dismissGuide()" class="text-slate-400 hover:text-slate-600 p-1">
+                        <i data-lucide="x" class="w-4 h-4"></i>
+                    </button>
+                </div>
+                
+                <!-- 输入区域 -->
+                <div class="flex items-center gap-3">
+                    <button onclick="openMobileMenu()" class="md:hidden p-2.5 bg-white/90 rounded-xl shadow-sm hover:bg-white transition-colors" aria-label="打开菜单">
+                        <i data-lucide="menu" class="w-5 h-5 text-slate-600"></i>
+                    </button>
+                    
+                    <div class="flex-1 glass rounded-2xl shadow-lg shadow-slate-200/40 p-1.5 flex items-end gap-2 input-glow">
+                        <textarea 
+                            id="user-input" 
+                            rows="1" 
+                            placeholder="描述您的备课主题，例如：帮我生成一份关于文化自信的课堂汇报 PPT..." 
+                            class="w-full bg-transparent border-none text-slate-700 placeholder-slate-400 focus:ring-0 resize-none py-3 px-4 max-h-24 min-h-[48px] outline-none text-base"
+                            oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px'"
+                            aria-label="输入PPT需求"
+                        ></textarea>
+                        <div class="flex items-center gap-1.5 pb-1 pr-1.5">
+                            <button onclick="handleGenerate()" id="generate-btn" class="p-2.5 rounded-xl shadow-lg gradient-bg text-white hover:shadow-rose-500/30 transform active:scale-95 transition-all" aria-label="生成PPT">
+                                <i data-lucide="sparkles" class="w-5 h-5"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- 内容区域 -->
+        <div class="flex-1 overflow-y-auto px-6 py-6 scroll-smooth">
+            <div class="max-w-4xl mx-auto">
+                
+                <!-- 欢迎界面 -->
+                <div id="welcome-screen" class="animate-fade-in">
+                    <!-- 红芯功能入口 -->
+                    <div class="mb-6">
+                        <h3 class="text-sm font-semibold text-slate-500 mb-3 flex items-center gap-2">
+                            <i data-lucide="layout-grid" class="w-4 h-4 text-rose-500"></i>
+                            红芯功能入口
+                        </h3>
+                        <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+                            <a href="/" class="quick-card text-left p-4 rounded-xl border border-slate-200 bg-white hover:border-rose-200 hover:bg-rose-50/50 transition-all block">
+                                <div class="text-xs inline-flex px-2 py-1 rounded-full bg-rose-100 text-rose-600 mb-3">红芯问答</div>
+                                <div class="font-medium text-slate-700">课程问答与理论解析</div>
+                                <div class="text-xs text-slate-400 mt-1">适合快速查概念、找依据、补知识点</div>
+                            </a>
+                            <div class="quick-card text-left p-4 rounded-xl border border-orange-200 bg-orange-50/70 transition-all">
+                                <div class="text-xs inline-flex px-2 py-1 rounded-full bg-orange-100 text-orange-600 mb-3">红芯备课（当前）</div>
+                                <div class="font-medium text-slate-700">从主题到PPT一站式生成</div>
+                                <div class="text-xs text-slate-400 mt-1">适合课堂汇报、课程展示与讲稿辅助</div>
+                            </div>
+                            <a href="/debate" class="quick-card text-left p-4 rounded-xl border border-slate-200 bg-white hover:border-sky-200 hover:bg-sky-50/50 transition-all block">
+                                <div class="text-xs inline-flex px-2 py-1 rounded-full bg-sky-100 text-sky-600 mb-3">红芯理辩（开发中）</div>
+                                <div class="font-medium text-slate-700">观点交锋与裁判评议</div>
+                                <div class="text-xs text-slate-400 mt-1">适合训练表达、反驳与议题辨析能力</div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- 快速开始 -->
+                    <div class="mb-6">
+                        <h3 class="text-sm font-semibold text-slate-500 mb-3 flex items-center gap-2">
+                            <i data-lucide="zap" class="w-4 h-4 text-amber-500"></i>
+                            红芯备课快速开始
+                        </h3>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                            <button onclick="quickStart('帮我做一个关于文化自信的 PPT')" class="quick-card text-left p-4 rounded-xl border border-slate-200 bg-white hover:border-rose-200 hover:bg-rose-50/50 transition-all">
+                                <div class="w-10 h-10 rounded-xl bg-rose-100 flex items-center justify-center mb-3">
+                                    <i data-lucide="globe" class="w-5 h-5 text-rose-600"></i>
+                                </div>
+                                <div class="font-medium text-slate-700">文化自信</div>
+                                <div class="text-xs text-slate-400 mt-1">深入了解文化内涵</div>
+                            </button>
+                            <button onclick="quickStart('帮我做一个关于新质生产力的 PPT')" class="quick-card text-left p-4 rounded-xl border border-slate-200 bg-white hover:border-rose-200 hover:bg-rose-50/50 transition-all">
+                                <div class="w-10 h-10 rounded-xl bg-orange-100 flex items-center justify-center mb-3">
+                                    <i data-lucide="lightbulb" class="w-5 h-5 text-orange-600"></i>
+                                </div>
+                                <div class="font-medium text-slate-700">新质生产力</div>
+                                <div class="text-xs text-slate-400 mt-1">探索发展新动能</div>
+                            </button>
+                            <button onclick="quickStart('帮我做一个关于改革开放的 PPT')" class="quick-card text-left p-4 rounded-xl border border-slate-200 bg-white hover:border-rose-200 hover:bg-rose-50/50 transition-all">
+                                <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center mb-3">
+                                    <i data-lucide="trending-up" class="w-5 h-5 text-blue-600"></i>
+                                </div>
+                                <div class="font-medium text-slate-700">改革开放</div>
+                                <div class="text-xs text-slate-400 mt-1">回顾伟大历程</div>
+                            </button>
+                            <button onclick="quickStart('帮我做一个关于生态文明建设的 PPT')" class="quick-card text-left p-4 rounded-xl border border-slate-200 bg-white hover:border-rose-200 hover:bg-rose-50/50 transition-all">
+                                <div class="w-10 h-10 rounded-xl bg-green-100 flex items-center justify-center mb-3">
+                                    <i data-lucide="leaf" class="w-5 h-5 text-green-600"></i>
+                                </div>
+                                <div class="font-medium text-slate-700">生态文明</div>
+                                <div class="text-xs text-slate-400 mt-1">建设美丽中国</div>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <!-- 使用提示 -->
+                    <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-4 border border-blue-100">
+                        <div class="flex items-start gap-3">
+                            <div class="w-8 h-8 rounded-lg bg-blue-500 flex items-center justify-center flex-shrink-0 mt-0.5">
+                                <i data-lucide="lightbulb" class="w-4 h-4 text-white"></i>
+                            </div>
+                            <div>
+                                <h3 class="text-sm font-semibold text-slate-700 mb-1">红芯备课使用提示</h3>
+                                <p class="text-xs text-slate-500 leading-relaxed">
+                                    1. 在上方输入框描述您的PPT需求<br>
+                                    2. AI将为您生成大纲，您可以编辑调整<br>
+                                    3. 在预览页面选择喜欢的主题风格<br>
+                                    4. 确认后生成并下载PPT
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 进度区域 -->
+                <div id="progress-section" class="hidden result-card">
+                    <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
+                        <div class="flex items-center gap-4 mb-5">
+                            <div class="w-12 h-12 rounded-xl gradient-bg flex items-center justify-center shadow-lg shadow-rose-500/20">
+                                <i data-lucide="loader-2" class="w-6 h-6 text-white animate-spin"></i>
+                            </div>
+                            <div class="flex-1">
+                                <div class="font-semibold text-slate-800" id="progress-text">正在生成...</div>
+                                <div class="text-sm text-slate-500 mt-1">请稍候，AI正在为您精心设计</div>
+                            </div>
+                            <div class="text-sm font-semibold text-rose-600" id="progress-percent">0%</div>
+                        </div>
+                        <!-- 三步进度条 -->
+                        <div class="relative">
+                            <!-- 背景线 -->
+                            <div class="absolute top-1/2 left-0 right-0 h-1 bg-slate-200 rounded-full -translate-y-1/2"></div>
+                            <!-- 进度线（只到中间节点） -->
+                            <div id="progress-bar-line" class="absolute top-1/2 left-0 h-1 bg-gradient-to-r from-rose-500 to-orange-500 rounded-full -translate-y-1/2 transition-all duration-500" style="width: 0%"></div>
+                            <!-- 三个节点 -->
+                            <div class="relative flex justify-between items-center">
+                                <!-- 节点1：解析需求 -->
+                                <div class="flex flex-col items-center gap-2">
+                                    <div id="progress-node-1" class="w-4 h-4 rounded-full bg-rose-500 border-2 border-white shadow-md transition-all duration-300"></div>
+                                    <span class="text-xs text-slate-500 font-medium">解析需求</span>
+                                </div>
+                                <!-- 节点2：生成大纲 -->
+                                <div class="flex flex-col items-center gap-2">
+                                    <div id="progress-node-2" class="w-4 h-4 rounded-full bg-slate-300 border-2 border-white shadow-md transition-all duration-300"></div>
+                                    <span class="text-xs text-slate-500 font-medium">生成大纲</span>
+                                </div>
+                                <!-- 节点3：制作幻灯片 -->
+                                <div class="flex flex-col items-center gap-2">
+                                    <div id="progress-node-3" class="w-4 h-4 rounded-full bg-slate-300 border-2 border-white shadow-md transition-all duration-300"></div>
+                                    <span class="text-xs text-slate-400 font-medium">制作幻灯片</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 大纲编辑区域 -->
+                <div id="outline-section" class="hidden result-card">
+                    <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
+                        <div class="flex items-center justify-between mb-5">
+                            <div class="flex items-center gap-3">
+                                <div class="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center">
+                                    <i data-lucide="list" class="w-5 h-5 text-blue-600"></i>
+                                </div>
+                                <div>
+                                    <div class="font-semibold text-slate-800">PPT 大纲</div>
+                                    <div class="text-xs text-slate-500">点击编辑可调整内容</div>
+                                </div>
+                            </div>
+                            <button onclick="editOutline()" class="text-sm text-rose-600 hover:text-rose-700 flex items-center gap-1.5 px-4 py-2 rounded-xl hover:bg-rose-50 transition-colors font-medium">
+                                <i data-lucide="edit-3" class="w-4 h-4"></i>
+                                编辑大纲
+                            </button>
+                        </div>
+                        <div id="outline-content" class="space-y-3"></div>
+                        
+                        <div class="mt-6 flex gap-3">
+                            <button onclick="generatePreview()" class="flex-1 py-3 px-4 gradient-bg text-white rounded-xl font-medium hover:shadow-lg transition-all flex items-center justify-center gap-2">
+                                <i data-lucide="eye" class="w-5 h-5"></i>
+                                生成预览
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 预览区域 -->
+                <div id="preview-section" class="hidden result-card">
+                    <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
+                        <div class="flex items-center justify-between mb-5">
+                            <div class="flex items-center gap-3">
+                                <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">
+                                    <i data-lucide="layout" class="w-5 h-5 text-purple-600"></i>
+                                </div>
+                                <div>
+                                    <div class="font-semibold text-slate-800">幻灯片预览</div>
+                                    <div class="text-xs text-slate-500">点击左侧列表或使用箭头切换页面</div>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <button onclick="prevSlide()" id="prev-slide-btn" class="p-2 rounded-lg border border-slate-200 hover:bg-slate-50 disabled:opacity-50" disabled>
+                                    <i data-lucide="chevron-left" class="w-5 h-5"></i>
+                                </button>
+                                <span class="text-sm text-slate-600 min-w-[60px] text-center" id="slide-counter">1 / 10</span>
+                                <button onclick="nextSlide()" id="next-slide-btn" class="p-2 rounded-lg border border-slate-200 hover:bg-slate-50">
+                                    <i data-lucide="chevron-right" class="w-5 h-5"></i>
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <!-- 主题选择 -->
+                        <div class="mb-4 p-4 bg-slate-50 rounded-xl border border-slate-200">
+                            <div class="flex items-center gap-2 mb-3">
+                                <i data-lucide="palette" class="w-4 h-4 text-purple-500"></i>
+                                <span class="text-sm font-semibold text-slate-600">选择主题风格</span>
+                            </div>
+                            <div class="grid grid-cols-6 gap-2 mb-4" id="theme-selector">
+                                <button onclick="selectTheme('party_red')" data-theme="party_red" class="theme-btn p-2 rounded-lg border-2 border-rose-500 bg-rose-50 transition-all">
+                                    <div class="w-full h-6 rounded" style="background: linear-gradient(135deg, #C41E3A, #FFD700)"></div>
+                                    <div class="text-xs mt-1 text-slate-700">党建红</div>
+                                </button>
+                                <button onclick="selectTheme('tech_blue')" data-theme="tech_blue" class="theme-btn p-2 rounded-lg border-2 border-slate-200 hover:border-slate-400 transition-all">
+                                    <div class="w-full h-6 rounded" style="background: linear-gradient(135deg, #1E90FF, #00BFFF)"></div>
+                                    <div class="text-xs mt-1 text-slate-700">科技蓝</div>
+                                </button>
+                                <button onclick="selectTheme('minimal_white')" data-theme="minimal_white" class="theme-btn p-2 rounded-lg border-2 border-slate-200 hover:border-slate-400 transition-all">
+                                    <div class="w-full h-6 rounded" style="background: linear-gradient(135deg, #FFFFFF, #F1F3F4)"></div>
+                                    <div class="text-xs mt-1 text-slate-700">简约白</div>
+                                </button>
+                                <button onclick="selectTheme('academic_green')" data-theme="academic_green" class="theme-btn p-2 rounded-lg border-2 border-slate-200 hover:border-slate-400 transition-all">
+                                    <div class="w-full h-6 rounded" style="background: linear-gradient(135deg, #27AE60, #2ECC71)"></div>
+                                    <div class="text-xs mt-1 text-slate-700">学术绿</div>
+                                </button>
+                                <button onclick="selectTheme('elegant_purple')" data-theme="elegant_purple" class="theme-btn p-2 rounded-lg border-2 border-slate-200 hover:border-slate-400 transition-all">
+                                    <div class="w-full h-6 rounded" style="background: linear-gradient(135deg, #8E44AD, #9B59B6)"></div>
+                                    <div class="text-xs mt-1 text-slate-700">典雅紫</div>
+                                </button>
+                                <button onclick="selectTheme('warm_orange')" data-theme="warm_orange" class="theme-btn p-2 rounded-lg border-2 border-slate-200 hover:border-slate-400 transition-all">
+                                    <div class="w-full h-6 rounded" style="background: linear-gradient(135deg, #E67E22, #F39C12)"></div>
+                                    <div class="text-xs mt-1 text-slate-700">活力橙</div>
+                                </button>
+                            </div>
+                            <button onclick="startPreviewGeneration()" id="start-preview-btn" class="w-full py-3 px-4 gradient-bg text-white rounded-xl font-medium hover:shadow-lg transition-all flex items-center justify-center gap-2">
+                                <i data-lucide="play" class="w-5 h-5"></i>
+                                开始生成预览
+                            </button>
+                        </div>
+
+                        <!-- 预览内容区域（初始隐藏） -->
+                        <div id="preview-content-area" class="hidden">
+                            <div class="grid grid-cols-4 gap-4">
+                                <div class="col-span-1 bg-slate-50 rounded-xl p-3 max-h-[500px] overflow-y-auto">
+                                    <div class="text-xs font-semibold text-slate-500 mb-2">幻灯片列表</div>
+                                    <div class="space-y-1" id="slides-list"></div>
+                                </div>
+                                
+                                <div class="col-span-3">
+                                    <!-- 预览提示条 -->
+                                    <div class="preview-notice mb-3 flex items-center gap-2 px-3 py-2 bg-blue-50 border border-blue-200 rounded-lg">
+                                        <i data-lucide="info" class="w-4 h-4 text-blue-500 flex-shrink-0"></i>
+                                        <span class="text-xs text-blue-700">当前为自适应缩放预览，实际PPT将以 1920×1080 高清分辨率生成</span>
+                                    </div>
+                                    <div class="bg-slate-100 rounded-xl overflow-hidden border border-slate-200 p-4" id="preview-area">
+                                        <div id="preview-container" class="w-full" style="min-height: 400px; display: flex; align-items: center; justify-content: center;">
+                                            <!-- iframe will be inserted here -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="mt-6 flex gap-3">
+                                <button id="export-ppt-btn" onclick="confirmAndExportPPT()" class="flex-1 py-3 px-4 gradient-bg text-white rounded-xl font-medium hover:shadow-lg transition-all flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:shadow-none">
+                                    <i data-lucide="download" class="w-5 h-5"></i>
+                                    下载PPT
+                                </button>
+                                <button onclick="regeneratePreview()" class="py-3 px-4 border border-slate-300 text-slate-700 rounded-xl hover:bg-slate-50 transition-colors flex items-center gap-2">
+                                    <i data-lucide="refresh-cw" class="w-5 h-5"></i>
+                                    换主题
+                                </button>
+                                <button onclick="backToOutline()" class="py-3 px-4 border border-slate-300 text-slate-700 rounded-xl hover:bg-slate-50 transition-colors flex items-center gap-2">
+                                    <i data-lucide="arrow-left" class="w-5 h-5"></i>
+                                    返回
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 结果区域 -->
+                <div id="result-section" class="hidden result-card">
+                    <div class="bg-gradient-to-br from-rose-50 to-orange-50 rounded-2xl p-6 border border-rose-100">
+                        <div class="flex items-center gap-3 mb-5">
+                            <div class="w-10 h-10 rounded-xl bg-green-500 flex items-center justify-center">
+                                <i data-lucide="check" class="w-5 h-5 text-white"></i>
+                            </div>
+                            <div class="font-semibold text-slate-800 text-lg">生成完成</div>
+                        </div>
+                        <div id="result-info" class="space-y-4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- 大纲编辑模态框 -->
+    <div id="outline-modal" class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4" role="dialog" aria-modal="true" aria-labelledby="outline-modal-title">
+        <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[85vh] overflow-hidden shadow-2xl animate-fade-in">
+            <div class="sticky top-0 bg-white border-b border-slate-100 p-4 flex items-center justify-between">
+                <h3 id="outline-modal-title" class="text-lg font-bold text-slate-800">编辑 PPT 大纲</h3>
+                <button onclick="closeOutlineModal()" class="p-2 hover:bg-slate-100 rounded-full transition-colors" aria-label="关闭">
+                    <i data-lucide="x" class="w-5 h-5 text-slate-500"></i>
+                </button>
+            </div>
+            <div id="outline-editor" class="p-5 space-y-4 overflow-y-auto max-h-[60vh]"></div>
+            <div class="sticky bottom-0 bg-white border-t border-slate-100 p-4 flex justify-end gap-3">
+                <button onclick="closeOutlineModal()" class="px-5 py-2.5 border border-slate-300 text-slate-700 rounded-xl hover:bg-slate-50 transition-colors font-medium">
+                    取消
+                </button>
+                <button onclick="confirmOutline()" class="px-5 py-2.5 gradient-bg text-white rounded-xl hover:shadow-lg transition-all font-medium flex items-center gap-2">
+                    <i data-lucide="check" class="w-4 h-4"></i>
+                    确认生成
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/ppt.js"></script>
+    
+    <script>
+        function openMobileMenu() {
+            document.getElementById('mobile-menu-overlay').classList.add('active');
+            document.getElementById('mobile-sidebar').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeMobileMenu() {
+            document.getElementById('mobile-menu-overlay').classList.remove('active');
+            document.getElementById('mobile-sidebar').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+    </script>
+</body>
+</html>

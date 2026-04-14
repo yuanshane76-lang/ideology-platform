@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>红芯平台 - 红芯理辩（开发中）</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { primary: '#E11D48', secondary: '#F97316' }
+                }
+            }
+        }
+    </script>
+    <style>
+        .glass { background: rgba(255,255,255,.75); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,.5); }
+        .gradient-bg { background: linear-gradient(135deg,#E11D48,#F97316); }
+        .gradient-text { background: linear-gradient(to right,#E11D48,#F97316); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+        body { background: linear-gradient(180deg,#F8FAFC 0%,#F1F5F9 100%); font-family: 'PingFang SC','Microsoft YaHei',sans-serif; }
+    </style>
+</head>
+<body class="h-screen flex overflow-hidden text-slate-800">
+    <aside class="w-72 bg-white/80 backdrop-blur-xl border-r border-white/40 hidden md:flex flex-col z-20">
+        <div class="p-6 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-xl gradient-bg flex items-center justify-center shadow-lg shadow-rose-500/30">
+                <i data-lucide="book-open" class="text-white w-6 h-6"></i>
+            </div>
+            <span class="text-xl font-bold gradient-text">红芯平台</span>
+        </div>
+
+        <div class="px-4 py-2 space-y-2">
+            <a href="/" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-rose-300 bg-rose-50 text-rose-700 font-medium hover:bg-rose-100 transition-all">
+                <i data-lucide="message-square" class="w-5 h-5"></i>
+                红芯问答
+            </a>
+            <a href="/debate" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-sky-300 bg-sky-50 text-sky-700 font-medium">
+                <i data-lucide="scale" class="w-5 h-5"></i>
+                红芯理辩（开发中）
+            </a>
+            <a href="/ppt" class="w-full py-3 px-4 rounded-xl flex items-center gap-3 border border-dashed border-orange-300 bg-orange-50 text-orange-700 font-medium hover:bg-orange-100 transition-all">
+                <i data-lucide="presentation" class="w-5 h-5"></i>
+                红芯备课（PPT生成）
+            </a>
+        </div>
+    </aside>
+
+    <main class="flex-1 flex flex-col w-full h-full overflow-hidden">
+        <header class="px-6 py-4 bg-white/70 backdrop-blur border-b border-white/50 flex items-center justify-between">
+            <h1 class="text-xl font-bold text-slate-800">红芯理辩（开发中）</h1>
+            <span id="debate-status" class="text-xs px-3 py-1 rounded-full bg-slate-100 text-slate-600">待开始</span>
+        </header>
+
+        <div class="flex-1 grid grid-cols-1 lg:grid-cols-[340px_1fr] gap-4 p-4 overflow-hidden">
+            <section class="glass rounded-2xl p-4 overflow-y-auto">
+                <h2 class="font-semibold mb-3">红芯理辩配置</h2>
+                <div class="mb-4 p-3 rounded-xl border border-sky-100 bg-sky-50/70">
+                    <div class="text-xs text-sky-700 mb-2">红芯平台功能入口</div>
+                    <div class="grid grid-cols-1 gap-2">
+                        <a href="/" class="px-3 py-2 rounded-lg bg-white border border-rose-100 text-rose-700 text-sm font-medium">红芯问答：课程知识问答</a>
+                        <a href="/ppt" class="px-3 py-2 rounded-lg bg-white border border-orange-100 text-orange-700 text-sm font-medium">红芯备课：一键生成PPT</a>
+                        <div class="px-3 py-2 rounded-lg bg-sky-100 border border-sky-200 text-sky-800 text-sm font-semibold">红芯理辩：正反交锋训练（当前页）</div>
+                    </div>
+                </div>
+                <div class="space-y-3">
+                    <input id="topic-title" class="w-full rounded-xl border border-slate-200 px-3 py-2" placeholder="输入你想交锋的问题（必填）" />
+                    <textarea id="topic-description" class="w-full rounded-xl border border-slate-200 px-3 py-2 h-24" placeholder="补充背景（可选）：例如你最关心的争议点"></textarea>
+                    <div class="text-xs text-slate-500 px-1">交锋模式：固定为「正方 vs 反方」，最多10轮</div>
+                    <select id="rounds" class="w-full rounded-xl border border-slate-200 px-3 py-2">
+                        <option value="1">1 轮</option>
+                        <option value="2">2 轮</option>
+                        <option value="3" selected>3 轮（推荐）</option>
+                        <option value="4">4 轮</option>
+                        <option value="5">5 轮</option>
+                        <option value="6">6 轮</option>
+                        <option value="7">7 轮</option>
+                        <option value="8">8 轮</option>
+                        <option value="9">9 轮</option>
+                        <option value="10">10 轮（最大）</option>
+                    </select>
+                    <div class="flex gap-2">
+                        <button id="start-btn" class="flex-1 py-2.5 rounded-xl gradient-bg text-white font-medium">开始交锋</button>
+                        <button id="next-btn" class="hidden flex-1 py-2.5 rounded-xl bg-emerald-500 text-white font-medium">下一轮</button>
+                        <button id="judge-btn" class="hidden flex-1 py-2.5 rounded-xl bg-amber-500 text-white font-medium">请求裁判</button>
+                        <button id="stop-btn" class="hidden px-4 py-2.5 rounded-xl bg-slate-900 text-white">停止</button>
+                        <button id="reset-btn" class="px-4 py-2.5 rounded-xl bg-white border border-slate-200 text-slate-700 hover:bg-slate-50">重置</button>
+                    </div>
+                </div>
+
+                <h3 class="font-semibold mt-6 mb-2">热门交锋议题</h3>
+                <div id="topics-list" class="space-y-2"></div>
+            </section>
+
+            <section class="glass rounded-2xl p-4 flex flex-col overflow-hidden">
+                <div id="notice" class="hidden mb-3 text-sm px-3 py-2 rounded-xl"></div>
+                <div id="placeholder" class="h-full flex items-center justify-center text-slate-400">选择议题后，开始一场“真理越辩越明”的交锋</div>
+                <div id="timeline" class="hidden h-full overflow-y-auto space-y-4 pr-1"></div>
+            </section>
+        </div>
+    </main>
+
+    <script src="/static/debate.js"></script>
+</body>
+</html>
