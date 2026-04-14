@@ -19,7 +19,15 @@ topic_agent = TopicAnalysisAgent()
 # 页面路由
 @app.route('/')
 def index():
+    return render_template('home.html')
+
+@app.route('/old')
+def old_index():
     return render_template('index.html')
+
+@app.route('/home')
+def home_page():
+    return render_template('home.html')
 
 @app.route('/ppt')
 def ppt_page():

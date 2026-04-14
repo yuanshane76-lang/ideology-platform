@@ -88,13 +88,19 @@ def generator_agent(state: RAGState) -> Dict:
         
     else:
         # 原有的思政模式提示词
+        # 为 AI 提供带编号的材料列表，方便引用时标注
+        theory_list = "\n".join([f"[{i+1}] 《{d.get('source','理论文献')}》{f' - {d.get('chapter','')}' if d.get('chapter') else ''}" for i, d in enumerate(theory_docs)]) if theory_docs else ""
+        politics_list = "\n".join([f"[{len(theory_docs)+i+1}] {d.get('title','时政新闻')} ({d.get('date','')})" for i, d in enumerate(politics_docs)]) if politics_docs else ""
+        
         user_prompt_text = f"""请基于以下材料回答学生问题。
 
-【理论依据】:
+【理论依据】({len(theory_docs)}条):
 {t_text}
+{theory_list}
 
-【时政案例】:
+【时政案例】({len(politics_docs)}条):
 {m_text}
+{politics_list}
 
 {context_text}
 
@@ -103,7 +109,7 @@ def generator_agent(state: RAGState) -> Dict:
 要求：
 1. 以学生为中心，先理解学生的困惑点
 2. 用生动、亲切的语言讲解理论，适当使用比喻和故事
-3. 必须引用【理论依据】中的核心观点，但避免机械引用
+3. **引用时必须明确标注来源**：如"根据《毛泽东思想和中国特色社会主义理论体系概论》..."、"人民网报道指出..."、"教材中提到..."，禁止模糊表述为"材料指出"或"根据材料"
 4. 结合【时政案例】进行分析，展示理论的实际应用
 5. 政治立场坚定，但表达方式要有温度、有共鸣
 6. 结尾可以给予鼓励或提出启发式问题
