@@ -1,96 +1,229 @@
-# Ideology-RAG 思政教育智能问答系统
+# Ideology-Platform 🎓
 
-基于 LangGraph 的多智能体 RAG（检索增强生成）架构，专注于思政教育领域的智能问答平台。涵盖马克思主义理论、思想道德与法治、中国近现代史纲要、毛泽东思想和中国特色社会主义理论体系概论、习近平新时代中国特色社会主义思想概论等多门思政课程内容。
+<div align="center">
 
-## 🌟 项目特点
+**基于 LangGraph 多智能体架构的思政教育智能化平台**
 
-- **多智能体协作架构**：采用 Supervisor 模式协调多个专业智能体
-- **双库检索系统**：理论库 + 时政库，提供全面的知识支持
-- **流式响应**：实时显示思考过程和生成内容
-- **对话历史管理**：支持多轮对话和会话管理
-- **智能标题生成**：自动为对话生成简洁标题
-- **引用文献溯源**：自动提取、清理、高亮引用文献，支持 docx 下载
-- **PPT 智能生成**：基于 HTML 转 PPT 技术，支持多种主题风格
-- **高性能并发**：优化后总耗时从 15s 降至 5-6s，首字延迟 0.5s
-- **红芯理辩**：AI驱动的哲学辩论训练，通过正反交锋帮助用户理解马克思主义哲学原理
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)](https://flask.palletsprojects.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-0.2-orange.svg)](https://github.com/langchain-ai/langgraph)
+[![Qdrant](https://img.shields.io/badge/Qdrant-1.9-red.svg)](https://qdrant.tech/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
+
+---
+
+## 📖 项目简介
+
+**Ideology-Platform** 是一个面向高校思政教育领域的智能化教学辅助平台，融合了检索增强生成（RAG）、多智能体协作、流式推理等前沿 AI 技术，为思政课程学习提供智能问答、PPT 自动生成、哲学辩论训练三大核心功能。
+
+本平台覆盖《马克思主义基本原理》、《思想道德与法治》、《中国近现代史纲要》、《毛泽东思想和中国特色社会主义理论体系概论》、《习近平新时代中国特色社会主义思想概论》等核心思政课程内容。
+
+---
 
 ## 🏗️ 系统架构
 
-### 问答系统架构
+### 整体架构图
 
 ```
-用户提问
-    ↓
-RouterAgent（路由分析）
-    ↓
-MemoryAgent（记忆检索）→ TheoryRetriever（理论检索）
-                              ↓
-                        PoliticsRetriever（时政检索）
-                              ↓
-                        [阶段一] ReferenceComposer（去重+清理）
-                              ↓
-                        GeneratorAgent（答案生成）
-                              ↓
-                        ValidatorAgent（答案验证）
-                              ↓
-                        [阶段二] 高亮识别（后台异步）
-                              ↓
-                        用户收到回答 + 引用文献
+┌─────────────────────────────────────────────────────────────────────────┐
+│                           Frontend Layer                                 │
+│                   (HTML + Tailwind CSS + Vanilla JS)                     │
+└─────────────────────────────┬───────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         API Gateway (Flask)                              │
+│                    REST API + SSE Streaming                              │
+└─────────────────────────────┬───────────────────────────────────────────┘
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
+│   QA Service    │ │   PPT Service   │ │ Debate Service  │
+│  (RAG Pipeline) │ │ (HTML-to-PPTX)  │ │ (Multi-Round)   │
+└────────┬────────┘ └────────┬────────┘ └────────┬────────┘
+         │                   │                   │
+         ▼                   ▼                   ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                     LangGraph Multi-Agent System                         │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐       │
+│  │  Router  │ │  Memory  │ │ Retriever│ │Generator │ │Validator │       │
+│  │  Agent   │→│  Agent   │→│  Agents  │→│  Agent   │→│  Agent   │       │
+│  └──────────┘ └──────────┘ └──────────┘ └──────────┘ └──────────┘       │
+└─────────────────────────────┬───────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                      Knowledge Layer                                     │
+│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐                │
+│  │  Theory DB    │  │  Politics DB  │  │  Debate DB    │                │
+│  │  (Qdrant)     │  │  (Qdrant)     │  │  (Qdrant)     │                │
+│  └───────────────┘  └───────────────┘  └───────────────┘                │
+└─────────────────────────────────────────────────────────────────────────┘
+                              │
+                              ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                     LLM Layer (DashScope)                                │
+│         Qwen-Turbo (推理)  |  Qwen-Flash (快速任务)  |  Text-Embedding-V4 │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-### PPT 生成架构
+---
 
-```
-用户需求描述
-    ↓
-大纲生成器（AI生成灵活章节标题）
-    ↓
-HTML 幻灯片生成（AI + 主题系统）
-    ↓
-Playwright 截图
-    ↓
-python-pptx 组装
-    ↓
-用户下载 PPT
-```
+## 🔧 核心技术框架
 
-### 红芯理辩架构
+### 1. 多智能体协作系统 (LangGraph)
 
-```
-用户输入辩题
-    ↓
-正方立论（基于马克思主义哲学原理）
-    ↓
-反方反驳（辩证分析，指出逻辑漏洞）
-    ↓
-（多轮交锋）
-    ↓
-裁判总结（综合评议 + 哲学启示）
-    ↓
-用户获得：辩论记录 + 思维训练 + 原理理解
+采用 **Supervisor 模式** 构建多智能体协作网络，实现复杂任务的分解与协同处理：
+
+| 智能体 | 职责 | 技术实现 |
+|--------|------|----------|
+| **RouterAgent** | 意图识别与路由分发 | LLM-based Classification |
+| **MemoryAgent** | 对话上下文检索与管理 | Vector Similarity Search |
+| **TheoryRetriever** | 理论知识库检索 | Hybrid RAG (Dense + Sparse) |
+| **PoliticsRetriever** | 时政案例库检索 | Temporal-aware Retrieval |
+| **GeneratorAgent** | 答案生成与流式输出 | Streaming Generation |
+| **ValidatorAgent** | 答案质量校验 | LLM-as-Judge |
+
+```python
+# 工作流状态机定义
+class AgentState(TypedDict):
+    query: str
+    intent: str
+    context: List[Document]
+    references: List[Reference]
+    answer: str
+    validation: ValidationResult
 ```
 
-**理辩特点**：
-- **角色设定**：红芯正方（坚定清晰）、红芯反方（犀利辩证）、红芯裁判（中立剖析）
-- **哲学深度**：辩论内容融入马克思主义哲学原理（实践论、矛盾论、唯物史观等）
-- **教育目标**：通过"真理越辩越明"帮助用户理解哲学方法论
-- **交互体验**：流式输出，实时显示交锋过程
+### 2. 检索增强生成 (RAG)
 
-### 核心组件
+#### 双库检索架构
 
-| 组件 | 功能 |
-|------|------|
-| **RouterAgent** | 分析用户意图，确定检索策略 |
-| **MemoryAgent** | 检索对话历史，维护上下文 |
-| **TheoryRetriever** | 从理论库检索相关知识点 |
-| **PoliticsRetriever** | 从时政库检索最新案例 |
-| **GeneratorAgent** | 生成完整、准确的回答 |
-| **ValidatorAgent** | 验证回答质量，确保准确性 |
-| **ReferenceComposer** | 去重、清理、高亮引用文献 |
-| **OutlineGenerator** | PPT 大纲生成 |
-| **HTMLGenerator** | HTML 幻灯片生成 |
-| **HTMLtoPPT** | HTML 转 PPT |
-| **DebateService** | 红芯理辩核心服务（正方/反方/裁判） |
+```
+┌─────────────────┐     ┌─────────────────┐
+│   Theory DB     │     │   Politics DB   │
+│  (教材知识库)    │     │  (时政案例库)   │
+│                 │     │                 │
+│ • 马克思主义原理 │     │ • 时事新闻      │
+│ • 思想道德与法治 │     │ • 政策解读      │
+│ • 毛泽东思想概论 │     │ • 社会热点      │
+│ • 中国近现代史  │     │ • 典型案例      │
+│ • 新时代思想    │     │                 │
+└────────┬────────┘     └────────┬────────┘
+         │                       │
+         └───────────┬───────────┘
+                     ▼
+         ┌─────────────────────┐
+         │  Reference Composer │
+         │  • 向量去重         │
+         │  • 内容清洗         │
+         │  • 引用高亮         │
+         └─────────────────────┘
+```
+
+#### 向量检索配置
+
+```python
+# Qdrant 向量数据库配置
+COLLECTION_CONFIG = {
+    "vectors": {
+        "size": 1024,           # text-embedding-v4 维度
+        "distance": "Cosine"    # 余弦相似度
+    },
+    "optimizers_config": {
+        "indexing_threshold": 10000
+    }
+}
+
+# 检索策略
+RETRIEVAL_STRATEGY = {
+    "top_k": 8,
+    "score_threshold": 0.7,
+    "rerank": True,
+    "hybrid_search": True      # 混合稠密+稀疏检索
+}
+```
+
+### 3. 流式响应系统 (SSE)
+
+基于 Server-Sent Events 实现实时流式输出，提供即时反馈：
+
+```python
+# Flask SSE 响应模式
+@app.route('/api/chat', methods=['POST'])
+def chat_endpoint():
+    return Response(
+        stream_with_context(chat_service_stream(conversation_id, query)),
+        mimetype='text/event-stream',
+        headers={
+            'Cache-Control': 'no-cache',
+            'X-Accel-Buffering': 'no'  # 禁用 Nginx 缓冲
+        }
+    )
+```
+
+**流式事件类型**：
+- `thinking`: 思考过程展示
+- `content`: 内容增量输出
+- `reference`: 引用文献推送
+- `done`: 完成信号
+
+### 4. HTML-to-PPTX 生成引擎
+
+创新性地采用 HTML 作为中间表示，实现高度灵活的 PPT 生成：
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  AI Outline │ ──▶ │ HTML Slides │ ──▶ │  Playwright │ ──▶ │  python-pptx│
+│  Generator  │     │  Generator  │     │  Screenshot │     │  Assembler  │
+└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+                                                │
+                                                ▼
+                                        ┌─────────────┐
+                                        │ PNG → PPTX  │
+                                        │  Slide      │
+                                        └─────────────┘
+```
+
+**主题系统**：
+
+| 主题 | 配色方案 | CSS 变量 |
+|------|----------|----------|
+| 党建红 | `#C41E3A` + `#FFD700` | `--primary`, `--accent` |
+| 科技蓝 | `#1E90FF` + `#00CED1` | `--primary`, `--accent` |
+| 简约白 | `#FFFFFF` + `#6B7280` | `--primary`, `--accent` |
+| 学术绿 | `#059669` + `#34D399` | `--primary`, `--accent` |
+
+### 5. 红芯理辩系统
+
+基于辩证思维的 AI 辩论训练系统：
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     Debate Session Flow                          │
+│                                                                   │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐   │
+│  │  Topic   │ ─▶ │  Pro     │ ─▶ │  Con     │ ─▶ │  Judge   │   │
+│  │ Analysis │    │ Opening  │    │ Rebuttal │    │ Summary  │   │
+│  └──────────┘    └──────────┘    └──────────┘    └──────────┘   │
+│       │              │               │               │          │
+│       ▼              ▼               ▼               ▼          │
+│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐   │
+│  │ Stance   │    │ Marxism  │    │ Dialectic│    │ Synthesis│   │
+│  │ Detection│    │ Principles│    │ Analysis │    │ & Insight│   │
+│  └──────────┘    └──────────┘    └──────────┘    └──────────┘   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**辩论角色设定**：
+- **红芯正方**: 坚定捍卫马克思主义立场，逻辑清晰有力
+- **红芯反方**: 犀利辩证，多角度审视，指出逻辑漏洞
+- **红芯裁判**: 中立客观，综合评议，提炼哲学启示
+
+---
 
 ## 🚀 快速开始
 
@@ -100,26 +233,41 @@ python-pptx 组装
 - 阿里云 DashScope API Key
 - Playwright（用于 PPT 截图）
 
-### 安装依赖
+### 安装步骤
 
 ```bash
+# 1. 克隆仓库
+git clone https://github.com/yuanshane76-lang/ideology-rag.git
+cd ideology-platform
+
+# 2. 安装依赖
 pip install -r requirements.txt
-pip install python-docx  # 用于 docx 下载功能
-playwright install chromium  # 用于 PPT 截图
+
+# 3. 安装 Playwright 浏览器
+playwright install chromium
+
+# 4. 配置环境变量
+cp .env.example .env
+# 编辑 .env 文件，填入你的 DashScope API Key
 ```
 
-### 配置环境变量
+### 配置说明
 
 创建 `.env` 文件：
 
 ```env
+# DashScope API 配置
 DASHSCOPE_API_KEY=your_api_key_here
 BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
-LLM_MODEL=qwen-turbo
-AUDITOR_MODEL=qwen-turbo
-FAST_MODEL=qwen-flash
+
+# 模型配置
+LLM_MODEL=qwen-turbo          # 主力推理模型
+AUDITOR_MODEL=qwen-turbo      # 审核验证模型
+FAST_MODEL=qwen-flash         # 快速任务模型
 EMBEDDING_MODEL=text-embedding-v4
 VECTOR_DIM=1024
+
+# 向量数据库配置
 QDRANT_PATH=./Qdrant/qdrant_db
 ```
 
@@ -131,133 +279,234 @@ python app.py
 
 访问 http://127.0.0.1:6006 即可使用。
 
+---
+
 ## 📁 项目结构
 
 ```
-ideology-rag/
+ideology-platform/
 ├── app.py                      # Flask 主应用入口
 ├── requirements.txt            # Python 依赖
 ├── .env                        # 环境变量配置
+│
 ├── src/                        # 核心源代码
-│   ├── agents/                # 智能体模块
-│   │   ├── router_agent.py
-│   │   ├── memory_agent.py
-│   │   ├── theory_retriever_agent.py
-│   │   ├── politics_retriever_agent.py
-│   │   ├── generator_agent.py
-│   │   └── validator_agent.py
-│   ├── ppt/                   # PPT 生成模块
-│   │   ├── outline_generator.py   # 大纲生成器
-│   │   ├── html_generator.py      # HTML 幻灯片生成
-│   │   ├── html_to_ppt.py         # HTML 转 PPT
-│   │   ├── chapter_builders.py    # 章节构建器
-│   │   └── themes/                # 主题系统
-│   ├── graph.py               # LangGraph 工作流定义
-│   ├── service.py             # 对话服务层（流式 SSE）
-│   ├── retriever.py           # 检索逻辑
-│   ├── reference_composer.py  # 引用文献整合器
-│   ├── clients.py             # API 客户端
-│   ├── config.py              # 配置管理
-│   └── conversation.py        # 对话管理
-├── templates/                 # HTML 模板
-│   ├── index.html             # 问答页面
-│   ├── ppt.html               # PPT 生成页面
-│   └── debate.html            # 红芯理辩页面
-├── static/                    # 静态资源（JS、CSS）
-│   ├── app.js                 # 问答前端逻辑
-│   ├── ppt.js                 # PPT 前端逻辑
-│   └── debate.js              # 理辩前端逻辑
-├── downloads/                 # PPT 下载目录
-└── Qdrant/                    # 向量数据库
+│   ├── agents/                 # 智能体模块
+│   │   ├── router_agent.py     # 路由智能体
+│   │   ├── memory_agent.py     # 记忆智能体
+│   │   ├── theory_retriever_agent.py   # 理论检索智能体
+│   │   ├── politics_retriever_agent.py # 时政检索智能体
+│   │   ├── generator_agent.py  # 生成智能体
+│   │   └── validator_agent.py  # 验证智能体
+│   │
+│   ├── ppt/                    # PPT 生成模块
+│   │   ├── agent.py            # PPT 智能体入口
+│   │   ├── outline_generator.py    # 大纲生成器
+│   │   ├── html_generator.py       # HTML 幻灯片生成
+│   │   ├── html_to_ppt.py          # HTML 转 PPT
+│   │   ├── chapter_builders.py     # 章节构建器
+│   │   └── themes/                 # 主题系统
+│   │       └── html_themes.py
+│   │
+│   ├── debate/                 # 红芯理辩模块
+│   │   ├── models.py           # 数据模型
+│   │   ├── service.py          # 辩论服务
+│   │   ├── constants.py        # 常量定义
+│   │   └── topic_agent.py      # 辩题分析智能体
+│   │
+│   ├── graph.py                # LangGraph 工作流定义
+│   ├── service.py              # 对话服务层
+│   ├── retriever.py            # 检索逻辑
+│   ├── reference_composer.py   # 引用文献整合器
+│   ├── clients.py              # API 客户端
+│   ├── config.py               # 配置管理
+│   └── conversation.py         # 对话管理
+│
+├── templates/                  # HTML 模板
+│   ├── index.html              # 问答页面
+│   ├── ppt.html                # PPT 生成页面
+│   └── debate.html             # 红芯理辩页面
+│
+├── static/                     # 静态资源
+│   ├── app.js                  # 问答前端逻辑
+│   ├── ppt.js                  # PPT 前端逻辑
+│   ├── debate.js               # 理辩前端逻辑
+│   └── style.css               # 样式文件
+│
+├── Qdrant/                     # 向量数据库存储
+│   └── qdrant_db/
+│       └── collection/
+│           ├── theory/         # 理论知识库
+│           ├── moment/         # 时政案例库
+│           └── debate/         # 辩论素材库
+│
+├── outputs/                    # 输出文件
+│   ├── html/                   # HTML 幻灯片缓存
+│   └── ppt/                    # 生成的 PPT 文件
+│
+└── tests/                      # 测试用例
+    └── test_*.py
 ```
 
-## 💡 使用说明
-
-### 基础对话
-
-1. 在输入框中输入思政教育相关问题（如马克思主义理论、思修、毛概、近代史等）
-2. 系统会自动分析意图并检索相关知识
-3. 实时查看思考过程和生成的回答
-4. 支持多轮对话，系统会记住上下文
-
-### 引用文献功能
-
-1. 回答完成后，自动显示参考资料卡片
-2. 点击卡片可查看完整原文和高亮引用处
-3. 点击"下载原文"按钮可下载 docx 格式文档
-4. 高亮片段会在高亮识别完成后显示
-
-### PPT 生成功能
-
-1. 点击侧边栏"PPT 生成"进入 PPT 页面
-2. 输入 PPT 需求描述（如"生成一份关于文化自信的 PPT"）
-3. AI 自动生成大纲，可编辑调整
-4. 选择主题风格（党建红、科技蓝、简约白等）
-5. 生成预览后确认下载
-
-### 红芯理辩功能
-
-1. 点击侧边栏"红芯理辩"进入辩论页面
-2. 输入辩题（如"努力一定能改变命运吗"）或选择热门议题
-3. 选择交锋轮次（1-3轮）
-4. 观看红芯正方与红芯反方的哲学交锋
-5. 阅读红芯裁判的总结评议和哲学启示
-
-**理辩价值**：
-- 通过正反交锋理解辩证思维方法
-- 学习马克思主义哲学原理的实际应用
-- 训练批判性思维和逻辑分析能力
-
-### 对话管理
-
-- 对话会自动保存，可在侧边栏查看历史记录
-- 支持删除历史对话
-- 自动生成对话标题
-
-## 🎨 PPT 主题风格
-
-| 主题 | 主色调 | 适用场景 |
-|------|--------|----------|
-| 党建红 | 红色 + 金色 | 党政、思政教育 |
-| 科技蓝 | 蓝色 + 青色 | 科技、创新主题 |
-| 简约白 | 白色 + 灰色 | 通用、学术报告 |
-| 学术绿 | 绿色 + 浅绿 | 教育、环保主题 |
-| 典雅紫 | 紫色 + 浅紫 | 文化、艺术主题 |
-| 活力橙 | 橙色 + 黄色 | 活动、宣传主题 |
+---
 
 ## ⚡ 性能优化
 
 ### 优化措施
 
 | 优化项 | 改动 | 效果 |
-|------|------|------|
-| API 并发 | Semaphore 3 → 8 | 充分利用百炼高并发 |
-| 生成模型 | qwen3-max → qwen-turbo | 延迟 -50% |
-| 验证模型 | qwen-flash → qwen-turbo | 延迟 -40% |
-| 高亮识别 | 同步 → 后台异步 | 不阻塞主流程 |
-| 引用清理 | 单次 AI 调用 | 并发处理 N 条引用 |
+|--------|------|------|
+| **API 并发控制** | Semaphore 3 → 8 | 充分利用百炼高并发能力 |
+| **生成模型选择** | qwen3-max → qwen-turbo | 延迟降低 50% |
+| **验证模型优化** | qwen-flash → qwen-turbo | 延迟降低 40% |
+| **高亮识别异步化** | 同步阻塞 → 后台异步 | 不阻塞主流程响应 |
+| **引用清理并发** | 串行处理 → 并发处理 N 条 | 引用加载加速 70% |
 
 ### 性能指标
 
-- **总耗时**：15s → 5-6s ⬇️ 65%
-- **首字延迟**：2s → 0.5s ⬇️ 75%
-- **引用加载**：8s → 2-3s ⬇️ 70%
-- **下载速度**：8-10s → 1-2s ⬇️ 80%
+| 指标 | 优化前 | 优化后 | 提升 |
+|------|--------|--------|------|
+| 总响应耗时 | 15s | 5-6s | ⬇️ 65% |
+| 首字延迟 | 2s | 0.5s | ⬇️ 75% |
+| 引用加载 | 8s | 2-3s | ⬇️ 70% |
+| 文档下载 | 8-10s | 1-2s | ⬇️ 80% |
 
-## 🔧 技术栈
+---
 
-- **后端**: Flask, Python 3.13
-- **AI 框架**: LangGraph, LangChain
-- **向量数据库**: Qdrant
-- **大模型**: 阿里云 DashScope (通义千问 turbo/flash)
-- **文档生成**: python-docx
-- **PPT 生成**: Playwright, python-pptx
-- **前端**: HTML, JavaScript, Tailwind CSS
+## 🔌 API 接口
+
+### 对话接口
+
+```http
+POST /api/chat
+Content-Type: application/json
+
+{
+  "query": "马克思主义的基本特征是什么？",
+  "conversation_id": "optional-uuid"
+}
+
+Response: SSE Stream
+event: thinking
+data: {"content": "正在检索相关知识..."}
+
+event: content
+data: {"content": "马克思主义的基本特征包括..."}
+
+event: reference
+data: {"references": [...]}
+
+event: done
+data: {"conversation_id": "uuid", "title": "自动生成的标题"}
+```
+
+### PPT 生成接口
+
+```http
+POST /api/ppt/outline
+Content-Type: application/json
+
+{
+  "query": "生成一份关于文化自信的 PPT"
+}
+
+Response:
+{
+  "success": true,
+  "outline": {
+    "title": "文化自信",
+    "chapters": [...]
+  }
+}
+```
+
+### 辩论接口
+
+```http
+POST /api/debate/stream
+Content-Type: application/json
+
+{
+  "title": "努力一定能改变命运吗",
+  "rounds": 2
+}
+
+Response: SSE Stream
+event: protagonist
+data: {"content": "正方观点..."}
+
+event: antagonist
+data: {"content": "反方反驳..."}
+
+event: judge
+data: {"content": "裁判总结..."}
+```
+
+---
+
+## 🛠️ 技术栈
+
+### 后端
+
+| 技术 | 版本 | 用途 |
+|------|------|------|
+| Python | 3.13 | 主要开发语言 |
+| Flask | 3.0 | Web 框架 |
+| LangGraph | 0.2+ | 多智能体工作流编排 |
+| LangChain | 0.2+ | LLM 应用开发框架 |
+| Qdrant | 1.9+ | 向量数据库 |
+| DashScope | 1.14+ | 阿里云大模型服务 |
+
+### 文档处理
+
+| 技术 | 用途 |
+|------|------|
+| python-docx | Word 文档生成 |
+| python-pptx | PPT 文件组装 |
+| Playwright | HTML 截图渲染 |
+
+### 前端
+
+| 技术 | 用途 |
+|------|------|
+| HTML5 | 页面结构 |
+| Tailwind CSS | 样式框架 |
+| Vanilla JavaScript | 交互逻辑 |
+| Server-Sent Events | 流式通信 |
+
+---
+
+## 📊 系统特性
+
+- ✅ **多智能体协作**: Supervisor 模式编排，职责分离，高效协同
+- ✅ **双库检索增强**: 理论+时政双库互补，知识覆盖全面
+- ✅ **流式实时响应**: SSE 长连接，首字延迟 < 1s
+- ✅ **引用溯源**: 自动提取、清理、高亮引用文献
+- ✅ **PPT 智能生成**: HTML 中间表示，主题灵活可扩展
+- ✅ **辩证思维训练**: 红芯理辩系统，哲学方法论实践
+- ✅ **高性能并发**: 异步处理，响应时间优化 65%+
+
+---
+
+## 🤝 贡献指南
+
+欢迎提交 Issue 和 Pull Request！
+
+1. Fork 本仓库
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 创建 Pull Request
+
+---
 
 ## 📄 许可证
 
-MIT License
+本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
-## 🤝 贡献
+---
 
-欢迎提交 Issue 和 Pull Request！
+<div align="center">
+
+**如果这个项目对你有帮助，请给一个 ⭐️ Star！**
+
+</div>
