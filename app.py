@@ -165,14 +165,14 @@ def stream_debate():
     antagonist_type = (data.get('antagonist_type') or '反方').strip()
 
     try:
-        rounds = int(data.get('rounds', settings.debate_rounds_default))
+        rounds = int(data.get('rounds', 10))
     except (TypeError, ValueError):
-        rounds = settings.debate_rounds_default
+        rounds = 10
 
     if not title:
         return jsonify({"error": "缺少辩题标题"}), 400
 
-    rounds = max(1, min(3, rounds))
+    rounds = max(1, min(10, rounds))
 
     def generate():
         try:

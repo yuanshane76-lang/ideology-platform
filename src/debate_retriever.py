@@ -231,9 +231,21 @@ class DebateRetriever:
         references = []
         for p in res.points:
             payload = p.payload or {}
+            
+            # 根据集合类型获取正确的内容字段
+            if collection_name == COLLECTION_PROPOSITIONS:
+                content = payload.get("proposition", "")
+                source = f"{payload.get('author', '')}《{payload.get('source_title', '')}》"
+            elif collection_name == COLLECTION_CHUNKS:
+                content = payload.get("text", "")
+                source = f"{payload.get('author', '')}《{payload.get('source_title', '')}》"
+            else:
+                content = payload.get("content", payload.get("content_chunk", ""))
+                source = payload.get("source", "未知来源")
+            
             references.append({
-                "content": payload.get("content", ""),
-                "source": payload.get("source", "未知来源"),
+                "content": content,
+                "source": source,
                 "score": p.score
             })
         

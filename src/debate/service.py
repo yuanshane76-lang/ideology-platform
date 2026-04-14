@@ -251,54 +251,37 @@ def _build_protagonist_user_prompt(
 ) -> str:
     if current_round == 1:
         return (
-            f"【当前轮次】第 {current_round} 轮（立论）\n"
+            f"【当前轮次】第 {current_round} 轮\n"
             f"【辩题说明】{description or '无'}\n"
-            "【任务】先定义关键概念，再给出完整立论。"
-            "请结合理论支撑中的观点，主动预判可能反驳并提前回应1个风险点。"
-        )
-    elif current_round == 2:
-        return (
-            f"【当前轮次】第 {current_round} 轮（拆解回应）\n"
-            f"【辩题说明】{description or '无'}\n"
-            f"【反方上一轮观点】{last_antagonist}\n"
-            "【任务】逐点回应反方最强质疑，补齐论证链。"
-            "请结合理论支撑，点名反方至少1个逻辑漏洞并给出反证。"
+            "【任务】这是首轮发言，请先定义关键概念，再给出完整论证。"
+            "结合理论支撑，建立你的核心立场，并预判可能的质疑。"
         )
     else:
         return (
-            f"【当前轮次】第 {current_round} 轮（收束）\n"
+            f"【当前轮次】第 {current_round} 轮\n"
             f"【辩题说明】{description or '无'}\n"
             f"【反方上一轮观点】{last_antagonist}\n"
-            "【任务】收束争点，给出最终判断。"
-            "请用'核心结论 + 关键理由 + 对反方最终回应'完成本轮。"
+            "【任务】回应反方的质疑，巩固你的立场。"
+            "逐点回应对方的质疑，同时补充新的论据。"
         )
 
 
 def _build_antagonist_user_prompt(current_round: int, description: str, protagonist_message: str) -> str:
     if current_round == 1:
         return (
-            f"【当前轮次】第 {current_round} 轮（首轮质疑）\n"
+            f"【当前轮次】第 {current_round} 轮\n"
             f"【辩题说明】{description or '无'}\n"
             f"【正方本轮观点】{protagonist_message}\n"
-            "【任务】优先攻击定义和前提是否成立。"
-            "请结合理论支撑，指出正方至少2处可被追问的漏洞，并抛出1个关键追问。"
-        )
-
-    if current_round == 2:
-        return (
-            f"【当前轮次】第 {current_round} 轮（深挖漏洞）\n"
-            f"【辩题说明】{description or '无'}\n"
-            f"【正方本轮观点】{protagonist_message}\n"
-            "【任务】针对正方回应继续深挖。"
-            "结合理论支撑，重点检验：其证据是否足够、推理是否跳步、结论是否扩大化。"
+            "【任务】这是首轮质疑，请针对正方的论证提出批判。"
+            "指出正方论证中的漏洞或不足，提出你的质疑和反驳。"
         )
 
     return (
-        f"【当前轮次】第 {current_round} 轮（最终反压）\n"
+        f"【当前轮次】第 {current_round} 轮\n"
         f"【辩题说明】{description or '无'}\n"
         f"【正方本轮观点】{protagonist_message}\n"
-        "【任务】做最终反压：指出正方仍未解释清楚的核心缺口。"
-        "请用一段'最强质疑'收尾。"
+        "【任务】继续质疑正方的回应。"
+        "针对正方的辩解继续深挖，同时可以引入新的质疑角度。"
     )
 
 
@@ -443,7 +426,7 @@ def stream_debate_events(
     protagonist_messages: List[str] = []
     antagonist_messages: List[str] = []
 
-    final_rounds = max(1, min(3, rounds))
+    final_rounds = max(1, min(10, rounds))
 
     yield {"type": "start", "topic": topic, "antagonist_type": "反方"}
 

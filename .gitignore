@@ -18,8 +18,15 @@ Qdrant/
 # 缓存文件夹
 cache/
 
+# 输出文件夹（生成的PPT、HTML等）
+outputs/
+
 # 下载文件夹
 downloads/
+
+# 临时文件夹
+brainstorming/
+ui-redesign/
 
 # SQLite数据库文件
 *.db
@@ -31,6 +38,7 @@ chat_history.db
 # IDE配置
 .vscode/
 .idea/
+.qoder/
 *.swp
 *.swo
 *~

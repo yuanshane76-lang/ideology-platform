@@ -9,7 +9,6 @@ let currentContent = '';
 const statusEl = document.getElementById('debate-status');
 const titleInput = document.getElementById('topic-title');
 const descInput = document.getElementById('topic-description');
-const roundsSelect = document.getElementById('rounds');
 const topicsList = document.getElementById('topics-list');
 const startBtn = document.getElementById('start-btn');
 const nextBtn = document.getElementById('next-btn');
@@ -184,12 +183,7 @@ async function startDebate() {
     return;
   }
 
-  try {
-    maxRounds = parseInt(roundsSelect.value) || 10;
-  } catch {
-    maxRounds = 10;
-  }
-  maxRounds = Math.max(1, Math.min(10, maxRounds));
+  maxRounds = 10; // 固定最大轮次为10，用户可随时停止
 
   isGenerating = true;
   abortController = new AbortController();

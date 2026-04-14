@@ -13,7 +13,7 @@ class Settings:
     llm_model: str = os.getenv("LLM_MODEL", os.getenv("MODEL_NAME", "qwen-turbo"))
     debate_temperature: float = float(os.getenv("DEBATE_TEMPERATURE", os.getenv("MODEL_TEMPERATURE", "0.7")))
     debate_max_tokens: int = int(os.getenv("DEBATE_MAX_TOKENS", os.getenv("MODEL_MAX_TOKENS", "1000")))
-    debate_rounds_default: int = int(os.getenv("DEBATE_ROUNDS", "3"))
+    debate_rounds_default: int = int(os.getenv("DEBATE_ROUNDS", "10"))
 
     auditor_model: str = os.getenv("AUDITOR_MODEL", "qwen-turbo")
     fast_model: str = os.getenv("FAST_MODEL", "qwen-flash")
