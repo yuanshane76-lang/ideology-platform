@@ -1,0 +1,15 @@
+[Unit]
+Description=Ideology Platform - 思政云伴侣
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/ideology-platform
+Environment="PATH=/root/ideology-platform/venv/bin"
+ExecStart=/root/ideology-platform/venv/bin/gunicorn -w 1 --threads 6 -b 0.0.0.0:6006 --timeout 120 app:app
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
