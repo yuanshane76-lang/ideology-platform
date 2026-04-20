@@ -1,0 +1,919 @@
+{
+  "meta": {
+    "source": "generated",
+    "book_id": "szddfz-2023"
+  },
+  "nodes": [
+    {
+      "id": "book-core",
+      "label": "思想道德与法治",
+      "type": "book",
+      "group": "core",
+      "depth": 0,
+      "orbit": 0,
+      "angle": 0,
+      "description": "《思想道德与法治》2023 年版正式教材源文件，已完成清洗并注册入库。",
+      "summary": "《思想道德与法治》2023 年版正式教材源文件，已完成清洗并注册入库。",
+      "style_hint": "core"
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-绪论-担当复兴大任-成就时代新人",
+      "label": "绪论 担当复兴大任 成就时代新人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-绪论-担当复兴大任-成就时代新人-intro",
+      "label": "绪论 担当复兴大任 成就时代新人 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人#思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "label": "第一章 领悟人生真谛把握人生方向",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一章-领悟人生真谛把握人生方向-intro",
+      "label": "第一章 领悟人生真谛把握人生方向 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向#思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-人生观是对人生的总看法",
+      "label": "第一节 人生观是对人生的总看法",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向#思想道德与法治/第一章-领悟人生真谛把握人生方向/第一节-人生观是对人生的总看法",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一节-人生观是对人生的总看法"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-正确的人生观",
+      "label": "第二节 正确的人生观",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向#思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-正确的人生观",
+      "label": "第二节 正确的人生观",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向#思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-创造有意义的人生",
+      "label": "第三节 创造有意义的人生",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向#思想道德与法治/第一章-领悟人生真谛把握人生方向/第三节-创造有意义的人生",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第三节-创造有意义的人生"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "label": "第二章 追求远大理想坚定崇高信念",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二章-追求远大理想坚定崇高信念-intro",
+      "label": "第二章 追求远大理想坚定崇高信念 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念#思想道德与法治/第二章-追求远大理想坚定崇高信念/第二章-追求远大理想坚定崇高信念-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第二章-追求远大理想坚定崇高信念-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-理想信念的内涵及重要性",
+      "label": "第一节 理想信念的内涵及重要性",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念#思想道德与法治/第二章-追求远大理想坚定崇高信念/第一节-理想信念的内涵及重要性",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第一节-理想信念的内涵及重要性"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-理想信念的内涵及重要性",
+      "label": "第一节 理想信念的内涵及重要性",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念#思想道德与法治/第二章-追求远大理想坚定崇高信念/第一节-理想信念的内涵及重要性",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第一节-理想信念的内涵及重要性"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-坚定信仰信念信心",
+      "label": "第二节 坚定信仰信念信心",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念#思想道德与法治/第二章-追求远大理想坚定崇高信念/第二节-坚定信仰信念信心",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第二节-坚定信仰信念信心"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-在实现中国梦的实践中放飞青春梦想",
+      "label": "第三节 在实现中国梦的实践中放飞青春梦想",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念#思想道德与法治/第二章-追求远大理想坚定崇高信念/第三节-在实现中国梦的实践中放飞青春梦想",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第三节-在实现中国梦的实践中放飞青春梦想"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "label": "第三章 继承优良传统弘扬中国精神",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三章-继承优良传统弘扬中国精神-intro",
+      "label": "第三章 继承优良传统弘扬中国精神 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神#思想道德与法治/第三章-继承优良传统弘扬中国精神/第三章-继承优良传统弘扬中国精神-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第三章-继承优良传统弘扬中国精神-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-中国精神是兴国强国之魂",
+      "label": "第一节 中国精神是兴国强国之魂",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神#思想道德与法治/第三章-继承优良传统弘扬中国精神/第一节-中国精神是兴国强国之魂",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第一节-中国精神是兴国强国之魂"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-做新时代的忠诚爱国者",
+      "label": "第二节 做新时代的忠诚爱国者",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神#思想道德与法治/第三章-继承优良传统弘扬中国精神/第二节-做新时代的忠诚爱国者",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第二节-做新时代的忠诚爱国者"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-让改革创新成为青春远航的动力",
+      "label": "第三节 让改革创新成为青春远航的动力",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神#思想道德与法治/第三章-继承优良传统弘扬中国精神/第三节-让改革创新成为青春远航的动力",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第三节-让改革创新成为青春远航的动力"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "label": "第四章 明确价值要求践行价值准则",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 5,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第四章-明确价值要求践行价值准则-intro",
+      "label": "第四章 明确价值要求践行价值准则 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第四章-明确价值要求践行价值准则#思想道德与法治/第四章-明确价值要求践行价值准则/第四章-明确价值要求践行价值准则-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第四章-明确价值要求践行价值准则-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-全体人民共同的价值追求",
+      "label": "第一节 全体人民共同的价值追求",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第四章-明确价值要求践行价值准则#思想道德与法治/第四章-明确价值要求践行价值准则/第一节-全体人民共同的价值追求",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第一节-全体人民共同的价值追求"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-社会主义核心价值观的显著特征",
+      "label": "第二节 社会主义核心价值观的显著特征",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第四章-明确价值要求践行价值准则#思想道德与法治/第四章-明确价值要求践行价值准则/第二节-社会主义核心价值观的显著特征",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第二节-社会主义核心价值观的显著特征"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观",
+      "label": "第三节 积极践行社会主义核心价值观",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第四章-明确价值要求践行价值准则#思想道德与法治/第四章-明确价值要求践行价值准则/第三节-积极践行社会主义核心价值观",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第三节-积极践行社会主义核心价值观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观13s",
+      "label": "第三节 积极践行社会主义核心价值观13S",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第四章-明确价值要求践行价值准则#思想道德与法治/第四章-明确价值要求践行价值准则/第三节-积极践行社会主义核心价值观13s",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第三节-积极践行社会主义核心价值观13s"
+      }
+    },
+    {
+      "id": "concept-13s",
+      "label": "13s",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "This concept is introduced in 第三节 积极践行社会主义核心价值观13S.",
+      "summary": "This concept is introduced in 第三节 积极践行社会主义核心价值观13S."
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "label": "第五章 遵守道德规范锤炼道德品格",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 6,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第五章-遵守道德规范锤炼道德品格-intro",
+      "label": "第五章 遵守道德规范锤炼道德品格 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格#思想道德与法治/第五章-遵守道德规范锤炼道德品格/第五章-遵守道德规范锤炼道德品格-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第五章-遵守道德规范锤炼道德品格-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-社会主义道德的核心与原则",
+      "label": "第一节 社会主义道德的核心与原则",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格#思想道德与法治/第五章-遵守道德规范锤炼道德品格/第一节-社会主义道德的核心与原则",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第一节-社会主义道德的核心与原则"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-吸收借鉴优秀道德成果",
+      "label": "第二节 吸收借鉴优秀道德成果",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格#思想道德与法治/第五章-遵守道德规范锤炼道德品格/第二节-吸收借鉴优秀道德成果",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第二节-吸收借鉴优秀道德成果"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-投身崇德向善的道德实践",
+      "label": "第三节 投身崇德向善的道德实践",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格#思想道德与法治/第五章-遵守道德规范锤炼道德品格/第三节-投身崇德向善的道德实践",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第三节-投身崇德向善的道德实践"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-投身崇德向善的道德实践17s",
+      "label": "第三节 投身崇德向善的道德实践17S",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格#思想道德与法治/第五章-遵守道德规范锤炼道德品格/第三节-投身崇德向善的道德实践17s",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第三节-投身崇德向善的道德实践17s"
+      }
+    },
+    {
+      "id": "concept-17s",
+      "label": "17s",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "This concept is introduced in 第三节 投身崇德向善的道德实践17S.",
+      "summary": "This concept is introduced in 第三节 投身崇德向善的道德实践17S."
+    },
+    {
+      "id": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "label": "第六章 学习法治思想提升法治素养",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 7,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第六章-学习法治思想提升法治素养-intro",
+      "label": "第六章 学习法治思想提升法治素养 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第六章-学习法治思想提升法治素养#思想道德与法治/第六章-学习法治思想提升法治素养/第六章-学习法治思想提升法治素养-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第六章-学习法治思想提升法治素养-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第一节-社会主义法律的特征和运行",
+      "label": "第一节 社会主义法律的特征和运行",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第六章-学习法治思想提升法治素养#思想道德与法治/第六章-学习法治思想提升法治素养/第一节-社会主义法律的特征和运行",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第一节-社会主义法律的特征和运行"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第二节-坚持全面依法治国",
+      "label": "第二节 坚持全面依法治国",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第六章-学习法治思想提升法治素养#思想道德与法治/第六章-学习法治思想提升法治素养/第二节-坚持全面依法治国",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第二节-坚持全面依法治国"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第三节-维护宪法权威",
+      "label": "第三节 维护宪法权威",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第六章-学习法治思想提升法治素养#思想道德与法治/第六章-学习法治思想提升法治素养/第三节-维护宪法权威",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第三节-维护宪法权威"
+      }
+    },
+    {
+      "id": "section-szddfz-2023-section-第四节-自觉尊法学法守法用法",
+      "label": "第四节 自觉尊法学法守法用法",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023:chapter:第六章-学习法治思想提升法治素养#思想道德与法治/第六章-学习法治思想提升法治素养/第四节-自觉尊法学法守法用法",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第四节-自觉尊法学法守法用法"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-绪论-担当复兴大任-成就时代新人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-绪论-担当复兴大任-成就时代新人",
+      "target": "section-szddfz-2023-section-绪论-担当复兴大任-成就时代新人-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023-section-第一章-领悟人生真谛把握人生方向-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023-section-第一节-人生观是对人生的总看法",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023-section-第二节-正确的人生观",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023-section-第二节-正确的人生观",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023-section-第三节-创造有意义的人生",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023-section-第二章-追求远大理想坚定崇高信念-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023-section-第一节-理想信念的内涵及重要性",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023-section-第一节-理想信念的内涵及重要性",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023-section-第二节-坚定信仰信念信心",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023-section-第三节-在实现中国梦的实践中放飞青春梦想",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023-section-第三章-继承优良传统弘扬中国精神-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023-section-第一节-中国精神是兴国强国之魂",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023-section-第二节-做新时代的忠诚爱国者",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023-section-第三节-让改革创新成为青春远航的动力",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023-section-第四章-明确价值要求践行价值准则-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023-section-第一节-全体人民共同的价值追求",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023-section-第二节-社会主义核心价值观的显著特征",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观13s",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观13s",
+      "target": "concept-13s",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023-section-第五章-遵守道德规范锤炼道德品格-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023-section-第一节-社会主义道德的核心与原则",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023-section-第二节-吸收借鉴优秀道德成果",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023-section-第三节-投身崇德向善的道德实践",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023-section-第三节-投身崇德向善的道德实践17s",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-szddfz-2023-section-第三节-投身崇德向善的道德实践17s",
+      "target": "concept-17s",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023-section-第六章-学习法治思想提升法治素养-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023-section-第一节-社会主义法律的特征和运行",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023-section-第二节-坚持全面依法治国",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023-section-第三节-维护宪法权威",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023-section-第四节-自觉尊法学法守法用法",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    }
+  ],
+  "lanes": {
+    "chapters": [
+      "chapter-szddfz-2023-chapter-绪论-担当复兴大任-成就时代新人",
+      "chapter-szddfz-2023-chapter-第一章-领悟人生真谛把握人生方向",
+      "chapter-szddfz-2023-chapter-第二章-追求远大理想坚定崇高信念",
+      "chapter-szddfz-2023-chapter-第三章-继承优良传统弘扬中国精神",
+      "chapter-szddfz-2023-chapter-第四章-明确价值要求践行价值准则",
+      "chapter-szddfz-2023-chapter-第五章-遵守道德规范锤炼道德品格",
+      "chapter-szddfz-2023-chapter-第六章-学习法治思想提升法治素养"
+    ],
+    "sections": [
+      "section-szddfz-2023-section-绪论-担当复兴大任-成就时代新人-intro",
+      "section-szddfz-2023-section-第一章-领悟人生真谛把握人生方向-intro",
+      "section-szddfz-2023-section-第一节-人生观是对人生的总看法",
+      "section-szddfz-2023-section-第二节-正确的人生观",
+      "section-szddfz-2023-section-第三节-创造有意义的人生",
+      "section-szddfz-2023-section-第二章-追求远大理想坚定崇高信念-intro",
+      "section-szddfz-2023-section-第一节-理想信念的内涵及重要性",
+      "section-szddfz-2023-section-第二节-坚定信仰信念信心",
+      "section-szddfz-2023-section-第三节-在实现中国梦的实践中放飞青春梦想",
+      "section-szddfz-2023-section-第三章-继承优良传统弘扬中国精神-intro",
+      "section-szddfz-2023-section-第一节-中国精神是兴国强国之魂",
+      "section-szddfz-2023-section-第二节-做新时代的忠诚爱国者",
+      "section-szddfz-2023-section-第三节-让改革创新成为青春远航的动力",
+      "section-szddfz-2023-section-第四章-明确价值要求践行价值准则-intro",
+      "section-szddfz-2023-section-第一节-全体人民共同的价值追求",
+      "section-szddfz-2023-section-第二节-社会主义核心价值观的显著特征",
+      "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观",
+      "section-szddfz-2023-section-第三节-积极践行社会主义核心价值观13s",
+      "section-szddfz-2023-section-第五章-遵守道德规范锤炼道德品格-intro",
+      "section-szddfz-2023-section-第一节-社会主义道德的核心与原则",
+      "section-szddfz-2023-section-第二节-吸收借鉴优秀道德成果",
+      "section-szddfz-2023-section-第三节-投身崇德向善的道德实践",
+      "section-szddfz-2023-section-第三节-投身崇德向善的道德实践17s",
+      "section-szddfz-2023-section-第六章-学习法治思想提升法治素养-intro",
+      "section-szddfz-2023-section-第一节-社会主义法律的特征和运行",
+      "section-szddfz-2023-section-第二节-坚持全面依法治国",
+      "section-szddfz-2023-section-第三节-维护宪法权威",
+      "section-szddfz-2023-section-第四节-自觉尊法学法守法用法"
+    ],
+    "concepts": [
+      "concept-core",
+      "concept-concept",
+      "concept-13s",
+      "concept-17s"
+    ]
+  }
+}

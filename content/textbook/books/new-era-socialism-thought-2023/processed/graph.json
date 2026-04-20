@@ -1,0 +1,2831 @@
+{
+  "meta": {
+    "source": "generated",
+    "book_id": "new-era-socialism-thought-2023"
+  },
+  "nodes": [
+    {
+      "id": "book-core",
+      "label": "新时代中国特色社会主义思想概论",
+      "type": "book",
+      "group": "core",
+      "depth": 0,
+      "orbit": 0,
+      "angle": 0,
+      "description": "《新时代中国特色社会主义思想概论》2023 年版教材。",
+      "summary": "《新时代中国特色社会主义思想概论》2023 年版教材。",
+      "style_hint": "core"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-preface",
+      "label": "未命名章",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:preface",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:preface",
+        "anchor": "新时代中国特色社会主义思想概论/preface"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-未命名章-intro",
+      "label": "未命名章 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:preface#新时代中国特色社会主义思想概论/preface/未命名章-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:preface",
+        "anchor": "新时代中国特色社会主义思想概论/preface/未命名章-intro"
+      }
+    },
+    {
+      "id": "concept-未命名章",
+      "label": "未命名章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????未命名章??????",
+      "summary": "?????未命名章??????"
+    },
+    {
+      "id": "concept-导言",
+      "label": "导言",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????导言??????",
+      "summary": "?????导言??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "label": "第一节 方向决定道路,道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题。中国特色社会主义是中国共产党领导中国人民长期探索、始终坚持、接续发展的结果,",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:preface#新时代中国特色社会主义思想概论/preface/第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:preface",
+        "anchor": "新时代中国特色社会主义思想概论/preface/第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果"
+      }
+    },
+    {
+      "id": "concept-第一节",
+      "label": "第一节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第一节??????",
+      "summary": "?????第一节??????"
+    },
+    {
+      "id": "concept-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "label": "方向决定道路,道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题。中国特色社会主义是中国共产党领导中国人民长期探索、始终坚持、接续发展的结果,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????方向决定道路,道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题。中国特色社会主义是中国共产党领导中国人民长期探索、始终坚持、接续发展的结果,??????",
+      "summary": "?????方向决定道路,道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题。中国特色社会主义是中国共产党领导中国人民长期探索、始终坚持、接续发展的结果,??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "label": "第三节 新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果,也是我们党领导人民进行伟大社会革命的继续,必须一以贯之进行下去。要全面贯彻党的基本理论、基本路线、基本方略,统筹推进“五位一体“总体布局和协调推进“四个全面“战略布局,以咬定青山不放松的定力持续奋斗,谱写新时代中国特色社会主义更加绚丽的华章。",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:preface#新时代中国特色社会主义思想概论/preface/第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:preface",
+        "anchor": "新时代中国特色社会主义思想概论/preface/第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章"
+      }
+    },
+    {
+      "id": "concept-第三节",
+      "label": "第三节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第三节??????",
+      "summary": "?????第三节??????"
+    },
+    {
+      "id": "concept-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "label": "新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果,也是我们党领导人民进行伟大社会革命的继续,必须一以贯之进行下去。要全面贯彻党的基本理论、基本路线、基本方略,统筹推进“五位一体“总体布局和协调推进“四个全面“战略布局,以咬定青山不放松的定力持续奋斗,谱写新时代中国特色社会主义更加绚丽的华章。",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果,也是我们党领导人民进行伟大社会革命的继续,必须一以贯之进行下去。要全面贯彻党的基本理论、基本路线、基本方略,统筹推进“五位一体“总体布局和协调推进“四个全面“战略布局,以咬定青山不放松的定力持续奋斗,谱写新时代中国特色社会主义更加绚丽的华章。??????",
+      "summary": "?????新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果,也是我们党领导人民进行伟大社会革命的继续,必须一以贯之进行下去。要全面贯彻党的基本理论、基本路线、基本方略,统筹推进“五位一体“总体布局和协调推进“四个全面“战略布局,以咬定青山不放松的定力持续奋斗,谱写新时代中国特色社会主义更加绚丽的华章。??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "label": "第二章 “以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "label": "第二章 “以中国式现代化全面推进中华民族伟大复兴圆学习要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点#新时代中国特色社会主义思想概论/第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点/第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点/第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro"
+      }
+    },
+    {
+      "id": "concept-第二章",
+      "label": "第二章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第二章??????",
+      "summary": "?????第二章??????"
+    },
+    {
+      "id": "concept-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "label": "“以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“以中国式现代化全面推进中华民族伟大复兴圆学习要点??????",
+      "summary": "?????“以中国式现代化全面推进中华民族伟大复兴圆学习要点??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第三章-坚持党的全面领导园学乙要点",
+      "label": "第三章 坚持党的全面领导园学乙要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第三章-坚持党的全面领导园学乙要点-intro",
+      "label": "第三章 坚持党的全面领导园学乙要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点#新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点/第三章-坚持党的全面领导园学乙要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点/第三章-坚持党的全面领导园学乙要点-intro"
+      }
+    },
+    {
+      "id": "concept-第三章",
+      "label": "第三章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第三章??????",
+      "summary": "?????第三章??????"
+    },
+    {
+      "id": "concept-坚持党的全面领导园学乙要点",
+      "label": "坚持党的全面领导园学乙要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????坚持党的全面领导园学乙要点??????",
+      "summary": "?????坚持党的全面领导园学乙要点??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "label": "第一节 中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征,其中最本质的特征是中国共产党领导。这个最本质特征是在近代以来中国历史发展中形成的,是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的。中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的,",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点#新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点/第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点/第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的"
+      }
+    },
+    {
+      "id": "concept-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "label": "中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征,其中最本质的特征是中国共产党领导。这个最本质特征是在近代以来中国历史发展中形成的,是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的。中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征,其中最本质的特征是中国共产党领导。这个最本质特征是在近代以来中国历史发展中形成的,是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的。中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的,??????",
+      "summary": "?????中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征,其中最本质的特征是中国共产党领导。这个最本质特征是在近代以来中国历史发展中形成的,是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的。中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的,??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "label": "第三节 健全和完善党的领导制度体系坚持党的全面领导,必须依靠制度来保障。党的领导制度是我国的根本领导制度,要健全党中央对重大工作的领导体制,健全党的全面领导制度,不断完善总揽全局、协调各方的党的领导制度体系。",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点#新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点/第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第三章-坚持党的全面领导园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第三章-坚持党的全面领导园学乙要点/第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系"
+      }
+    },
+    {
+      "id": "concept-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "label": "健全和完善党的领导制度体系坚持党的全面领导,必须依靠制度来保障。党的领导制度是我国的根本领导制度,要健全党中央对重大工作的领导体制,健全党的全面领导制度,不断完善总揽全局、协调各方的党的领导制度体系。",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????健全和完善党的领导制度体系坚持党的全面领导,必须依靠制度来保障。党的领导制度是我国的根本领导制度,要健全党中央对重大工作的领导体制,健全党的全面领导制度,不断完善总揽全局、协调各方的党的领导制度体系。??????",
+      "summary": "?????健全和完善党的领导制度体系坚持党的全面领导,必须依靠制度来保障。党的领导制度是我国的根本领导制度,要健全党中央对重大工作的领导体制,健全党的全面领导制度,不断完善总揽全局、协调各方的党的领导制度体系。??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第四章-坚持以人民为中心园学乙要点",
+      "label": "第四章 坚持以人民为中心园学乙要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 4,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第四章-坚持以人民为中心园学乙要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第四章-坚持以人民为中心园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第四章-坚持以人民为中心园学乙要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第四章-坚持以人民为中心园学乙要点-intro",
+      "label": "第四章 坚持以人民为中心园学乙要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第四章-坚持以人民为中心园学乙要点#新时代中国特色社会主义思想概论/第四章-坚持以人民为中心园学乙要点/第四章-坚持以人民为中心园学乙要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第四章-坚持以人民为中心园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第四章-坚持以人民为中心园学乙要点/第四章-坚持以人民为中心园学乙要点-intro"
+      }
+    },
+    {
+      "id": "concept-第四章",
+      "label": "第四章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第四章??????",
+      "summary": "?????第四章??????"
+    },
+    {
+      "id": "concept-坚持以人民为中心园学乙要点",
+      "label": "坚持以人民为中心园学乙要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????坚持以人民为中心园学乙要点??????",
+      "summary": "?????坚持以人民为中心园学乙要点??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第五章-全面深化改革开放园学书要点",
+      "label": "第五章 “全面深化改革开放园学书要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 5,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第五章-全面深化改革开放园学书要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第五章-全面深化改革开放园学书要点",
+        "anchor": "新时代中国特色社会主义思想概论/第五章-全面深化改革开放园学书要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第五章-全面深化改革开放园学书要点-intro",
+      "label": "第五章 “全面深化改革开放园学书要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第五章-全面深化改革开放园学书要点#新时代中国特色社会主义思想概论/第五章-全面深化改革开放园学书要点/第五章-全面深化改革开放园学书要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第五章-全面深化改革开放园学书要点",
+        "anchor": "新时代中国特色社会主义思想概论/第五章-全面深化改革开放园学书要点/第五章-全面深化改革开放园学书要点-intro"
+      }
+    },
+    {
+      "id": "concept-第五章",
+      "label": "第五章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第五章??????",
+      "summary": "?????第五章??????"
+    },
+    {
+      "id": "concept-全面深化改革开放园学书要点",
+      "label": "“全面深化改革开放园学书要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“全面深化改革开放园学书要点??????",
+      "summary": "?????“全面深化改革开放园学书要点??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第六章-推动高质量发展园学习要点",
+      "label": "第六章 推动高质量发展园学习要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 6,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第六章-推动高质量发展园学习要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第六章-推动高质量发展园学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第六章-推动高质量发展园学习要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第六章-推动高质量发展园学习要点-intro",
+      "label": "第六章 推动高质量发展园学习要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第六章-推动高质量发展园学习要点#新时代中国特色社会主义思想概论/第六章-推动高质量发展园学习要点/第六章-推动高质量发展园学习要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第六章-推动高质量发展园学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第六章-推动高质量发展园学习要点/第六章-推动高质量发展园学习要点-intro"
+      }
+    },
+    {
+      "id": "concept-第六章",
+      "label": "第六章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第六章??????",
+      "summary": "?????第六章??????"
+    },
+    {
+      "id": "concept-推动高质量发展园学习要点",
+      "label": "推动高质量发展园学习要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????推动高质量发展园学习要点??????",
+      "summary": "?????推动高质量发展园学习要点??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "label": "第七章 社会主义现代化建设的教育、科技、人才战略园学3要炳",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 7,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+        "anchor": "新时代中国特色社会主义思想概论/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "label": "第七章 社会主义现代化建设的教育、科技、人才战略园学3要炳 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳#新时代中国特色社会主义思想概论/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+        "anchor": "新时代中国特色社会主义思想概论/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro"
+      }
+    },
+    {
+      "id": "concept-第七章",
+      "label": "第七章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第七章??????",
+      "summary": "?????第七章??????"
+    },
+    {
+      "id": "concept-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "label": "社会主义现代化建设的教育、科技、人才战略园学3要炳",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????社会主义现代化建设的教育、科技、人才战略园学3要炳??????",
+      "summary": "?????社会主义现代化建设的教育、科技、人才战略园学3要炳??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第四节-加俊汪人才弥",
+      "label": "第四节 加俊汪人才弥",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳#新时代中国特色社会主义思想概论/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳/第四节-加俊汪人才弥",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+        "anchor": "新时代中国特色社会主义思想概论/第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳/第四节-加俊汪人才弥"
+      }
+    },
+    {
+      "id": "concept-第四节",
+      "label": "第四节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第四节??????",
+      "summary": "?????第四节??????"
+    },
+    {
+      "id": "concept-加俊汪人才弥",
+      "label": "加俊汪人才弥",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????加俊汪人才弥??????",
+      "summary": "?????加俊汪人才弥??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第八章-发展全过程人民民主",
+      "label": "第八章 “发展全过程人民民主",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 8,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主",
+        "anchor": "新时代中国特色社会主义思想概论/第八章-发展全过程人民民主"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第八章-发展全过程人民民主-intro",
+      "label": "第八章 “发展全过程人民民主 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主#新时代中国特色社会主义思想概论/第八章-发展全过程人民民主/第八章-发展全过程人民民主-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主",
+        "anchor": "新时代中国特色社会主义思想概论/第八章-发展全过程人民民主/第八章-发展全过程人民民主-intro"
+      }
+    },
+    {
+      "id": "concept-第八章",
+      "label": "第八章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第八章??????",
+      "summary": "?????第八章??????"
+    },
+    {
+      "id": "concept-发展全过程人民民主",
+      "label": "“发展全过程人民民主",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“发展全过程人民民主??????",
+      "summary": "?????“发展全过程人民民主??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-坚定中国特色社会主义政治制度自信",
+      "label": "第一节 坚定中国特色社会主义政治制度自信",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主#新时代中国特色社会主义思想概论/第八章-发展全过程人民民主/第一节-坚定中国特色社会主义政治制度自信",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主",
+        "anchor": "新时代中国特色社会主义思想概论/第八章-发展全过程人民民主/第一节-坚定中国特色社会主义政治制度自信"
+      }
+    },
+    {
+      "id": "concept-坚定中国特色社会主义政治制度自信",
+      "label": "坚定中国特色社会主义政治制度自信",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????坚定中国特色社会主义政治制度自信??????",
+      "summary": "?????坚定中国特色社会主义政治制度自信??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第三节-倩全人民当家作士的刊庞体系",
+      "label": "第三节 倩全人民当家作士的刊庞体系",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主#新时代中国特色社会主义思想概论/第八章-发展全过程人民民主/第三节-倩全人民当家作士的刊庞体系",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第八章-发展全过程人民民主",
+        "anchor": "新时代中国特色社会主义思想概论/第八章-发展全过程人民民主/第三节-倩全人民当家作士的刊庞体系"
+      }
+    },
+    {
+      "id": "concept-倩全人民当家作士的刊庞体系",
+      "label": "倩全人民当家作士的刊庞体系",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????倩全人民当家作士的刊庞体系??????",
+      "summary": "?????倩全人民当家作士的刊庞体系??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第九章-全面依法治国",
+      "label": "第九章 “全面依法治国",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 9,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第九章-全面依法治国",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第九章-全面依法治国",
+        "anchor": "新时代中国特色社会主义思想概论/第九章-全面依法治国"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第九章-全面依法治国-intro",
+      "label": "第九章 “全面依法治国 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第九章-全面依法治国#新时代中国特色社会主义思想概论/第九章-全面依法治国/第九章-全面依法治国-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第九章-全面依法治国",
+        "anchor": "新时代中国特色社会主义思想概论/第九章-全面依法治国/第九章-全面依法治国-intro"
+      }
+    },
+    {
+      "id": "concept-第九章",
+      "label": "第九章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第九章??????",
+      "summary": "?????第九章??????"
+    },
+    {
+      "id": "concept-全面依法治国",
+      "label": "“全面依法治国",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“全面依法治国??????",
+      "summary": "?????“全面依法治国??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节",
+      "label": "第一节",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第九章-全面依法治国#新时代中国特色社会主义思想概论/第九章-全面依法治国/第一节",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第九章-全面依法治国",
+        "anchor": "新时代中国特色社会主义思想概论/第九章-全面依法治国/第一节"
+      }
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "label": "第十章 建设社会主义文化强国圆学习要点|",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 10,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十章-建设社会主义文化强国圆学习要点-intro",
+      "label": "第十章 建设社会主义文化强国圆学习要点| 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点#新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第十章-建设社会主义文化强国圆学习要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第十章-建设社会主义文化强国圆学习要点-intro"
+      }
+    },
+    {
+      "id": "concept-第十章",
+      "label": "第十章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十章??????",
+      "summary": "?????第十章??????"
+    },
+    {
+      "id": "concept-建设社会主义文化强国圆学习要点",
+      "label": "建设社会主义文化强国圆学习要点|",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????建设社会主义文化强国圆学习要点|??????",
+      "summary": "?????建设社会主义文化强国圆学习要点|??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "label": "第一节 文化是民族生存和发展的重要力量文化是一个国家、一个民族的灵魂。国家的富强,民族的振兴,无不伴随着文化的历史伯进步。要坚持中国特色社会主义文化发展道路,",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点#新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路"
+      }
+    },
+    {
+      "id": "concept-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "label": "文化是民族生存和发展的重要力量文化是一个国家、一个民族的灵魂。国家的富强,民族的振兴,无不伴随着文化的历史伯进步。要坚持中国特色社会主义文化发展道路,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????文化是民族生存和发展的重要力量文化是一个国家、一个民族的灵魂。国家的富强,民族的振兴,无不伴随着文化的历史伯进步。要坚持中国特色社会主义文化发展道路,??????",
+      "summary": "?????文化是民族生存和发展的重要力量文化是一个国家、一个民族的灵魂。国家的富强,民族的振兴,无不伴随着文化的历史伯进步。要坚持中国特色社会主义文化发展道路,??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-文化春民陆生存积发属皇坂力",
+      "label": "第一节 文化春民陆生存积发属皇坂力",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点#新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-文化春民陆生存积发属皇坂力",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-文化春民陆生存积发属皇坂力"
+      }
+    },
+    {
+      "id": "concept-文化春民陆生存积发属皇坂力",
+      "label": "文化春民陆生存积发属皇坂力",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????文化春民陆生存积发属皇坂力??????",
+      "summary": "?????文化春民陆生存积发属皇坂力??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-文化是民限生帜发展的野力敲",
+      "label": "第一节 文化是民限生帜发展的野力敲",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点#新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-文化是民限生帜发展的野力敲",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-文化是民限生帜发展的野力敲"
+      }
+    },
+    {
+      "id": "concept-文化是民限生帜发展的野力敲",
+      "label": "文化是民限生帜发展的野力敲",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????文化是民限生帜发展的野力敲??????",
+      "summary": "?????文化是民限生帜发展的野力敲??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-witheeas",
+      "label": "第一节 WitheeaS|",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点#新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-witheeas",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第一节-witheeas"
+      }
+    },
+    {
+      "id": "concept-witheeas",
+      "label": "WitheeaS|",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????WitheeaS|??????",
+      "summary": "?????WitheeaS|??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第三节-以社会主文振传佩玟引页北踊沥",
+      "label": "第三节 以社会主文振传佩玟引页北踊沥",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 6,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点#新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第三节-以社会主文振传佩玟引页北踊沥",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十章-建设社会主义文化强国圆学习要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十章-建设社会主义文化强国圆学习要点/第三节-以社会主文振传佩玟引页北踊沥"
+      }
+    },
+    {
+      "id": "concept-以社会主文振传佩玟引页北踊沥",
+      "label": "以社会主文振传佩玟引页北踊沥",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????以社会主文振传佩玟引页北踊沥??????",
+      "summary": "?????以社会主文振传佩玟引页北踊沥??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "label": "第十一章 “以保障和改善民生为重点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 11,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+        "anchor": "新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十一章-以保障和改善民生为重点-intro",
+      "label": "第十一章 “以保障和改善民生为重点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点#新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第十一章-以保障和改善民生为重点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+        "anchor": "新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第十一章-以保障和改善民生为重点-intro"
+      }
+    },
+    {
+      "id": "concept-第十一章",
+      "label": "第十一章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十一章??????",
+      "summary": "?????第十一章??????"
+    },
+    {
+      "id": "concept-以保障和改善民生为重点",
+      "label": "“以保障和改善民生为重点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“以保障和改善民生为重点??????",
+      "summary": "?????“以保障和改善民生为重点??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-让人民生活标国是-国之大莲",
+      "label": "第一节 让人民生活标国是“国之大莲",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点#新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第一节-让人民生活标国是-国之大莲",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+        "anchor": "新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第一节-让人民生活标国是-国之大莲"
+      }
+    },
+    {
+      "id": "concept-让人民生活标国是-国之大莲",
+      "label": "让人民生活标国是“国之大莲",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????让人民生活标国是“国之大莲??????",
+      "summary": "?????让人民生活标国是“国之大莲??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-垂关兴河共单中据迪社伟泉颖琅代化",
+      "label": "第一节 垂关兴河共单中据迪社伟泉颖琅代化",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点#新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第一节-垂关兴河共单中据迪社伟泉颖琅代化",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+        "anchor": "新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第一节-垂关兴河共单中据迪社伟泉颖琅代化"
+      }
+    },
+    {
+      "id": "concept-垂关兴河共单中据迪社伟泉颖琅代化",
+      "label": "垂关兴河共单中据迪社伟泉颖琅代化",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????垂关兴河共单中据迪社伟泉颖琅代化??????",
+      "summary": "?????垂关兴河共单中据迪社伟泉颖琅代化??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二节-建汪英国中国",
+      "label": "第二节 建汪英国中国",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点#新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第二节-建汪英国中国",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+        "anchor": "新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第二节-建汪英国中国"
+      }
+    },
+    {
+      "id": "concept-第二节",
+      "label": "第二节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第二节??????",
+      "summary": "?????第二节??????"
+    },
+    {
+      "id": "concept-建汪英国中国",
+      "label": "建汪英国中国",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????建汪英国中国??????",
+      "summary": "?????建汪英国中国??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-建汞羟中国",
+      "label": "第一节 建汞羟中国",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点#新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第一节-建汞羟中国",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十一章-以保障和改善民生为重点",
+        "anchor": "新时代中国特色社会主义思想概论/第十一章-以保障和改善民生为重点/第一节-建汞羟中国"
+      }
+    },
+    {
+      "id": "concept-建汞羟中国",
+      "label": "建汞羟中国",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????建汞羟中国??????",
+      "summary": "?????建汞羟中国??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "label": "第十三章 “维护和塑造国家安全园学乙要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 12,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十三章-维护和塑造国家安全园学乙要点-intro",
+      "label": "第十三章 “维护和塑造国家安全园学乙要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点#新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第十三章-维护和塑造国家安全园学乙要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第十三章-维护和塑造国家安全园学乙要点-intro"
+      }
+    },
+    {
+      "id": "concept-第十三章",
+      "label": "第十三章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十三章??????",
+      "summary": "?????第十三章??????"
+    },
+    {
+      "id": "concept-维护和塑造国家安全园学乙要点",
+      "label": "“维护和塑造国家安全园学乙要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“维护和塑造国家安全园学乙要点??????",
+      "summary": "?????“维护和塑造国家安全园学乙要点??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "label": "第一节 坚持总体国家安全观进人新时代,我国发展的战略机逼和风险挑战并存,不确定和难预料因素增多,国家安全在党和国家工作全局中的重要性日益凸显。总体国家安全观与新时代国家安全实践相生相成、共进并行,为维护和塑造新时代国家安全提供了基本遮循。维护国家安全和塑造国家安全是统一的,塑造是更高层次、更具前睽性的维护。必须贯彻落实总体国家安全观,不断增强维护和塑造国家安全的能力,把保障国家安全的战略主动权牢牢掌握在自己手中。一、国家安全是民族复兴的根基国家安全是指国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态,以及保障持续安全状态的能力。“利莫大于治,害莉大于乱.“国家安全工作是党治国理政一项十分重要的工作,也是保障国泰民安一项十分重要的工作。国家安全是民族复兴的根基,社会稳定是国家强盛的前提。纵览世界各国发展史,国家的兴盛往往是在国家安全最稳固的时候,国家的落往往与安全政策失当密切相关。中国共产党诃生于国家内忧外患、民族危难之时,对国家安全的重要性有着刻骨饶心的认识。党领导人民迹行新民主主义革命,建立了中华人民共和国,彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权,结束了中华民族遣受帝国主义侵略、掠夺的历史。新中国成立后,党将保卫新生的人民政权作为国家安全工作的首要任务,战胜了帝国主义、霸权主义的侵略、破坏和武装挑岭,胜利进行农业、工业、国防和科学技术现代化建设,为维护国家主权、安全和发展利益萸定了坚实基础。改革开放以来,党始终",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点#新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终"
+      }
+    },
+    {
+      "id": "concept-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "label": "坚持总体国家安全观进人新时代,我国发展的战略机逼和风险挑战并存,不确定和难预料因素增多,国家安全在党和国家工作全局中的重要性日益凸显。总体国家安全观与新时代国家安全实践相生相成、共进并行,为维护和塑造新时代国家安全提供了基本遮循。维护国家安全和塑造国家安全是统一的,塑造是更高层次、更具前睽性的维护。必须贯彻落实总体国家安全观,不断增强维护和塑造国家安全的能力,把保障国家安全的战略主动权牢牢掌握在自己手中。一、国家安全是民族复兴的根基国家安全是指国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态,以及保障持续安全状态的能力。“利莫大于治,害莉大于乱.“国家安全工作是党治国理政一项十分重要的工作,也是保障国泰民安一项十分重要的工作。国家安全是民族复兴的根基,社会稳定是国家强盛的前提。纵览世界各国发展史,国家的兴盛往往是在国家安全最稳固的时候,国家的落往往与安全政策失当密切相关。中国共产党诃生于国家内忧外患、民族危难之时,对国家安全的重要性有着刻骨饶心的认识。党领导人民迹行新民主主义革命,建立了中华人民共和国,彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权,结束了中华民族遣受帝国主义侵略、掠夺的历史。新中国成立后,党将保卫新生的人民政权作为国家安全工作的首要任务,战胜了帝国主义、霸权主义的侵略、破坏和武装挑岭,胜利进行农业、工业、国防和科学技术现代化建设,为维护国家主权、安全和发展利益萸定了坚实基础。改革开放以来,党始终",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????坚持总体国家安全观进人新时代,我国发展的战略机逼和风险挑战并存,不确定和难预料因素增多,国家安全在党和国家工作全局中的重要性日益凸显。总体国家安全观与新时代国家安全实践相生相成、共进并行,为维护和塑造新时代国家安全提供了基本遮循。维护国家安全和塑造国家安全是统一的,塑造是更高层次、更具前睽性的维护。必须贯彻落实总体国家安全观,不断增强维护和塑造国家安全的能力,把保障国家安全的战略主动权牢牢掌握在自己手中。一、国家安全是民族复兴的根基国家安全是指国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态,以及保障持续安全状态的能力。“利莫大于治,害莉大于乱.“国家安全工作是党治国理政一项十分重要的工作,也是保障国泰民安一项十分重要的工作。国家安全是民族复兴的根基,社会稳定是国家强盛的前提。纵览世界各国发展史,国家的兴盛往往是在国家安全最稳固的时候,国家的落往往与安全政策失当密切相关。中国共产党诃生于国家内忧外患、民族危难之时,对国家安全的重要性有着刻骨饶心的认识。党领导人民迹行新民主主义革命,建立了中华人民共和国,彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权,结束了中华民族遣受帝国主义侵略、掠夺的历史。新中国成立后,党将保卫新生的人民政权作为国家安全工作的首要任务,战胜了帝国主义、霸权主义的侵略、破坏和武装挑岭,胜利进行农业、工业、国防和科学技术现代化建设,为维护国家主权、安全和发展利益萸定了坚实基础。改革开放以来,党始终??????",
+      "summary": "?????坚持总体国家安全观进人新时代,我国发展的战略机逼和风险挑战并存,不确定和难预料因素增多,国家安全在党和国家工作全局中的重要性日益凸显。总体国家安全观与新时代国家安全实践相生相成、共进并行,为维护和塑造新时代国家安全提供了基本遮循。维护国家安全和塑造国家安全是统一的,塑造是更高层次、更具前睽性的维护。必须贯彻落实总体国家安全观,不断增强维护和塑造国家安全的能力,把保障国家安全的战略主动权牢牢掌握在自己手中。一、国家安全是民族复兴的根基国家安全是指国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态,以及保障持续安全状态的能力。“利莫大于治,害莉大于乱.“国家安全工作是党治国理政一项十分重要的工作,也是保障国泰民安一项十分重要的工作。国家安全是民族复兴的根基,社会稳定是国家强盛的前提。纵览世界各国发展史,国家的兴盛往往是在国家安全最稳固的时候,国家的落往往与安全政策失当密切相关。中国共产党诃生于国家内忧外患、民族危难之时,对国家安全的重要性有着刻骨饶心的认识。党领导人民迹行新民主主义革命,建立了中华人民共和国,彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权,结束了中华民族遣受帝国主义侵略、掠夺的历史。新中国成立后,党将保卫新生的人民政权作为国家安全工作的首要任务,战胜了帝国主义、霸权主义的侵略、破坏和武装挑岭,胜利进行农业、工业、国防和科学技术现代化建设,为维护国家主权、安全和发展利益萸定了坚实基础。改革开放以来,党始终??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-开m断时代国家宇全工作局面",
+      "label": "第一节 开M断时代国家宇全工作局面",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点#新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第一节-开m断时代国家宇全工作局面",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第一节-开m断时代国家宇全工作局面"
+      }
+    },
+    {
+      "id": "concept-开m断时代国家宇全工作局面",
+      "label": "开M断时代国家宇全工作局面",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????开M断时代国家宇全工作局面??????",
+      "summary": "?????开M断时代国家宇全工作局面??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二节-开8浩时仪国家宇全工作斧面",
+      "label": "第二节 开8浩时仪国家宇全工作斧面",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点#新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第二节-开8浩时仪国家宇全工作斧面",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十三章-维护和塑造国家安全园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十三章-维护和塑造国家安全园学乙要点/第二节-开8浩时仪国家宇全工作斧面"
+      }
+    },
+    {
+      "id": "concept-开8浩时仪国家宇全工作斧面",
+      "label": "开8浩时仪国家宇全工作斧面",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????开8浩时仪国家宇全工作斧面??????",
+      "summary": "?????开8浩时仪国家宇全工作斧面??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "label": "第十四章 建设巩固国防和强大人民军队",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 13,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+        "anchor": "新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十四章-建设巩固国防和强大人民军队-intro",
+      "label": "第十四章 建设巩固国防和强大人民军队 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队#新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第十四章-建设巩固国防和强大人民军队-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+        "anchor": "新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第十四章-建设巩固国防和强大人民军队-intro"
+      }
+    },
+    {
+      "id": "concept-第十四章",
+      "label": "第十四章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十四章??????",
+      "summary": "?????第十四章??????"
+    },
+    {
+      "id": "concept-建设巩固国防和强大人民军队",
+      "label": "建设巩固国防和强大人民军队",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????建设巩固国防和强大人民军队??????",
+      "summary": "?????建设巩固国防和强大人民军队??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-弹国心军-农骑才腐国官",
+      "label": "第一节 弹国心军,农骑才腐国官",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队#新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第一节-弹国心军-农骑才腐国官",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+        "anchor": "新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第一节-弹国心军-农骑才腐国官"
+      }
+    },
+    {
+      "id": "concept-弹国心军-农骑才腐国官",
+      "label": "弹国心军,农骑才腐国官",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????弹国心军,农骑才腐国官??????",
+      "summary": "?????弹国心军,农骑才腐国官??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "label": "第二节 “实现党在新时代的强军目标中国特色社会主义进人新时代,国防和军队建设也进人新时代。在新的历史条件下,党领导建立和发展的具有光荣传统的人民军队,如何谱写强军事业新篇章,是时代提出的重大课题。习近平创造性提出党在新时代的强军目标,明确了新时代我们党建军治军的总方晓,为建设巩固国防和强大军队提供了战晓指引。一、建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求。在革命、建设、改革的不同历史时期,我们党都根据形势任务发展变化,明确提出人民军队建",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队#新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+        "anchor": "新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建"
+      }
+    },
+    {
+      "id": "concept-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "label": "“实现党在新时代的强军目标中国特色社会主义进人新时代,国防和军队建设也进人新时代。在新的历史条件下,党领导建立和发展的具有光荣传统的人民军队,如何谱写强军事业新篇章,是时代提出的重大课题。习近平创造性提出党在新时代的强军目标,明确了新时代我们党建军治军的总方晓,为建设巩固国防和强大军队提供了战晓指引。一、建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求。在革命、建设、改革的不同历史时期,我们党都根据形势任务发展变化,明确提出人民军队建",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“实现党在新时代的强军目标中国特色社会主义进人新时代,国防和军队建设也进人新时代。在新的历史条件下,党领导建立和发展的具有光荣传统的人民军队,如何谱写强军事业新篇章,是时代提出的重大课题。习近平创造性提出党在新时代的强军目标,明确了新时代我们党建军治军的总方晓,为建设巩固国防和强大军队提供了战晓指引。一、建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求。在革命、建设、改革的不同历史时期,我们党都根据形势任务发展变化,明确提出人民军队建??????",
+      "summary": "?????“实现党在新时代的强军目标中国特色社会主义进人新时代,国防和军队建设也进人新时代。在新的历史条件下,党领导建立和发展的具有光荣传统的人民军队,如何谱写强军事业新篇章,是时代提出的重大课题。习近平创造性提出党在新时代的强军目标,明确了新时代我们党建军治军的总方晓,为建设巩固国防和强大军队提供了战晓指引。一、建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求。在革命、建设、改革的不同历史时期,我们党都根据形势任务发展变化,明确提出人民军队建??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二节-实现克在新阡任的农目招",
+      "label": "第二节 实现克在新阡任的农目招",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队#新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第二节-实现克在新阡任的农目招",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+        "anchor": "新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第二节-实现克在新阡任的农目招"
+      }
+    },
+    {
+      "id": "concept-实现克在新阡任的农目招",
+      "label": "实现克在新阡任的农目招",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????实现克在新阡任的农目招??????",
+      "summary": "?????实现克在新阡任的农目招??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第三节-加快排济国防和农科现代化",
+      "label": "第三节 加快排济国防和农科现代化",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队#新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第三节-加快排济国防和农科现代化",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十四章-建设巩固国防和强大人民军队",
+        "anchor": "新时代中国特色社会主义思想概论/第十四章-建设巩固国防和强大人民军队/第三节-加快排济国防和农科现代化"
+      }
+    },
+    {
+      "id": "concept-加快排济国防和农科现代化",
+      "label": "加快排济国防和农科现代化",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????加快排济国防和农科现代化??????",
+      "summary": "?????加快排济国防和农科现代化??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "label": "第十五章 “坚持“一国两制“和推进祖国完全统一园学乙要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 14,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "label": "第十五章 “坚持“一国两制“和推进祖国完全统一园学乙要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点#新时代中国特色社会主义思想概论/第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点/第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点/第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro"
+      }
+    },
+    {
+      "id": "concept-第十五章",
+      "label": "第十五章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十五章??????",
+      "summary": "?????第十五章??????"
+    },
+    {
+      "id": "concept-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "label": "“坚持“一国两制“和推进祖国完全统一园学乙要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“坚持“一国两制“和推进祖国完全统一园学乙要点??????",
+      "summary": "?????“坚持“一国两制“和推进祖国完全统一园学乙要点??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "label": "第十六章 “中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 15,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "label": "第十六章 “中国特色大国外交和推动构建人类命运共同体园学3要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点#新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro"
+      }
+    },
+    {
+      "id": "concept-第十六章",
+      "label": "第十六章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十六章??????",
+      "summary": "?????第十六章??????"
+    },
+    {
+      "id": "concept-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "label": "“中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“中国特色大国外交和推动构建人类命运共同体园学3要点??????",
+      "summary": "?????“中国特色大国外交和推动构建人类命运共同体园学3要点??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第一节-新时仪中国外交在大宣命中开剪局",
+      "label": "第一节 新时仪中国外交在大宣命中开剪局",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点#新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第一节-新时仪中国外交在大宣命中开剪局",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第一节-新时仪中国外交在大宣命中开剪局"
+      }
+    },
+    {
+      "id": "concept-新时仪中国外交在大宣命中开剪局",
+      "label": "新时仪中国外交在大宣命中开剪局",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????新时仪中国外交在大宣命中开剪局??????",
+      "summary": "?????新时仪中国外交在大宣命中开剪局??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二节-全面排述中国恩色大国外交",
+      "label": "第二节 全面排述中国恩色大国外交",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点#新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第二节-全面排述中国恩色大国外交",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第二节-全面排述中国恩色大国外交"
+      }
+    },
+    {
+      "id": "concept-全面排述中国恩色大国外交",
+      "label": "全面排述中国恩色大国外交",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????全面排述中国恩色大国外交??????",
+      "summary": "?????全面排述中国恩色大国外交??????"
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第二节-全面推浑中国特色大国外交",
+      "label": "第二节 全面推浑中国特色大国外交",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点#新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第二节-全面推浑中国特色大国外交",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点/第二节-全面推浑中国特色大国外交"
+      }
+    },
+    {
+      "id": "concept-全面推浑中国特色大国外交",
+      "label": "全面推浑中国特色大国外交",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????全面推浑中国特色大国外交??????",
+      "summary": "?????全面推浑中国特色大国外交??????"
+    },
+    {
+      "id": "chapter-new-era-socialism-thought-2023-chapter-第十七章-全面从严治党圆学乙要点",
+      "label": "第十七章 全面从严治党圆学乙要点",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 16,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十七章-全面从严治党圆学乙要点",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十七章-全面从严治党圆学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十七章-全面从严治党圆学乙要点"
+      }
+    },
+    {
+      "id": "section-new-era-socialism-thought-2023-section-第十七章-全面从严治党圆学乙要点-intro",
+      "label": "第十七章 全面从严治党圆学乙要点 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=new-era-socialism-thought-2023&chapter_id=new-era-socialism-thought-2023:chapter:第十七章-全面从严治党圆学乙要点#新时代中国特色社会主义思想概论/第十七章-全面从严治党圆学乙要点/第十七章-全面从严治党圆学乙要点-intro",
+      "ref": {
+        "book_id": "new-era-socialism-thought-2023",
+        "chapter_id": "new-era-socialism-thought-2023:chapter:第十七章-全面从严治党圆学乙要点",
+        "anchor": "新时代中国特色社会主义思想概论/第十七章-全面从严治党圆学乙要点/第十七章-全面从严治党圆学乙要点-intro"
+      }
+    },
+    {
+      "id": "concept-第十七章",
+      "label": "第十七章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第十七章??????",
+      "summary": "?????第十七章??????"
+    },
+    {
+      "id": "concept-全面从严治党圆学乙要点",
+      "label": "全面从严治党圆学乙要点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????全面从严治党圆学乙要点??????",
+      "summary": "?????全面从严治党圆学乙要点??????"
+    }
+  ],
+  "edges": [
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-preface",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-preface",
+      "target": "section-new-era-socialism-thought-2023-section-未命名章-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-未命名章-intro",
+      "target": "concept-未命名章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-未命名章-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-preface",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "target": "concept-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-preface",
+      "target": "section-new-era-socialism-thought-2023-section-第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "target": "concept-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "target": "concept-第二章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "target": "concept-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第三章-坚持党的全面领导园学乙要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第三章-坚持党的全面领导园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第三章-坚持党的全面领导园学乙要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三章-坚持党的全面领导园学乙要点-intro",
+      "target": "concept-第三章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三章-坚持党的全面领导园学乙要点-intro",
+      "target": "concept-坚持党的全面领导园学乙要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三章-坚持党的全面领导园学乙要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第三章-坚持党的全面领导园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "target": "concept-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第三章-坚持党的全面领导园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "target": "concept-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第四章-坚持以人民为中心园学乙要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第四章-坚持以人民为中心园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第四章-坚持以人民为中心园学乙要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第四章-坚持以人民为中心园学乙要点-intro",
+      "target": "concept-第四章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第四章-坚持以人民为中心园学乙要点-intro",
+      "target": "concept-坚持以人民为中心园学乙要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第四章-坚持以人民为中心园学乙要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第五章-全面深化改革开放园学书要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第五章-全面深化改革开放园学书要点",
+      "target": "section-new-era-socialism-thought-2023-section-第五章-全面深化改革开放园学书要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第五章-全面深化改革开放园学书要点-intro",
+      "target": "concept-第五章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第五章-全面深化改革开放园学书要点-intro",
+      "target": "concept-全面深化改革开放园学书要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第五章-全面深化改革开放园学书要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第六章-推动高质量发展园学习要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第六章-推动高质量发展园学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第六章-推动高质量发展园学习要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第六章-推动高质量发展园学习要点-intro",
+      "target": "concept-第六章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第六章-推动高质量发展园学习要点-intro",
+      "target": "concept-推动高质量发展园学习要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第六章-推动高质量发展园学习要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "target": "section-new-era-socialism-thought-2023-section-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "target": "concept-第七章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "target": "concept-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "target": "section-new-era-socialism-thought-2023-section-第四节-加俊汪人才弥",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第四节-加俊汪人才弥",
+      "target": "concept-第四节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第四节-加俊汪人才弥",
+      "target": "concept-加俊汪人才弥",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第八章-发展全过程人民民主",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第八章-发展全过程人民民主",
+      "target": "section-new-era-socialism-thought-2023-section-第八章-发展全过程人民民主-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第八章-发展全过程人民民主-intro",
+      "target": "concept-第八章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第八章-发展全过程人民民主-intro",
+      "target": "concept-发展全过程人民民主",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第八章-发展全过程人民民主-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第八章-发展全过程人民民主",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-坚定中国特色社会主义政治制度自信",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-坚定中国特色社会主义政治制度自信",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-坚定中国特色社会主义政治制度自信",
+      "target": "concept-坚定中国特色社会主义政治制度自信",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第八章-发展全过程人民民主",
+      "target": "section-new-era-socialism-thought-2023-section-第三节-倩全人民当家作士的刊庞体系",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-倩全人民当家作士的刊庞体系",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-倩全人民当家作士的刊庞体系",
+      "target": "concept-倩全人民当家作士的刊庞体系",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第九章-全面依法治国",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第九章-全面依法治国",
+      "target": "section-new-era-socialism-thought-2023-section-第九章-全面依法治国-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第九章-全面依法治国-intro",
+      "target": "concept-第九章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第九章-全面依法治国-intro",
+      "target": "concept-全面依法治国",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第九章-全面依法治国-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第九章-全面依法治国",
+      "target": "section-new-era-socialism-thought-2023-section-第一节",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第十章-建设社会主义文化强国圆学习要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十章-建设社会主义文化强国圆学习要点-intro",
+      "target": "concept-第十章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十章-建设社会主义文化强国圆学习要点-intro",
+      "target": "concept-建设社会主义文化强国圆学习要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十章-建设社会主义文化强国圆学习要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "target": "concept-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-文化春民陆生存积发属皇坂力",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-文化春民陆生存积发属皇坂力",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-文化春民陆生存积发属皇坂力",
+      "target": "concept-文化春民陆生存积发属皇坂力",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-文化是民限生帜发展的野力敲",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-文化是民限生帜发展的野力敲",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-文化是民限生帜发展的野力敲",
+      "target": "concept-文化是民限生帜发展的野力敲",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-witheeas",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-witheeas",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-witheeas",
+      "target": "concept-witheeas",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "target": "section-new-era-socialism-thought-2023-section-第三节-以社会主文振传佩玟引页北踊沥",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-以社会主文振传佩玟引页北踊沥",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-以社会主文振传佩玟引页北踊沥",
+      "target": "concept-以社会主文振传佩玟引页北踊沥",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "target": "section-new-era-socialism-thought-2023-section-第十一章-以保障和改善民生为重点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十一章-以保障和改善民生为重点-intro",
+      "target": "concept-第十一章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十一章-以保障和改善民生为重点-intro",
+      "target": "concept-以保障和改善民生为重点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十一章-以保障和改善民生为重点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-让人民生活标国是-国之大莲",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-让人民生活标国是-国之大莲",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-让人民生活标国是-国之大莲",
+      "target": "concept-让人民生活标国是-国之大莲",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-垂关兴河共单中据迪社伟泉颖琅代化",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-垂关兴河共单中据迪社伟泉颖琅代化",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-垂关兴河共单中据迪社伟泉颖琅代化",
+      "target": "concept-垂关兴河共单中据迪社伟泉颖琅代化",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "target": "section-new-era-socialism-thought-2023-section-第二节-建汪英国中国",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-建汪英国中国",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-建汪英国中国",
+      "target": "concept-建汪英国中国",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-建汞羟中国",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-建汞羟中国",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-建汞羟中国",
+      "target": "concept-建汞羟中国",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第十三章-维护和塑造国家安全园学乙要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十三章-维护和塑造国家安全园学乙要点-intro",
+      "target": "concept-第十三章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十三章-维护和塑造国家安全园学乙要点-intro",
+      "target": "concept-维护和塑造国家安全园学乙要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十三章-维护和塑造国家安全园学乙要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "target": "concept-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-开m断时代国家宇全工作局面",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-开m断时代国家宇全工作局面",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-开m断时代国家宇全工作局面",
+      "target": "concept-开m断时代国家宇全工作局面",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第二节-开8浩时仪国家宇全工作斧面",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-开8浩时仪国家宇全工作斧面",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-开8浩时仪国家宇全工作斧面",
+      "target": "concept-开8浩时仪国家宇全工作斧面",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "target": "section-new-era-socialism-thought-2023-section-第十四章-建设巩固国防和强大人民军队-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十四章-建设巩固国防和强大人民军队-intro",
+      "target": "concept-第十四章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十四章-建设巩固国防和强大人民军队-intro",
+      "target": "concept-建设巩固国防和强大人民军队",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十四章-建设巩固国防和强大人民军队-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-弹国心军-农骑才腐国官",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-弹国心军-农骑才腐国官",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-弹国心军-农骑才腐国官",
+      "target": "concept-弹国心军-农骑才腐国官",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "target": "section-new-era-socialism-thought-2023-section-第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "target": "concept-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "target": "section-new-era-socialism-thought-2023-section-第二节-实现克在新阡任的农目招",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-实现克在新阡任的农目招",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-实现克在新阡任的农目招",
+      "target": "concept-实现克在新阡任的农目招",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "target": "section-new-era-socialism-thought-2023-section-第三节-加快排济国防和农科现代化",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-加快排济国防和农科现代化",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第三节-加快排济国防和农科现代化",
+      "target": "concept-加快排济国防和农科现代化",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "target": "concept-第十五章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "target": "concept-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "target": "section-new-era-socialism-thought-2023-section-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "target": "concept-第十六章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "target": "concept-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "target": "section-new-era-socialism-thought-2023-section-第一节-新时仪中国外交在大宣命中开剪局",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-新时仪中国外交在大宣命中开剪局",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第一节-新时仪中国外交在大宣命中开剪局",
+      "target": "concept-新时仪中国外交在大宣命中开剪局",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "target": "section-new-era-socialism-thought-2023-section-第二节-全面排述中国恩色大国外交",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-全面排述中国恩色大国外交",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-全面排述中国恩色大国外交",
+      "target": "concept-全面排述中国恩色大国外交",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "target": "section-new-era-socialism-thought-2023-section-第二节-全面推浑中国特色大国外交",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-全面推浑中国特色大国外交",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第二节-全面推浑中国特色大国外交",
+      "target": "concept-全面推浑中国特色大国外交",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-new-era-socialism-thought-2023-chapter-第十七章-全面从严治党圆学乙要点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-new-era-socialism-thought-2023-chapter-第十七章-全面从严治党圆学乙要点",
+      "target": "section-new-era-socialism-thought-2023-section-第十七章-全面从严治党圆学乙要点-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十七章-全面从严治党圆学乙要点-intro",
+      "target": "concept-第十七章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十七章-全面从严治党圆学乙要点-intro",
+      "target": "concept-全面从严治党圆学乙要点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-new-era-socialism-thought-2023-section-第十七章-全面从严治党圆学乙要点-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    }
+  ],
+  "lanes": {
+    "chapters": [
+      "chapter-new-era-socialism-thought-2023-chapter-preface",
+      "chapter-new-era-socialism-thought-2023-chapter-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第三章-坚持党的全面领导园学乙要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第四章-坚持以人民为中心园学乙要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第五章-全面深化改革开放园学书要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第六章-推动高质量发展园学习要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "chapter-new-era-socialism-thought-2023-chapter-第八章-发展全过程人民民主",
+      "chapter-new-era-socialism-thought-2023-chapter-第九章-全面依法治国",
+      "chapter-new-era-socialism-thought-2023-chapter-第十章-建设社会主义文化强国圆学习要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第十一章-以保障和改善民生为重点",
+      "chapter-new-era-socialism-thought-2023-chapter-第十三章-维护和塑造国家安全园学乙要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第十四章-建设巩固国防和强大人民军队",
+      "chapter-new-era-socialism-thought-2023-chapter-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "chapter-new-era-socialism-thought-2023-chapter-第十七章-全面从严治党圆学乙要点"
+    ],
+    "sections": [
+      "section-new-era-socialism-thought-2023-section-未命名章-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "section-new-era-socialism-thought-2023-section-第三节-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "section-new-era-socialism-thought-2023-section-第二章-以中国式现代化全面推进中华民族伟大复兴圆学习要点-intro",
+      "section-new-era-socialism-thought-2023-section-第三章-坚持党的全面领导园学乙要点-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "section-new-era-socialism-thought-2023-section-第三节-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "section-new-era-socialism-thought-2023-section-第四章-坚持以人民为中心园学乙要点-intro",
+      "section-new-era-socialism-thought-2023-section-第五章-全面深化改革开放园学书要点-intro",
+      "section-new-era-socialism-thought-2023-section-第六章-推动高质量发展园学习要点-intro",
+      "section-new-era-socialism-thought-2023-section-第七章-社会主义现代化建设的教育-科技-人才战略园学3要炳-intro",
+      "section-new-era-socialism-thought-2023-section-第四节-加俊汪人才弥",
+      "section-new-era-socialism-thought-2023-section-第八章-发展全过程人民民主-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-坚定中国特色社会主义政治制度自信",
+      "section-new-era-socialism-thought-2023-section-第三节-倩全人民当家作士的刊庞体系",
+      "section-new-era-socialism-thought-2023-section-第九章-全面依法治国-intro",
+      "section-new-era-socialism-thought-2023-section-第一节",
+      "section-new-era-socialism-thought-2023-section-第十章-建设社会主义文化强国圆学习要点-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "section-new-era-socialism-thought-2023-section-第一节-文化春民陆生存积发属皇坂力",
+      "section-new-era-socialism-thought-2023-section-第一节-文化是民限生帜发展的野力敲",
+      "section-new-era-socialism-thought-2023-section-第一节-witheeas",
+      "section-new-era-socialism-thought-2023-section-第三节-以社会主文振传佩玟引页北踊沥",
+      "section-new-era-socialism-thought-2023-section-第十一章-以保障和改善民生为重点-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-让人民生活标国是-国之大莲",
+      "section-new-era-socialism-thought-2023-section-第一节-垂关兴河共单中据迪社伟泉颖琅代化",
+      "section-new-era-socialism-thought-2023-section-第二节-建汪英国中国",
+      "section-new-era-socialism-thought-2023-section-第一节-建汞羟中国",
+      "section-new-era-socialism-thought-2023-section-第十三章-维护和塑造国家安全园学乙要点-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "section-new-era-socialism-thought-2023-section-第一节-开m断时代国家宇全工作局面",
+      "section-new-era-socialism-thought-2023-section-第二节-开8浩时仪国家宇全工作斧面",
+      "section-new-era-socialism-thought-2023-section-第十四章-建设巩固国防和强大人民军队-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-弹国心军-农骑才腐国官",
+      "section-new-era-socialism-thought-2023-section-第二节-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "section-new-era-socialism-thought-2023-section-第二节-实现克在新阡任的农目招",
+      "section-new-era-socialism-thought-2023-section-第三节-加快排济国防和农科现代化",
+      "section-new-era-socialism-thought-2023-section-第十五章-坚持-一国两制-和推进祖国完全统一园学乙要点-intro",
+      "section-new-era-socialism-thought-2023-section-第十六章-中国特色大国外交和推动构建人类命运共同体园学3要点-intro",
+      "section-new-era-socialism-thought-2023-section-第一节-新时仪中国外交在大宣命中开剪局",
+      "section-new-era-socialism-thought-2023-section-第二节-全面排述中国恩色大国外交",
+      "section-new-era-socialism-thought-2023-section-第二节-全面推浑中国特色大国外交",
+      "section-new-era-socialism-thought-2023-section-第十七章-全面从严治党圆学乙要点-intro"
+    ],
+    "concepts": [
+      "concept-未命名章",
+      "concept-导言",
+      "concept-第一节",
+      "concept-方向决定道路-道路决定命运道路问题是关系党的事业兴衰成败第一位的闰题-中国特色社会主义是中国共产党领导中国人民长期探索-始终坚持-接续发展的结果",
+      "concept-第三节",
+      "concept-新时代坚持和发展中国特色社会主义要一以贯之新时代中国特色社会主义是我们党领导人民进行伟大社会革命的成果-也是我们党领导人民进行伟大社会革命的继续-必须一以贯之进行下去-要全面贯彻党的基本理论-基本路线-基本方略-统筹推进-五位一体-总体布局和协调推进-四个全面-战略布局-以咬定青山不放松的定力持续奋斗-谱写新时代中国特色社会主义更加绚丽的华章",
+      "concept-第二章",
+      "concept-以中国式现代化全面推进中华民族伟大复兴圆学习要点",
+      "concept-第三章",
+      "concept-坚持党的全面领导园学乙要点",
+      "concept-中国共产党领导是中国特色社会主义最本质的特征中国特色社会主义有很多特点和特征-其中最本质的特征是中国共产党领导-这个最本质特征是在近代以来中国历史发展中形成的-是由中国最广大人民根本利益和实现中华民族伟大复兴历史任务决定的-中国特色社会主义其他特点和特征都是由党的领导这一最本质特征冯定的",
+      "concept-健全和完善党的领导制度体系坚持党的全面领导-必须依靠制度来保障-党的领导制度是我国的根本领导制度-要健全党中央对重大工作的领导体制-健全党的全面领导制度-不断完善总揽全局-协调各方的党的领导制度体系",
+      "concept-第四章",
+      "concept-坚持以人民为中心园学乙要点",
+      "concept-第五章",
+      "concept-全面深化改革开放园学书要点",
+      "concept-第六章",
+      "concept-推动高质量发展园学习要点",
+      "concept-第七章",
+      "concept-社会主义现代化建设的教育-科技-人才战略园学3要炳",
+      "concept-第四节",
+      "concept-加俊汪人才弥",
+      "concept-第八章",
+      "concept-发展全过程人民民主",
+      "concept-坚定中国特色社会主义政治制度自信",
+      "concept-倩全人民当家作士的刊庞体系",
+      "concept-第九章",
+      "concept-全面依法治国",
+      "concept-第十章",
+      "concept-建设社会主义文化强国圆学习要点",
+      "concept-文化是民族生存和发展的重要力量文化是一个国家-一个民族的灵魂-国家的富强-民族的振兴-无不伴随着文化的历史伯进步-要坚持中国特色社会主义文化发展道路",
+      "concept-文化春民陆生存积发属皇坂力",
+      "concept-文化是民限生帜发展的野力敲",
+      "concept-witheeas",
+      "concept-以社会主文振传佩玟引页北踊沥",
+      "concept-第十一章",
+      "concept-以保障和改善民生为重点",
+      "concept-让人民生活标国是-国之大莲",
+      "concept-垂关兴河共单中据迪社伟泉颖琅代化",
+      "concept-第二节",
+      "concept-建汪英国中国",
+      "concept-建汞羟中国",
+      "concept-第十三章",
+      "concept-维护和塑造国家安全园学乙要点",
+      "concept-坚持总体国家安全观进人新时代-我国发展的战略机逼和风险挑战并存-不确定和难预料因素增多-国家安全在党和国家工作全局中的重要性日益凸显-总体国家安全观与新时代国家安全实践相生相成-共进并行-为维护和塑造新时代国家安全提供了基本遮循-维护国家安全和塑造国家安全是统一的-塑造是更高层次-更具前睽性的维护-必须贯彻落实总体国家安全观-不断增强维护和塑造国家安全的能力-把保障国家安全的战略主动权牢牢掌握在自己手中-一-国家安全是民族复兴的根基国家安全是指国家政权-主权-统一和领土完整-人民福祉-经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态-以及保障持续安全状态的能力-利莫大于治-害莉大于乱-国家安全工作是党治国理政一项十分重要的工作-也是保障国泰民安一项十分重要的工作-国家安全是民族复兴的根基-社会稳定是国家强盛的前提-纵览世界各国发展史-国家的兴盛往往是在国家安全最稳固的时候-国家的落往往与安全政策失当密切相关-中国共产党诃生于国家内忧外患-民族危难之时-对国家安全的重要性有着刻骨饶心的认识-党领导人民迹行新民主主义革命-建立了中华人民共和国-彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权-结束了中华民族遣受帝国主义侵略-掠夺的历史-新中国成立后-党将保卫新生的人民政权作为国家安全工作的首要任务-战胜了帝国主义-霸权主义的侵略-破坏和武装挑岭-胜利进行农业-工业-国防和科学技术现代化建设-为维护国家主权-安全和发展利益萸定了坚实基础-改革开放以来-党始终",
+      "concept-开m断时代国家宇全工作局面",
+      "concept-开8浩时仪国家宇全工作斧面",
+      "concept-第十四章",
+      "concept-建设巩固国防和强大人民军队",
+      "concept-弹国心军-农骑才腐国官",
+      "concept-实现党在新时代的强军目标中国特色社会主义进人新时代-国防和军队建设也进人新时代-在新的历史条件下-党领导建立和发展的具有光荣传统的人民军队-如何谱写强军事业新篇章-是时代提出的重大课题-习近平创造性提出党在新时代的强军目标-明确了新时代我们党建军治军的总方晓-为建设巩固国防和强大军队提供了战晓指引-一-建设强大军队是接续奋斗的伟大事业建设强大的人民军队是我们党的不懈追求-在革命-建设-改革的不同历史时期-我们党都根据形势任务发展变化-明确提出人民军队建",
+      "concept-实现克在新阡任的农目招",
+      "concept-加快排济国防和农科现代化",
+      "concept-第十五章",
+      "concept-坚持-一国两制-和推进祖国完全统一园学乙要点",
+      "concept-第十六章",
+      "concept-中国特色大国外交和推动构建人类命运共同体园学3要点",
+      "concept-新时仪中国外交在大宣命中开剪局",
+      "concept-全面排述中国恩色大国外交",
+      "concept-全面推浑中国特色大国外交",
+      "concept-第十七章",
+      "concept-全面从严治党圆学乙要点"
+    ]
+  }
+}

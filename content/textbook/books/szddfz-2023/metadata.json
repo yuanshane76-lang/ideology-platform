@@ -1,0 +1,12 @@
+{
+  "book_id": "szddfz-2023",
+  "title": "思想道德与法治",
+  "subject": "思想政治理论课",
+  "version": "2023",
+  "description": "《思想道德与法治》2023 年版教材。",
+  "enabled": true,
+  "source_type": "markdown",
+  "ingest_status": "parsed",
+  "source_path": "content/books/szddfz-2023/source/book.md",
+  "processed_path": "content/books/szddfz-2023/processed/book.json"
+}

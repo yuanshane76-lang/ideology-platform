@@ -1,0 +1,24 @@
+{
+  "book_id": "szddfz-2023",
+  "chapter_count": 8,
+  "section_count": 31,
+  "block_count": 1116,
+  "noise_block_count": 20,
+  "filtered_noise_count": 11,
+  "status": "partial_success",
+  "notes": [
+    "Markdown 解析完成：识别 8 个 chapter、31 个 section、1116 个 block。",
+    "源文件标题统计：7 个 ## chapter、23 个 ### section。",
+    "已过滤 11 个明显噪音 block。",
+    "另有 9 个可疑 block 已保留并标记 is_noise=true。",
+    "检测到章标题之前的内容，已归入默认 chapter。",
+    "章<未命名章>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<绪论 担当复兴大任 成就时代新人>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第一章 领悟人生真谛把握人生方向>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第二章 追求远大理想坚定崇高信念>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第三章 继承优良传统弘扬中国精神>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第四章 明确价值要求践行价值准则>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第五章 遵守道德规范锤炼道德品格>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第六章 学习法治思想提升法治素养>下存在未显式标注的小节内容，已归入默认 section。"
+  ]
+}

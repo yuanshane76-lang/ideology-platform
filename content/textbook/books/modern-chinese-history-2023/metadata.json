@@ -1,0 +1,12 @@
+{
+  "book_id": "modern-chinese-history-2023",
+  "title": "中国近现代史纲要",
+  "subject": "思想政治理论课",
+  "version": "2023",
+  "description": "《中国近现代史纲要》2023 年版教材。",
+  "enabled": false,
+  "source_type": "markdown",
+  "ingest_status": "needs_ocr",
+  "source_path": "content/books/modern-chinese-history-2023/source/book.md",
+  "processed_path": "content/books/modern-chinese-history-2023/processed/book.json"
+}

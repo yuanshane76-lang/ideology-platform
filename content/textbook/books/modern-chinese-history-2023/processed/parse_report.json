@@ -1,0 +1,18 @@
+{
+  "book_id": "modern-chinese-history-2023",
+  "chapter_count": 2,
+  "section_count": 11,
+  "block_count": 1498,
+  "noise_block_count": 13,
+  "filtered_noise_count": 1,
+  "status": "partial_success",
+  "notes": [
+    "Markdown 解析完成：识别 2 个 chapter、11 个 section、1498 个 block。",
+    "源文件标题统计：1 个 ## chapter、9 个 ### section。",
+    "已过滤 1 个明显噪音 block。",
+    "另有 12 个可疑 block 已保留并标记 is_noise=true。",
+    "检测到章标题之前的内容，已归入默认 chapter。",
+    "章<未命名章>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第二章>下存在未显式标注的小节内容，已归入默认 section。"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": "marxism-basic-principles-2023",
+  "chapter_count": 9,
+  "section_count": 30,
+  "block_count": 1502,
+  "noise_block_count": 4,
+  "filtered_noise_count": 0,
+  "status": "partial_success",
+  "notes": [
+    "Markdown 解析完成：识别 9 个 chapter、30 个 section、1502 个 block。",
+    "源文件标题统计：8 个 ## chapter、21 个 ### section。",
+    "另有 4 个可疑 block 已保留并标记 is_noise=true。",
+    "检测到章标题之前的内容，已归入默认 chapter。",
+    "章<未命名章>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<导论>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第一章 世界的物质性及发展规律>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第二章 实践与认识及其发展规律>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第三章 人类社会及其发展规律>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第四章 资本主义的本质及规律>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第五章 资本主义的发展及其趋势>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第六章 社会主义的发展及其规律>下存在未显式标注的小节内容，已归入默认 section。",
+    "章<第七章 共产主义崇高理想及其最终实现>下存在未显式标注的小节内容，已归入默认 section。"
+  ]
+}

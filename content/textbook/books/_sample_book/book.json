@@ -1,0 +1,22 @@
+{
+  "book_id": "sample-modern-ideology-book",
+  "title": "示例教材标题",
+  "subtitle": "示例副标题，可为空",
+  "subject": "思政教育",
+  "version": "2026-preview",
+  "source_type": "markdown",
+  "language": "zh-CN",
+  "cover": "assets/cover.png",
+  "description": "这是一本用于说明教材输入规范的示例教材，不作为正式内容来源。",
+  "chapter_order": [
+    "01-introduction-to-theory",
+    "02-cultural-confidence"
+  ],
+  "enabled": true,
+  "ingest_status": "parsed",
+  "entry_chapter": "01-introduction-to-theory",
+  "tags": [
+    "sample",
+    "architecture"
+  ]
+}

@@ -1,0 +1,2023 @@
+{
+  "meta": {
+    "source": "enrichment-driven",
+    "book_id": "szddfz-2023",
+    "generated_at": "2026-04-20T10:39:57.765728+00:00",
+    "concept_count": 24,
+    "total_concepts_found": 30
+  },
+  "nodes": [
+    {
+      "id": "book-core",
+      "label": "思想道德与法治",
+      "type": "book",
+      "group": "core",
+      "depth": 0,
+      "orbit": 0,
+      "angle": 0,
+      "description": "《思想道德与法治》2023 年版。",
+      "summary": "《思想道德与法治》2023 年版。",
+      "style_hint": "core"
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "label": "绪论 担当复兴大任 成就时代新人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 1,
+      "description": "核心概念: 时代新人, 理想信念, 民族复兴, 思想道德素质, 中国式现代化",
+      "summary": "核心概念: 时代新人, 理想信念, 民族复兴, 思想道德素质, 中国式现代化",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "label": "第一章 领悟人生真谛把握人生方向",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 2,
+      "description": "核心概念: 人生观, 人生价值, 青春之问, 科学理论指导, 人的本质",
+      "summary": "核心概念: 人生观, 人生价值, 青春之问, 科学理论指导, 人的本质",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "label": "第二章 追求远大理想坚定崇高信念",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 3,
+      "description": "核心概念: 理想信念, 中国特色社会主义共同理想, 个人理想, 立德树人",
+      "summary": "核心概念: 理想信念, 中国特色社会主义共同理想, 个人理想, 立德树人",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "label": "第三章 继承优良传统弘扬中国精神",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 4,
+      "description": "核心概念: 中国精神",
+      "summary": "核心概念: 中国精神",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "label": "第四章 明确价值要求践行价值准则",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 5,
+      "description": "核心概念: 社会主义核心价值观",
+      "summary": "核心概念: 社会主义核心价值观",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "label": "第五章 遵守道德规范锤炼道德品格",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 6,
+      "description": "核心概念: 中华传统美德",
+      "summary": "核心概念: 中华传统美德",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格"
+      }
+    },
+    {
+      "id": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "label": "第六章 学习法治思想提升法治素养",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 7,
+      "description": "核心概念: 习近平法治思想, 中国特色社会主义法治道路",
+      "summary": "核心概念: 习近平法治思想, 中国特色社会主义法治道路",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "label": "绪论 担当复兴大任 成就时代新人 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "description": "本节阐明当代大学生所处的历史方位——中国特色社会主义新时代，强调青年肩负实现民族复兴的时代使命；提出成为时代新人的根本要求：立大志、明大德、成大才、担大任，核心在于坚定理想信念、锤炼道德品格、提升思想道德素质与法治素养，在中国式现代化进程中",
+      "summary": "本节阐明当代大学生所处的历史方位——中国特色社会主义新时代，强调青年肩负实现民族复兴的时代使命；提出成为时代新人的根本要求：立大志、明大德、成大才、担大任，核心在于坚定理想信念、锤炼道德品格、提升思想道德素质与法治素养，在中国式现代化进程中",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "label": "第一章 领悟人生真谛把握人生方向 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "description": "本节导言提出当代大学生面临的时代困惑与现实挑战，强调必须在科学理论指导下树立正确人生观，将个人理想融入国家发展和人民实践，在奋斗中实现人生价值。",
+      "summary": "本节导言提出当代大学生面临的时代困惑与现实挑战，强调必须在科学理论指导下树立正确人生观，将个人理想融入国家发展和人民实践，在奋斗中实现人生价值。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "label": "第一节 人生观是对人生的总看法",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "description": "本节阐明人生观是对人生根本问题的总体看法，强调树立正确人生观须以马克思主义关于人的本质认识为前提，即人的本质是现实社会关系的总和；进而分析个人与社会的辩证统一关系，指出社会性是人的根本属性；最后系统阐释人生观的三大构成要素——人生目的、人生",
+      "summary": "本节阐明人生观是对人生根本问题的总体看法，强调树立正确人生观须以马克思主义关于人的本质认识为前提，即人的本质是现实社会关系的总和；进而分析个人与社会的辩证统一关系，指出社会性是人的根本属性；最后系统阐释人生观的三大构成要素——人生目的、人生",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%BA%BA%E7%94%9F%E8%A7%82%E6%98%AF%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E6%80%BB%E7%9C%8B%E6%B3%95",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一节-人生观是对人生的总看法"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-正确的人生观",
+      "label": "第二节 正确的人生观",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "description": "本节阐明正确人生观的核心构成：以服务人民、奉献社会为高尚人生目的，以认真务实、乐观进取为基本人生态度，以奉献为首要标准确立人生价值；强调该追求根植于历史唯物主义，契合社会主义市场经济要求，是大学生把握人生方向、实现人生意义的根本遵循。",
+      "summary": "本节阐明正确人生观的核心构成：以服务人民、奉献社会为高尚人生目的，以认真务实、乐观进取为基本人生态度，以奉献为首要标准确立人生价值；强调该追求根植于历史唯物主义，契合社会主义市场经济要求，是大学生把握人生方向、实现人生意义的根本遵循。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-正确的人生观",
+      "label": "第二节 正确的人生观",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "description": "本节阐明正确人生观的核心构成：以服务人民、奉献社会为高尚人生目的，以认真务实、乐观进取为基本人生态度，以奉献为首要标准确立人生价值；强调该追求根植于历史唯物主义，契合社会主义市场经济要求，是大学生把握人生方向、实现人生意义的根本遵循。",
+      "summary": "本节阐明正确人生观的核心构成：以服务人民、奉献社会为高尚人生目的，以认真务实、乐观进取为基本人生态度，以奉献为首要标准确立人生价值；强调该追求根植于历史唯物主义，契合社会主义市场经济要求，是大学生把握人生方向、实现人生意义的根本遵循。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-创造有意义的人生",
+      "label": "第三节 创造有意义的人生",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 6,
+      "description": "本节围绕创造有意义的人生，系统阐释大学生应辩证看待得与失、苦与乐、顺与逆、生与死、荣与辱五对人生矛盾，强调在社会实践和价值奉献中超越个体局限，以革命乐观主义精神和顽强奋斗姿态提升人生境界，实现个体生命价值与社会进步的有机统一。",
+      "summary": "本节围绕创造有意义的人生，系统阐释大学生应辩证看待得与失、苦与乐、顺与逆、生与死、荣与辱五对人生矛盾，强调在社会实践和价值奉献中超越个体局限，以革命乐观主义精神和顽强奋斗姿态提升人生境界，实现个体生命价值与社会进步的有机统一。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%88%9B%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BA%BA%E7%94%9F",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第三节-创造有意义的人生"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二章-追求远大理想坚定崇高信念-intro",
+      "label": "第二章 追求远大理想坚定崇高信念 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 7,
+      "description": "本节导言强调理想信念对人生发展的引领和激励作用，指出大学是青年树立远大理想、坚定崇高信念的关键阶段，倡导将个人理想融入中国特色社会主义共同理想，在服务国家与人民中实现自身成长成才。",
+      "summary": "本节导言强调理想信念对人生发展的引领和激励作用，指出大学是青年树立远大理想、坚定崇高信念的关键阶段，倡导将个人理想融入中国特色社会主义共同理想，在服务国家与人民中实现自身成长成才。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第二章-追求远大理想坚定崇高信念-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "label": "第一节 理想信念的内涵及重要性",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 8,
+      "description": "本节阐释理想信念作为精神核心的内涵与功能：理想是多类型、具超越性实践性时代性的奋斗目标；信念是认知情感意志统一的坚定精神状态；二者互为支撑，共同构成‘精神之钙’，昭示方向、催生动力、塑造人格，并以长征、‘中国天眼’等例证其现实力量。",
+      "summary": "本节阐释理想信念作为精神核心的内涵与功能：理想是多类型、具超越性实践性时代性的奋斗目标；信念是认知情感意志统一的坚定精神状态；二者互为支撑，共同构成‘精神之钙’，昭示方向、催生动力、塑造人格，并以长征、‘中国天眼’等例证其现实力量。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E7%90%86%E6%83%B3%E4%BF%A1%E5%BF%B5%E7%9A%84%E5%86%85%E6%B6%B5%E5%8F%8A%E9%87%8D%E8%A6%81%E6%80%A7",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第一节-理想信念的内涵及重要性"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "label": "第一节 理想信念的内涵及重要性",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 9,
+      "description": "本节阐释理想信念作为精神核心的内涵与功能：理想是多类型、具超越性实践性时代性的奋斗目标；信念是认知情感意志统一的坚定精神状态；二者互为支撑，共同构成‘精神之钙’，昭示方向、催生动力、塑造人格，并以长征、‘中国天眼’等例证其现实力量。",
+      "summary": "本节阐释理想信念作为精神核心的内涵与功能：理想是多类型、具超越性实践性时代性的奋斗目标；信念是认知情感意志统一的坚定精神状态；二者互为支撑，共同构成‘精神之钙’，昭示方向、催生动力、塑造人格，并以长征、‘中国天眼’等例证其现实力量。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E7%90%86%E6%83%B3%E4%BF%A1%E5%BF%B5%E7%9A%84%E5%86%85%E6%B6%B5%E5%8F%8A%E9%87%8D%E8%A6%81%E6%80%A7",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第一节-理想信念的内涵及重要性"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-坚定信仰信念信心",
+      "label": "第二节 坚定信仰信念信心",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 10,
+      "description": "本节围绕坚定信仰、信念、信心展开，强调马克思主义是立党立国根本指导思想，阐明其科学性、人民性、实践性与开放性；指出对马克思主义的信仰、对中国特色社会主义的信念、对民族复兴的信心构成当代青年精神支柱，并以董必武等历史人物为范例，凸显理想信念的",
+      "summary": "本节围绕坚定信仰、信念、信心展开，强调马克思主义是立党立国根本指导思想，阐明其科学性、人民性、实践性与开放性；指出对马克思主义的信仰、对中国特色社会主义的信念、对民族复兴的信心构成当代青年精神支柱，并以董必武等历史人物为范例，凸显理想信念的",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%9D%9A%E5%AE%9A%E4%BF%A1%E4%BB%B0%E4%BF%A1%E5%BF%B5%E4%BF%A1%E5%BF%83",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第二节-坚定信仰信念信心"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-在实现中国梦的实践中放飞青春梦想",
+      "label": "第三节 在实现中国梦的实践中放飞青春梦想",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 11,
+      "description": "本节阐明理想与现实的辩证关系，强调实践是连接二者的唯一桥梁；指出实现理想具有长期性、艰巨性和曲折性，艰苦奋斗始终是不可或缺的精神支撑；同时要求青年将个人理想自觉融入中华民族伟大复兴的中国梦，在知行合一、服务社会的实践中放飞青春梦想。",
+      "summary": "本节阐明理想与现实的辩证关系，强调实践是连接二者的唯一桥梁；指出实现理想具有长期性、艰巨性和曲折性，艰苦奋斗始终是不可或缺的精神支撑；同时要求青年将个人理想自觉融入中华民族伟大复兴的中国梦，在知行合一、服务社会的实践中放飞青春梦想。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E8%BF%BD%E6%B1%82%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E5%9D%9A%E5%AE%9A%E5%B4%87%E9%AB%98%E4%BF%A1%E5%BF%B5%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%9C%A8%E5%AE%9E%E7%8E%B0%E4%B8%AD%E5%9B%BD%E6%A2%A6%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%AD%E6%94%BE%E9%A3%9E%E9%9D%92%E6%98%A5%E6%A2%A6%E6%83%B3",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+        "anchor": "思想道德与法治/第二章-追求远大理想坚定崇高信念/第三节-在实现中国梦的实践中放飞青春梦想"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三章-继承优良传统弘扬中国精神-intro",
+      "label": "第三章 继承优良传统弘扬中国精神 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 12,
+      "description": "本节导言阐明实现中华民族伟大复兴必须弘扬中国精神，即以爱国主义为核心的民族精神和以改革创新为核心的时代精神；强调二者分别发挥团结纽带与前进动力作用，并指出当代大学生应以忠诚爱国者和奋进者的姿态践行中国精神。",
+      "summary": "本节导言阐明实现中华民族伟大复兴必须弘扬中国精神，即以爱国主义为核心的民族精神和以改革创新为核心的时代精神；强调二者分别发挥团结纽带与前进动力作用，并指出当代大学生应以忠诚爱国者和奋进者的姿态践行中国精神。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第三章-继承优良传统弘扬中国精神-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-中国精神是兴国强国之魂",
+      "label": "第一节 中国精神是兴国强国之魂",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 13,
+      "description": "本节阐明中国精神作为兴国强国之魂的核心地位，系统阐释中华民族崇尚精神的三大传统表现——对精神生活与物质关系的独到理解、对理想的不懈追求、对人格修养的高度重视；进而揭示中国精神的四大内涵：伟大创造精神、伟大奋斗精神、伟大团结精神和伟大梦想精神",
+      "summary": "本节阐明中国精神作为兴国强国之魂的核心地位，系统阐释中华民族崇尚精神的三大传统表现——对精神生活与物质关系的独到理解、对理想的不懈追求、对人格修养的高度重视；进而揭示中国精神的四大内涵：伟大创造精神、伟大奋斗精神、伟大团结精神和伟大梦想精神",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%E6%98%AF%E5%85%B4%E5%9B%BD%E5%BC%BA%E5%9B%BD%E4%B9%8B%E9%AD%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第一节-中国精神是兴国强国之魂"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-做新时代的忠诚爱国者",
+      "label": "第二节 做新时代的忠诚爱国者",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 14,
+      "description": "本节阐述新时代爱国主义的核心要求：坚持爱国爱党爱社会主义高度统一，强调三者统一于民族复兴实践；突出维护祖国统一和民族团结的根本立场，深入阐释‘一国两制’方针、一个中国原则和‘两岸一家亲’理念；倡导爱国主义须落于实践，反对空喊口号，要求青年将",
+      "summary": "本节阐述新时代爱国主义的核心要求：坚持爱国爱党爱社会主义高度统一，强调三者统一于民族复兴实践；突出维护祖国统一和民族团结的根本立场，深入阐释‘一国两制’方针、一个中国原则和‘两岸一家亲’理念；倡导爱国主义须落于实践，反对空喊口号，要求青年将",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%81%9A%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%BF%A0%E8%AF%9A%E7%88%B1%E5%9B%BD%E8%80%85",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第二节-做新时代的忠诚爱国者"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-让改革创新成为青春远航的动力",
+      "label": "第三节 让改革创新成为青春远航的动力",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 15,
+      "description": "改革创新是当代中国最突出、最鲜明的特点。大学生富有想象力和创造力,是改革创新的生力军,要在改革创新的实践中奉献祖国、服务人民、实现价值,让改革创新成为青春远航的",
+      "summary": "改革创新是当代中国最突出、最鲜明的特点。大学生富有想象力和创造力,是改革创新的生力军,要在改革创新的实践中奉献祖国、服务人民、实现价值,让改革创新成为青春远航的",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E8%AE%A9%E6%94%B9%E9%9D%A9%E5%88%9B%E6%96%B0%E6%88%90%E4%B8%BA%E9%9D%92%E6%98%A5%E8%BF%9C%E8%88%AA%E7%9A%84%E5%8A%A8%E5%8A%9B",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第三节-让改革创新成为青春远航的动力"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第四章-明确价值要求践行价值准则-intro",
+      "label": "第四章 明确价值要求践行价值准则 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 16,
+      "description": "本节指出全社会共同认可的核心价值观是最持久最深层的力量，强调社会主义核心价值观是当代中国精神的集中体现和全体人民的价值共识，号召大学生深刻领会其意义与内涵，自觉成为信仰者、传播者和践行者。",
+      "summary": "本节指出全社会共同认可的核心价值观是最持久最深层的力量，强调社会主义核心价值观是当代中国精神的集中体现和全体人民的价值共识，号召大学生深刻领会其意义与内涵，自觉成为信仰者、传播者和践行者。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第四章-明确价值要求践行价值准则-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-全体人民共同的价值追求",
+      "label": "第一节 全体人民共同的价值追求",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 17,
+      "description": "本节阐明价值观的本质特征及其时代性、民族性与阶级性，指出核心价值观是一个社会的精神纽带和稳定器；重点阐释社会主义核心价值观的提出背景、理论定位与基本内容，强调其作为全体人民共同价值追求的凝练表达，是凝聚中国力量、实现民族复兴的价值引领。",
+      "summary": "本节阐明价值观的本质特征及其时代性、民族性与阶级性，指出核心价值观是一个社会的精神纽带和稳定器；重点阐释社会主义核心价值观的提出背景、理论定位与基本内容，强调其作为全体人民共同价值追求的凝练表达，是凝聚中国力量、实现民族复兴的价值引领。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%85%A8%E4%BD%93%E4%BA%BA%E6%B0%91%E5%85%B1%E5%90%8C%E7%9A%84%E4%BB%B7%E5%80%BC%E8%BF%BD%E6%B1%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第一节-全体人民共同的价值追求"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-社会主义核心价值观的显著特征",
+      "label": "第二节 社会主义核心价值观的显著特征",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 18,
+      "description": "本节阐述社会主义核心价值观的三大显著特征：先进性体现其对人类社会发展规律的把握与价值升华；人民性强调其始终立足人民群众历史主体地位和根本利益；真实性表现为扎根中国特色社会主义实践、可践行可验证。三者统一于社会主义制度的精神内核，彰显其道义制",
+      "summary": "本节阐述社会主义核心价值观的三大显著特征：先进性体现其对人类社会发展规律的把握与价值升华；人民性强调其始终立足人民群众历史主体地位和根本利益；真实性表现为扎根中国特色社会主义实践、可践行可验证。三者统一于社会主义制度的精神内核，彰显其道义制",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E7%9A%84%E6%98%BE%E8%91%97%E7%89%B9%E5%BE%81",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第二节-社会主义核心价值观的显著特征"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "label": "第三节 积极践行社会主义核心价值观",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 19,
+      "description": "本节强调青年特别是大学生在社会主义核心价值观培育中的关键地位，以“扣好人生扣子”为喻，指出大学阶段是价值观确立的黄金期；提出“勤学、修德、明辨、笃实”四条实践路径，倡导将核心价值观落细落小落实于日常言行，实现从认知认同到自觉践行的转化。",
+      "summary": "本节强调青年特别是大学生在社会主义核心价值观培育中的关键地位，以“扣好人生扣子”为喻，指出大学阶段是价值观确立的黄金期；提出“勤学、修德、明辨、笃实”四条实践路径，倡导将核心价值观落细落小落实于日常言行，实现从认知认同到自觉践行的转化。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E7%A7%AF%E6%9E%81%E8%B7%B5%E8%A1%8C%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第三节-积极践行社会主义核心价值观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "label": "第三节 积极践行社会主义核心价值观13S",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 20,
+      "description": "本节围绕青年如何积极践行社会主义核心价值观展开，强调明辨是非的价值判断力、笃实干事的行动力、知行合一的转化力，指出大学生应在学业选择、社会实践和日常修身中将核心价值观转化为人生准则，通过读万卷书与行万里路相结合，在服务基层与艰苦奋斗中实现价",
+      "summary": "本节围绕青年如何积极践行社会主义核心价值观展开，强调明辨是非的价值判断力、笃实干事的行动力、知行合一的转化力，指出大学生应在学业选择、社会实践和日常修身中将核心价值观转化为人生准则，通过读万卷书与行万里路相结合，在服务基层与艰苦奋斗中实现价",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E7%A7%AF%E6%9E%81%E8%B7%B5%E8%A1%8C%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第三节-积极践行社会主义核心价值观"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第五章-遵守道德规范锤炼道德品格-intro",
+      "label": "第五章 遵守道德规范锤炼道德品格 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 21,
+      "description": "本节强调大学时期是道德观形成的关键阶段，指出大学生应通过学习道德理论、树立马克思主义道德观、弘扬社会主义道德、传承中华传统美德与中国革命道德、借鉴人类优秀道德成果，在实践中锤炼道德品格、提升道德境界。",
+      "summary": "本节强调大学时期是道德观形成的关键阶段，指出大学生应通过学习道德理论、树立马克思主义道德观、弘扬社会主义道德、传承中华传统美德与中国革命道德、借鉴人类优秀道德成果，在实践中锤炼道德品格、提升道德境界。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第五章-遵守道德规范锤炼道德品格-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-社会主义道德的核心与原则",
+      "label": "第一节 社会主义道德的核心与原则",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 22,
+      "description": "本节阐明社会主义道德以“为人民服务”为核心、“集体主义”为原则，立足马克思主义道德观，从劳动起源、社会关系和自我意识三方面科学揭示道德的起源；指出道德本质是反映社会经济关系的意识形态，具有认识、规范、调节等基本功能，强调其作为实践精神的知行",
+      "summary": "本节阐明社会主义道德以“为人民服务”为核心、“集体主义”为原则，立足马克思主义道德观，从劳动起源、社会关系和自我意识三方面科学揭示道德的起源；指出道德本质是反映社会经济关系的意识形态，具有认识、规范、调节等基本功能，强调其作为实践精神的知行",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E9%81%93%E5%BE%B7%E7%9A%84%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E5%88%99",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第一节-社会主义道德的核心与原则"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-吸收借鉴优秀道德成果",
+      "label": "第二节 吸收借鉴优秀道德成果",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 23,
+      "description": "本节阐述社会主义道德建设需吸收借鉴中华传统美德和中国革命道德，并以开放姿态借鉴人类文明优秀成果。重点解析中华传统美德的基本精神，包括重整体讲奉献、崇仁爱尚和谐、明人伦尽义务、求境界塑人格、重修养重践行，并强调对其开展创造性转化与创新性发展。",
+      "summary": "本节阐述社会主义道德建设需吸收借鉴中华传统美德和中国革命道德，并以开放姿态借鉴人类文明优秀成果。重点解析中华传统美德的基本精神，包括重整体讲奉献、崇仁爱尚和谐、明人伦尽义务、求境界塑人格、重修养重践行，并强调对其开展创造性转化与创新性发展。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%90%B8%E6%94%B6%E5%80%9F%E9%89%B4%E4%BC%98%E7%A7%80%E9%81%93%E5%BE%B7%E6%88%90%E6%9E%9C",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第二节-吸收借鉴优秀道德成果"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "label": "第三节 投身崇德向善的道德实践",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 24,
+      "description": "本节围绕投身崇德向善的道德实践，强调公民道德建设的重要性，系统阐释社会公德的内涵与要求，聚焦公共生活的特征与秩序价值，细化文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法等行为规范，并延伸至网络空间，提出文明用网、加强自律、健康交往等网络道",
+      "summary": "本节围绕投身崇德向善的道德实践，强调公民道德建设的重要性，系统阐释社会公德的内涵与要求，聚焦公共生活的特征与秩序价值，细化文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法等行为规范，并延伸至网络空间，提出文明用网、加强自律、健康交往等网络道",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E6%8A%95%E8%BA%AB%E5%B4%87%E5%BE%B7%E5%90%91%E5%96%84%E7%9A%84%E9%81%93%E5%BE%B7%E5%AE%9E%E8%B7%B5",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第三节-投身崇德向善的道德实践"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "label": "第三节 投身崇德向善的道德实践17S",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 25,
+      "description": "本节围绕家庭美德展开，强调注重家庭、家教、家风建设，阐释恋爱与婚姻中的基本道德规范，明确尊老爱幼、男女平等、夫妻和睦、勤俭持家、邻里互助等核心内容，并引导大学生在情感生活和家庭实践中践行社会主义家庭文明新风尚。",
+      "summary": "本节围绕家庭美德展开，强调注重家庭、家教、家风建设，阐释恋爱与婚姻中的基本道德规范，明确尊老爱幼、男女平等、夫妻和睦、勤俭持家、邻里互助等核心内容，并引导大学生在情感生活和家庭实践中践行社会主义家庭文明新风尚。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E6%8A%95%E8%BA%AB%E5%B4%87%E5%BE%B7%E5%90%91%E5%96%84%E7%9A%84%E9%81%93%E5%BE%B7%E5%AE%9E%E8%B7%B5",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第三节-投身崇德向善的道德实践"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro",
+      "label": "第六章 学习法治思想提升法治素养 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 26,
+      "description": "本节导言阐明法治对国家发展的重要意义，强调大学生应学习习近平法治思想和马克思主义法治理论，理解社会主义法律本质与运行机制，把握中国特色社会主义法治体系核心要义，自觉尊重宪法法律权威，全面提升法治素养，争做尊法学法守法用法的表率。",
+      "summary": "本节导言阐明法治对国家发展的重要意义，强调大学生应学习习近平法治思想和马克思主义法治理论，理解社会主义法律本质与运行机制，把握中国特色社会主义法治体系核心要义，自觉尊重宪法法律权威，全面提升法治素养，争做尊法学法守法用法的表率。",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第六章-学习法治思想提升法治素养-intro"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第一节-社会主义法律的特征和运行",
+      "label": "第一节 社会主义法律的特征和运行",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 27,
+      "description": "本节系统阐释法律的含义与历史演进，指出法律由国家创制并具强制性，根植于社会物质生活条件，体现统治阶级意志；对比分析四类历史形态法律的阶级属性与特征，强调我国社会主义法律以公有制为基础、体现人民意志的本质属性，以及以宪法为核心的中国特色社会主",
+      "summary": "本节系统阐释法律的含义与历史演进，指出法律由国家创制并具强制性，根植于社会物质生活条件，体现统治阶级意志；对比分析四类历史形态法律的阶级属性与特征，强调我国社会主义法律以公有制为基础、体现人民意志的本质属性，以及以宪法为核心的中国特色社会主",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%B3%95%E5%BE%8B%E7%9A%84%E7%89%B9%E5%BE%81%E5%92%8C%E8%BF%90%E8%A1%8C",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第一节-社会主义法律的特征和运行"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第二节-坚持全面依法治国",
+      "label": "第二节 坚持全面依法治国",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 28,
+      "description": "本节阐述全面依法治国作为国家治理深刻变革的战略意义，明确习近平法治思想是其根本遵循，系统介绍其形成背景、理论定位与‘十一个坚持’核心内容，并强调走中国特色社会主义法治道路的历史必然性与政治本质，突出党的领导、制度保障与法治理论创新的有机统一",
+      "summary": "本节阐述全面依法治国作为国家治理深刻变革的战略意义，明确习近平法治思想是其根本遵循，系统介绍其形成背景、理论定位与‘十一个坚持’核心内容，并强调走中国特色社会主义法治道路的历史必然性与政治本质，突出党的领导、制度保障与法治理论创新的有机统一",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%9D%9A%E6%8C%81%E5%85%A8%E9%9D%A2%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第二节-坚持全面依法治国"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第三节-维护宪法权威",
+      "label": "第三节 维护宪法权威",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 29,
+      "description": "本节围绕维护宪法权威展开，阐明依宪治国、依宪执政的根本要求，系统梳理我国宪法从《共同纲领》到1954年宪法、历经1975年、1978年宪法曲折发展，至1982年宪法确立并五次修改的演进脉络，强调宪法作为根本法的地位、基本原则及其在治国理政中",
+      "summary": "本节围绕维护宪法权威展开，阐明依宪治国、依宪执政的根本要求，系统梳理我国宪法从《共同纲领》到1954年宪法、历经1975年、1978年宪法曲折发展，至1982年宪法确立并五次修改的演进脉络，强调宪法作为根本法的地位、基本原则及其在治国理政中",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E7%BB%B4%E6%8A%A4%E5%AE%AA%E6%B3%95%E6%9D%83%E5%A8%81",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第三节-维护宪法权威"
+      }
+    },
+    {
+      "id": "section-szddfz-2023:section:第四节-自觉尊法学法守法用法",
+      "label": "第四节 自觉尊法学法守法用法",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 30,
+      "description": "本节围绕‘自觉尊法学法守法用法’展开，强调大学生应培养社会主义法治思维，重点阐释法治思维的内涵及其基本内容，包括法律至上、权力制约、公平正义、权利保障和程序正当五大核心要素，旨在引导学生将法治信仰内化为思维方式和行为习惯，成为法治的忠实崇尚",
+      "summary": "本节围绕‘自觉尊法学法守法用法’展开，强调大学生应培养社会主义法治思维，重点阐释法治思维的内涵及其基本内容，包括法律至上、权力制约、公平正义、权利保障和程序正当五大核心要素，旨在引导学生将法治信仰内化为思维方式和行为习惯，成为法治的忠实崇尚",
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E5%9B%9B%E8%8A%82-%E8%87%AA%E8%A7%89%E5%B0%8A%E6%B3%95%E5%AD%A6%E6%B3%95%E5%AE%88%E6%B3%95%E7%94%A8%E6%B3%95",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第四节-自觉尊法学法守法用法"
+      }
+    },
+    {
+      "id": "concept-理想信念",
+      "label": "理想信念",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 1,
+      "description": "人生和事业的灯塔，决定方向立场与精神状态，须建立在科学理论和国情认知基础上。",
+      "summary": "人生和事业的灯塔，决定方向立场与精神状态，须建立在科学理论和国情认知基础上。",
+      "frequency": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "concept-社会主义核心价值观",
+      "label": "社会主义核心价值观",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 2,
+      "description": "富强、民主、文明、和谐，自由、平等、公正、法治，爱国、敬业、诚信、友善的24字价值体系。",
+      "summary": "富强、民主、文明、和谐，自由、平等、公正、法治，爱国、敬业、诚信、友善的24字价值体系。",
+      "frequency": 3,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%98%8E%E7%A1%AE%E4%BB%B7%E5%80%BC%E8%A6%81%E6%B1%82%E8%B7%B5%E8%A1%8C%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+        "anchor": "思想道德与法治/第四章-明确价值要求践行价值准则/第四章-明确价值要求践行价值准则-intro"
+      }
+    },
+    {
+      "id": "concept-人生观",
+      "label": "人生观",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 3,
+      "description": "人们对人生目的、人生态度、人生价值等问题的总观点和总看法。",
+      "summary": "人们对人生目的、人生态度、人生价值等问题的总观点和总看法。",
+      "frequency": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro"
+      }
+    },
+    {
+      "id": "concept-人生价值",
+      "label": "人生价值",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 4,
+      "description": "对‘什么样的人生才有价值’的回答，核心在于奉献与责任。",
+      "summary": "对‘什么样的人生才有价值’的回答，核心在于奉献与责任。",
+      "frequency": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro"
+      }
+    },
+    {
+      "id": "concept-中国精神",
+      "label": "中国精神",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 5,
+      "description": "以爱国主义为核心的民族精神和以改革创新为核心的时代精神的统一。",
+      "summary": "以爱国主义为核心的民族精神和以改革创新为核心的时代精神的统一。",
+      "frequency": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E7%BB%A7%E6%89%BF%E4%BC%98%E8%89%AF%E4%BC%A0%E7%BB%9F%E5%BC%98%E6%89%AC%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+        "anchor": "思想道德与法治/第三章-继承优良传统弘扬中国精神/第三章-继承优良传统弘扬中国精神-intro"
+      }
+    },
+    {
+      "id": "concept-中华传统美德",
+      "label": "中华传统美德",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 6,
+      "description": "中华优秀传统文化中的道德精髓，是社会主义道德建设的重要源泉。",
+      "summary": "中华优秀传统文化中的道德精髓，是社会主义道德建设的重要源泉。",
+      "frequency": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E9%81%B5%E5%AE%88%E9%81%93%E5%BE%B7%E8%A7%84%E8%8C%83%E9%94%A4%E7%82%BC%E9%81%93%E5%BE%B7%E5%93%81%E6%A0%BC-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+        "anchor": "思想道德与法治/第五章-遵守道德规范锤炼道德品格/第五章-遵守道德规范锤炼道德品格-intro"
+      }
+    },
+    {
+      "id": "concept-习近平法治思想",
+      "label": "习近平法治思想",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 7,
+      "description": "全面依法治国的指导思想和根本遵循，马克思主义法治理论中国化最新成果。",
+      "summary": "全面依法治国的指导思想和根本遵循，马克思主义法治理论中国化最新成果。",
+      "frequency": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第六章-学习法治思想提升法治素养-intro"
+      }
+    },
+    {
+      "id": "concept-中国特色社会主义法治道路",
+      "label": "中国特色社会主义法治道路",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 8,
+      "description": "立足中国国情、坚持党的领导、人民当家作主、依法治国有机统一的法治路径。",
+      "summary": "立足中国国情、坚持党的领导、人民当家作主、依法治国有机统一的法治路径。",
+      "frequency": 2,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%A6%E4%B9%A0%E6%B3%95%E6%B2%BB%E6%80%9D%E6%83%B3%E6%8F%90%E5%8D%87%E6%B3%95%E6%B2%BB%E7%B4%A0%E5%85%BB-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+        "anchor": "思想道德与法治/第六章-学习法治思想提升法治素养/第六章-学习法治思想提升法治素养-intro"
+      }
+    },
+    {
+      "id": "concept-时代新人",
+      "label": "时代新人",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 9,
+      "description": "有理想、敢担当、能吃苦、肯奋斗，担当民族复兴大任的当代大学生。",
+      "summary": "有理想、敢担当、能吃苦、肯奋斗，担当民族复兴大任的当代大学生。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "concept-民族复兴",
+      "label": "民族复兴",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 10,
+      "description": "中华民族近代以来最伟大的梦想，进入不可逆转的历史进程，青年是先锋力量。",
+      "summary": "中华民族近代以来最伟大的梦想，进入不可逆转的历史进程，青年是先锋力量。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "concept-思想道德素质",
+      "label": "思想道德素质",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 11,
+      "description": "世界观、人生观、价值观的综合体现，需通过道德认知、养成与实践统一提升。",
+      "summary": "世界观、人生观、价值观的综合体现，需通过道德认知、养成与实践统一提升。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "concept-中国式现代化",
+      "label": "中国式现代化",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 12,
+      "description": "党领导人民推进和拓展的现代化道路，是实现民族复兴的必由之路。",
+      "summary": "党领导人民推进和拓展的现代化道路，是实现民族复兴的必由之路。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA%2F%E7%BB%AA%E8%AE%BA-%E6%8B%85%E5%BD%93%E5%A4%8D%E5%85%B4%E5%A4%A7%E4%BB%BB-%E6%88%90%E5%B0%B1%E6%97%B6%E4%BB%A3%E6%96%B0%E4%BA%BA-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+        "anchor": "思想道德与法治/绪论-担当复兴大任-成就时代新人/绪论-担当复兴大任-成就时代新人-intro"
+      }
+    },
+    {
+      "id": "concept-青春之问",
+      "label": "青春之问",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 13,
+      "description": "大学生关于如何不虚度人生、不负时代的根本性叩问",
+      "summary": "大学生关于如何不虚度人生、不负时代的根本性叩问",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro"
+      }
+    },
+    {
+      "id": "concept-科学理论指导",
+      "label": "科学理论指导",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 14,
+      "description": "以马克思主义等科学理论为指引确立人生方向",
+      "summary": "以马克思主义等科学理论为指引确立人生方向",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91-intro",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一章-领悟人生真谛把握人生方向-intro"
+      }
+    },
+    {
+      "id": "concept-人的本质",
+      "label": "人的本质",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 15,
+      "description": "在其现实性上，是一切社会关系的总和，社会属性是人的本质属性。",
+      "summary": "在其现实性上，是一切社会关系的总和，社会属性是人的本质属性。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%BA%BA%E7%94%9F%E8%A7%82%E6%98%AF%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E6%80%BB%E7%9C%8B%E6%B3%95",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一节-人生观是对人生的总看法"
+      }
+    },
+    {
+      "id": "concept-个人与社会的辩证关系",
+      "label": "个人与社会的辩证关系",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 16,
+      "description": "相互依存、制约与促进，个人利益与社会利益在根本上一致。",
+      "summary": "相互依存、制约与促进，个人利益与社会利益在根本上一致。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%BA%BA%E7%94%9F%E8%A7%82%E6%98%AF%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E6%80%BB%E7%9C%8B%E6%B3%95",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一节-人生观是对人生的总看法"
+      }
+    },
+    {
+      "id": "concept-人生目的",
+      "label": "人生目的",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 17,
+      "description": "对‘人为什么活着’的回答，是人生观的核心和实践定向依据。",
+      "summary": "对‘人为什么活着’的回答，是人生观的核心和实践定向依据。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%BA%BA%E7%94%9F%E8%A7%82%E6%98%AF%E5%AF%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E6%80%BB%E7%9C%8B%E6%B3%95",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第一节-人生观是对人生的总看法"
+      }
+    },
+    {
+      "id": "concept-服务人民-奉献社会",
+      "label": "服务人民、奉献社会",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 18,
+      "description": "以人民群众为历史主体，将个人奋斗融入国家民族事业的人生追求。",
+      "summary": "以人民群众为历史主体，将个人奋斗融入国家民族事业的人生追求。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "concept-高尚的人生目的",
+      "label": "高尚的人生目的",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 19,
+      "description": "与国家前途、民族命运、人民幸福紧密相连的奋斗目标。",
+      "summary": "与国家前途、民族命运、人民幸福紧密相连的奋斗目标。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "concept-积极进取的人生态度",
+      "label": "积极进取的人生态度",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 20,
+      "description": "认真务实、乐观向上、勇于开拓、迎难而上的生活立场。",
+      "summary": "认真务实、乐观向上、勇于开拓、迎难而上的生活立场。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "concept-人生价值标准",
+      "label": "人生价值标准",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 21,
+      "description": "以奉献为首要尺度，用真善美塑造自我、实现社会价值。",
+      "summary": "以奉献为首要尺度，用真善美塑造自我、实现社会价值。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "concept-历史唯物主义基础",
+      "label": "历史唯物主义基础",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 22,
+      "description": "人民群众是历史创造者，构成服务奉献观的根本理论依据。",
+      "summary": "人民群众是历史创造者，构成服务奉献观的根本理论依据。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%BA%E7%94%9F%E8%A7%82",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第二节-正确的人生观"
+      }
+    },
+    {
+      "id": "concept-人生矛盾的辩证观",
+      "label": "人生矛盾的辩证观",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 23,
+      "description": "得失、苦乐、顺逆、生死、荣辱是贯穿人生的五对基本矛盾，需以科学态度辩证认识和积极应对。",
+      "summary": "得失、苦乐、顺逆、生死、荣辱是贯穿人生的五对基本矛盾，需以科学态度辩证认识和积极应对。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%88%9B%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BA%BA%E7%94%9F",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第三节-创造有意义的人生"
+      }
+    },
+    {
+      "id": "concept-得与失的超越视角",
+      "label": "得与失的超越视角",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 24,
+      "description": "不执于一时之得，不惧于一时之失，跳出小我计较，在奉献社会中实现更大人生价值。",
+      "summary": "不执于一时之得，不惧于一时之失，跳出小我计较，在奉献社会中实现更大人生价值。",
+      "frequency": 1,
+      "href": "/reader?book_id=szddfz-2023&chapter_id=szddfz-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%A2%86%E6%82%9F%E4%BA%BA%E7%94%9F%E7%9C%9F%E8%B0%9B%E6%8A%8A%E6%8F%A1%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%88%9B%E9%80%A0%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E4%BA%BA%E7%94%9F",
+      "ref": {
+        "book_id": "szddfz-2023",
+        "chapter_id": "szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+        "anchor": "思想道德与法治/第一章-领悟人生真谛把握人生方向/第三节-创造有意义的人生"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "source": "book-core",
+      "target": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人->section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "source": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "target": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->section-szddfz-2023:section:第二节-正确的人生观",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023:section:第二节-正确的人生观",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->section-szddfz-2023:section:第二节-正确的人生观",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023:section:第二节-正确的人生观",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->section-szddfz-2023:section:第三节-创造有意义的人生",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "section-szddfz-2023:section:第三节-创造有意义的人生",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念->section-szddfz-2023:section:第二章-追求远大理想坚定崇高信念-intro",
+      "source": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023:section:第二章-追求远大理想坚定崇高信念-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念->section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "source": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念->section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "source": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念->section-szddfz-2023:section:第二节-坚定信仰信念信心",
+      "source": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023:section:第二节-坚定信仰信念信心",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念->section-szddfz-2023:section:第三节-在实现中国梦的实践中放飞青春梦想",
+      "source": "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "target": "section-szddfz-2023:section:第三节-在实现中国梦的实践中放飞青春梦想",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神->section-szddfz-2023:section:第三章-继承优良传统弘扬中国精神-intro",
+      "source": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023:section:第三章-继承优良传统弘扬中国精神-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神->section-szddfz-2023:section:第一节-中国精神是兴国强国之魂",
+      "source": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023:section:第一节-中国精神是兴国强国之魂",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神->section-szddfz-2023:section:第二节-做新时代的忠诚爱国者",
+      "source": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023:section:第二节-做新时代的忠诚爱国者",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神->section-szddfz-2023:section:第三节-让改革创新成为青春远航的动力",
+      "source": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "target": "section-szddfz-2023:section:第三节-让改革创新成为青春远航的动力",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则->section-szddfz-2023:section:第四章-明确价值要求践行价值准则-intro",
+      "source": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023:section:第四章-明确价值要求践行价值准则-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则->section-szddfz-2023:section:第一节-全体人民共同的价值追求",
+      "source": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023:section:第一节-全体人民共同的价值追求",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则->section-szddfz-2023:section:第二节-社会主义核心价值观的显著特征",
+      "source": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023:section:第二节-社会主义核心价值观的显著特征",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则->section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "source": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则->section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "source": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "target": "section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格->section-szddfz-2023:section:第五章-遵守道德规范锤炼道德品格-intro",
+      "source": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023:section:第五章-遵守道德规范锤炼道德品格-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格->section-szddfz-2023:section:第一节-社会主义道德的核心与原则",
+      "source": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023:section:第一节-社会主义道德的核心与原则",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格->section-szddfz-2023:section:第二节-吸收借鉴优秀道德成果",
+      "source": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023:section:第二节-吸收借鉴优秀道德成果",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格->section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "source": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格->section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "source": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "target": "section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->section-szddfz-2023:section:第一节-社会主义法律的特征和运行",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023:section:第一节-社会主义法律的特征和运行",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->section-szddfz-2023:section:第二节-坚持全面依法治国",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023:section:第二节-坚持全面依法治国",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->section-szddfz-2023:section:第三节-维护宪法权威",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023:section:第三节-维护宪法权威",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->section-szddfz-2023:section:第四节-自觉尊法学法守法用法",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "section-szddfz-2023:section:第四节-自觉尊法学法守法用法",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro->concept-理想信念",
+      "source": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "target": "concept-理想信念",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人->concept-理想信念",
+      "source": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "target": "concept-理想信念",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第四章-明确价值要求践行价值准则-intro->concept-社会主义核心价值观",
+      "source": "section-szddfz-2023:section:第四章-明确价值要求践行价值准则-intro",
+      "target": "concept-社会主义核心价值观",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则->concept-社会主义核心价值观",
+      "source": "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "target": "concept-社会主义核心价值观",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro->concept-人生观",
+      "source": "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "target": "concept-人生观",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-人生观",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-人生观",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro->concept-人生价值",
+      "source": "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "target": "concept-人生价值",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-人生价值",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-人生价值",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第三章-继承优良传统弘扬中国精神-intro->concept-中国精神",
+      "source": "section-szddfz-2023:section:第三章-继承优良传统弘扬中国精神-intro",
+      "target": "concept-中国精神",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神->concept-中国精神",
+      "source": "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "target": "concept-中国精神",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第五章-遵守道德规范锤炼道德品格-intro->concept-中华传统美德",
+      "source": "section-szddfz-2023:section:第五章-遵守道德规范锤炼道德品格-intro",
+      "target": "concept-中华传统美德",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格->concept-中华传统美德",
+      "source": "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "target": "concept-中华传统美德",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro->concept-习近平法治思想",
+      "source": "section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro",
+      "target": "concept-习近平法治思想",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->concept-习近平法治思想",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "concept-习近平法治思想",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro->concept-中国特色社会主义法治道路",
+      "source": "section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro",
+      "target": "concept-中国特色社会主义法治道路",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养->concept-中国特色社会主义法治道路",
+      "source": "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养",
+      "target": "concept-中国特色社会主义法治道路",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro->concept-时代新人",
+      "source": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "target": "concept-时代新人",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人->concept-时代新人",
+      "source": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "target": "concept-时代新人",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro->concept-民族复兴",
+      "source": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "target": "concept-民族复兴",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人->concept-民族复兴",
+      "source": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "target": "concept-民族复兴",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro->concept-思想道德素质",
+      "source": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "target": "concept-思想道德素质",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人->concept-思想道德素质",
+      "source": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "target": "concept-思想道德素质",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro->concept-中国式现代化",
+      "source": "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "target": "concept-中国式现代化",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人->concept-中国式现代化",
+      "source": "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "target": "concept-中国式现代化",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro->concept-青春之问",
+      "source": "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "target": "concept-青春之问",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-青春之问",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-青春之问",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro->concept-科学理论指导",
+      "source": "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "target": "concept-科学理论指导",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-科学理论指导",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-科学理论指导",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一节-人生观是对人生的总看法->concept-人的本质",
+      "source": "section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "target": "concept-人的本质",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-人的本质",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-人的本质",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一节-人生观是对人生的总看法->concept-个人与社会的辩证关系",
+      "source": "section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "target": "concept-个人与社会的辩证关系",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-个人与社会的辩证关系",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-个人与社会的辩证关系",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第一节-人生观是对人生的总看法->concept-人生目的",
+      "source": "section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "target": "concept-人生目的",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-人生目的",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-人生目的",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第二节-正确的人生观->concept-服务人民-奉献社会",
+      "source": "section-szddfz-2023:section:第二节-正确的人生观",
+      "target": "concept-服务人民-奉献社会",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-服务人民-奉献社会",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-服务人民-奉献社会",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第二节-正确的人生观->concept-高尚的人生目的",
+      "source": "section-szddfz-2023:section:第二节-正确的人生观",
+      "target": "concept-高尚的人生目的",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-高尚的人生目的",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-高尚的人生目的",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第二节-正确的人生观->concept-积极进取的人生态度",
+      "source": "section-szddfz-2023:section:第二节-正确的人生观",
+      "target": "concept-积极进取的人生态度",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-积极进取的人生态度",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-积极进取的人生态度",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第二节-正确的人生观->concept-人生价值标准",
+      "source": "section-szddfz-2023:section:第二节-正确的人生观",
+      "target": "concept-人生价值标准",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-人生价值标准",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-人生价值标准",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第二节-正确的人生观->concept-历史唯物主义基础",
+      "source": "section-szddfz-2023:section:第二节-正确的人生观",
+      "target": "concept-历史唯物主义基础",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-历史唯物主义基础",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-历史唯物主义基础",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第三节-创造有意义的人生->concept-人生矛盾的辩证观",
+      "source": "section-szddfz-2023:section:第三节-创造有意义的人生",
+      "target": "concept-人生矛盾的辩证观",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-人生矛盾的辩证观",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-人生矛盾的辩证观",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-szddfz-2023:section:第三节-创造有意义的人生->concept-得与失的超越视角",
+      "source": "section-szddfz-2023:section:第三节-创造有意义的人生",
+      "target": "concept-得与失的超越视角",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向->concept-得与失的超越视角",
+      "source": "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "target": "concept-得与失的超越视角",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-时代新人->concept-理想信念",
+      "source": "concept-时代新人",
+      "target": "concept-理想信念",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-时代新人->concept-民族复兴",
+      "source": "concept-时代新人",
+      "target": "concept-民族复兴",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-时代新人->concept-思想道德素质",
+      "source": "concept-时代新人",
+      "target": "concept-思想道德素质",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-时代新人->concept-中国式现代化",
+      "source": "concept-时代新人",
+      "target": "concept-中国式现代化",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-理想信念->concept-民族复兴",
+      "source": "concept-理想信念",
+      "target": "concept-民族复兴",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-理想信念->concept-思想道德素质",
+      "source": "concept-理想信念",
+      "target": "concept-思想道德素质",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-理想信念->concept-中国式现代化",
+      "source": "concept-理想信念",
+      "target": "concept-中国式现代化",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-民族复兴->concept-思想道德素质",
+      "source": "concept-民族复兴",
+      "target": "concept-思想道德素质",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-民族复兴->concept-中国式现代化",
+      "source": "concept-民族复兴",
+      "target": "concept-中国式现代化",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-思想道德素质->concept-中国式现代化",
+      "source": "concept-思想道德素质",
+      "target": "concept-中国式现代化",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-人生价值",
+      "source": "concept-人生观",
+      "target": "concept-人生价值",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-青春之问",
+      "source": "concept-人生观",
+      "target": "concept-青春之问",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-科学理论指导",
+      "source": "concept-人生观",
+      "target": "concept-科学理论指导",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生价值->concept-青春之问",
+      "source": "concept-人生价值",
+      "target": "concept-青春之问",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生价值->concept-科学理论指导",
+      "source": "concept-人生价值",
+      "target": "concept-科学理论指导",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-青春之问->concept-科学理论指导",
+      "source": "concept-青春之问",
+      "target": "concept-科学理论指导",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-人的本质",
+      "source": "concept-人生观",
+      "target": "concept-人的本质",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-个人与社会的辩证关系",
+      "source": "concept-人生观",
+      "target": "concept-个人与社会的辩证关系",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-人生目的",
+      "source": "concept-人生观",
+      "target": "concept-人生目的",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生观->concept-人生价值",
+      "source": "concept-人生观",
+      "target": "concept-人生价值",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人的本质->concept-个人与社会的辩证关系",
+      "source": "concept-人的本质",
+      "target": "concept-个人与社会的辩证关系",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人的本质->concept-人生目的",
+      "source": "concept-人的本质",
+      "target": "concept-人生目的",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人的本质->concept-人生价值",
+      "source": "concept-人的本质",
+      "target": "concept-人生价值",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-个人与社会的辩证关系->concept-人生目的",
+      "source": "concept-个人与社会的辩证关系",
+      "target": "concept-人生目的",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-个人与社会的辩证关系->concept-人生价值",
+      "source": "concept-个人与社会的辩证关系",
+      "target": "concept-人生价值",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生目的->concept-人生价值",
+      "source": "concept-人生目的",
+      "target": "concept-人生价值",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-服务人民-奉献社会->concept-高尚的人生目的",
+      "source": "concept-服务人民-奉献社会",
+      "target": "concept-高尚的人生目的",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-服务人民-奉献社会->concept-积极进取的人生态度",
+      "source": "concept-服务人民-奉献社会",
+      "target": "concept-积极进取的人生态度",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-服务人民-奉献社会->concept-人生价值标准",
+      "source": "concept-服务人民-奉献社会",
+      "target": "concept-人生价值标准",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-服务人民-奉献社会->concept-历史唯物主义基础",
+      "source": "concept-服务人民-奉献社会",
+      "target": "concept-历史唯物主义基础",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-高尚的人生目的->concept-积极进取的人生态度",
+      "source": "concept-高尚的人生目的",
+      "target": "concept-积极进取的人生态度",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-高尚的人生目的->concept-人生价值标准",
+      "source": "concept-高尚的人生目的",
+      "target": "concept-人生价值标准",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-高尚的人生目的->concept-历史唯物主义基础",
+      "source": "concept-高尚的人生目的",
+      "target": "concept-历史唯物主义基础",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-积极进取的人生态度->concept-人生价值标准",
+      "source": "concept-积极进取的人生态度",
+      "target": "concept-人生价值标准",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-积极进取的人生态度->concept-历史唯物主义基础",
+      "source": "concept-积极进取的人生态度",
+      "target": "concept-历史唯物主义基础",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生价值标准->concept-历史唯物主义基础",
+      "source": "concept-人生价值标准",
+      "target": "concept-历史唯物主义基础",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-人生矛盾的辩证观->concept-得与失的超越视角",
+      "source": "concept-人生矛盾的辩证观",
+      "target": "concept-得与失的超越视角",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-习近平法治思想->concept-中国特色社会主义法治道路",
+      "source": "concept-习近平法治思想",
+      "target": "concept-中国特色社会主义法治道路",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-习近平法治思想->concept-中国特色社会主义法治道路",
+      "source": "concept-习近平法治思想",
+      "target": "concept-中国特色社会主义法治道路",
+      "label": "relates_to",
+      "type": "relates_to"
+    }
+  ],
+  "lanes": {
+    "chapters": [
+      "chapter-szddfz-2023:chapter:绪论-担当复兴大任-成就时代新人",
+      "chapter-szddfz-2023:chapter:第一章-领悟人生真谛把握人生方向",
+      "chapter-szddfz-2023:chapter:第二章-追求远大理想坚定崇高信念",
+      "chapter-szddfz-2023:chapter:第三章-继承优良传统弘扬中国精神",
+      "chapter-szddfz-2023:chapter:第四章-明确价值要求践行价值准则",
+      "chapter-szddfz-2023:chapter:第五章-遵守道德规范锤炼道德品格",
+      "chapter-szddfz-2023:chapter:第六章-学习法治思想提升法治素养"
+    ],
+    "sections": [
+      "section-szddfz-2023:section:绪论-担当复兴大任-成就时代新人-intro",
+      "section-szddfz-2023:section:第一章-领悟人生真谛把握人生方向-intro",
+      "section-szddfz-2023:section:第一节-人生观是对人生的总看法",
+      "section-szddfz-2023:section:第二节-正确的人生观",
+      "section-szddfz-2023:section:第二节-正确的人生观",
+      "section-szddfz-2023:section:第三节-创造有意义的人生",
+      "section-szddfz-2023:section:第二章-追求远大理想坚定崇高信念-intro",
+      "section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "section-szddfz-2023:section:第一节-理想信念的内涵及重要性",
+      "section-szddfz-2023:section:第二节-坚定信仰信念信心",
+      "section-szddfz-2023:section:第三节-在实现中国梦的实践中放飞青春梦想",
+      "section-szddfz-2023:section:第三章-继承优良传统弘扬中国精神-intro",
+      "section-szddfz-2023:section:第一节-中国精神是兴国强国之魂",
+      "section-szddfz-2023:section:第二节-做新时代的忠诚爱国者",
+      "section-szddfz-2023:section:第三节-让改革创新成为青春远航的动力",
+      "section-szddfz-2023:section:第四章-明确价值要求践行价值准则-intro",
+      "section-szddfz-2023:section:第一节-全体人民共同的价值追求",
+      "section-szddfz-2023:section:第二节-社会主义核心价值观的显著特征",
+      "section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "section-szddfz-2023:section:第三节-积极践行社会主义核心价值观",
+      "section-szddfz-2023:section:第五章-遵守道德规范锤炼道德品格-intro",
+      "section-szddfz-2023:section:第一节-社会主义道德的核心与原则",
+      "section-szddfz-2023:section:第二节-吸收借鉴优秀道德成果",
+      "section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "section-szddfz-2023:section:第三节-投身崇德向善的道德实践",
+      "section-szddfz-2023:section:第六章-学习法治思想提升法治素养-intro",
+      "section-szddfz-2023:section:第一节-社会主义法律的特征和运行",
+      "section-szddfz-2023:section:第二节-坚持全面依法治国",
+      "section-szddfz-2023:section:第三节-维护宪法权威",
+      "section-szddfz-2023:section:第四节-自觉尊法学法守法用法"
+    ],
+    "concepts": [
+      "concept-理想信念",
+      "concept-社会主义核心价值观",
+      "concept-人生观",
+      "concept-人生价值",
+      "concept-中国精神",
+      "concept-中华传统美德",
+      "concept-习近平法治思想",
+      "concept-中国特色社会主义法治道路",
+      "concept-时代新人",
+      "concept-民族复兴",
+      "concept-思想道德素质",
+      "concept-中国式现代化",
+      "concept-青春之问",
+      "concept-科学理论指导",
+      "concept-人的本质",
+      "concept-个人与社会的辩证关系",
+      "concept-人生目的",
+      "concept-服务人民-奉献社会",
+      "concept-高尚的人生目的",
+      "concept-积极进取的人生态度",
+      "concept-人生价值标准",
+      "concept-历史唯物主义基础",
+      "concept-人生矛盾的辩证观",
+      "concept-得与失的超越视角"
+    ]
+  }
+}

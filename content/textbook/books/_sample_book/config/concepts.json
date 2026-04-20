@@ -1,0 +1,14 @@
+{
+  "concepts": [
+    {
+      "id": "concept-theory-innovation",
+      "name": "理论创新",
+      "aliases": ["理论发展", "理论创造"]
+    },
+    {
+      "id": "concept-cultural-confidence",
+      "name": "文化自信",
+      "aliases": ["文化主体性"]
+    }
+  ]
+}

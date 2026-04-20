@@ -1,0 +1,184 @@
+{
+  "concepts": [
+    {
+      "id": "concept-对立统一规律",
+      "name": "对立统一规律",
+      "aliases": [],
+      "short_description": "唯物辩证法的实质和核心，揭示事物内部矛盾双方既对立又统一的运动机制。"
+    },
+    {
+      "id": "concept-科学实践观",
+      "name": "科学实践观",
+      "aliases": [],
+      "short_description": "马克思从主观与客观、主体与客体统一出发，揭示实践是能动改造世界的物质活动。"
+    },
+    {
+      "id": "concept-社会基本矛盾",
+      "name": "社会基本矛盾",
+      "aliases": [],
+      "short_description": "贯穿社会发展始终、决定社会性质和趋势的生产力与生产关系、经济基础与上层建筑两对根本矛盾。"
+    },
+    {
+      "id": "concept-唯物史观",
+      "name": "唯物史观",
+      "aliases": [],
+      "short_description": "揭示人类社会发展一般规律，确立人民群众历史主体地位的科学历史观。"
+    },
+    {
+      "id": "concept-资本主义基本矛盾",
+      "name": "资本主义基本矛盾",
+      "aliases": [],
+      "short_description": "生产社会化与生产资料私人占有之间的根本冲突，决定其历史暂时性。"
+    },
+    {
+      "id": "concept-社会主义建设长期性",
+      "name": "社会主义建设长期性",
+      "aliases": [],
+      "short_description": "受生产力、经济基础、国际环境和政党认识水平制约，建设过程必然漫长而艰巨。"
+    },
+    {
+      "id": "concept-无产阶级历史使命",
+      "name": "无产阶级历史使命",
+      "aliases": [],
+      "short_description": "推翻资本主义旧世界，建设社会主义和共产主义新世界，实现自身彻底解放。"
+    },
+    {
+      "id": "concept-马克思主义",
+      "name": "马克思主义",
+      "aliases": [],
+      "short_description": "由马克思恩格斯创立、后继者发展的科学理论体系，关于自然社会思维规律、社会主义取代资本主义、人类解放的。"
+    },
+    {
+      "id": "concept-马克思主义基本原理",
+      "name": "马克思主义基本原理",
+      "aliases": [],
+      "short_description": "对马克思主义立场、观点、方法的集中概括，经实践检验具有普遍真理性的核心理论。"
+    },
+    {
+      "id": "concept-马克思主义三大组成部分",
+      "name": "马克思主义三大组成部分",
+      "aliases": [],
+      "short_description": "马克思主义哲学、政治经济学和科学社会主义，有机统一构成理论体系主体。"
+    },
+    {
+      "id": "concept-马克思主义基本立场",
+      "name": "马克思主义基本立场",
+      "aliases": [],
+      "short_description": "以人民为中心，以无产阶级和全人类解放为己任，以人的自由全面发展为根本目标。"
+    },
+    {
+      "id": "concept-马克思主义创立条件",
+      "name": "马克思主义创立条件",
+      "aliases": [],
+      "short_description": "源于19世纪西欧资本主义发展矛盾、工人运动兴起及德国古典哲学等三大理论来源。"
+    },
+    {
+      "id": "concept-辩证唯物主义",
+      "name": "辩证唯物主义",
+      "aliases": [],
+      "short_description": "马克思主义哲学的世界观和方法论，强调物质第一性与矛盾运动的普遍性。"
+    },
+    {
+      "id": "concept-世界的物质统一性",
+      "name": "世界的物质统一性",
+      "aliases": [],
+      "short_description": "世界统一于物质，意识是物质世界长期发展的产物。"
+    },
+    {
+      "id": "concept-主观能动性与客观规律性",
+      "name": "主观能动性与客观规律性",
+      "aliases": [],
+      "short_description": "人能动认识和改造世界，但必须以尊重客观规律为前提。"
+    },
+    {
+      "id": "concept-联系和发展的基本规律",
+      "name": "联系和发展的基本规律",
+      "aliases": [],
+      "short_description": "对立统一、质量互变、否定之否定是事物运动的根本规律。"
+    },
+    {
+      "id": "concept-唯物辩证法",
+      "name": "唯物辩证法",
+      "aliases": [],
+      "short_description": "关于普遍联系和永恒发展的科学方法论，指导实践与思维。"
+    },
+    {
+      "id": "concept-哲学基本问题",
+      "name": "哲学基本问题",
+      "aliases": [],
+      "short_description": "存在和思维的关系问题，包括本原性与同一性两个方面。"
+    },
+    {
+      "id": "concept-物质范畴",
+      "name": "物质范畴",
+      "aliases": [],
+      "short_description": "标志客观实在的哲学概念，不依赖感觉而存在，能被感觉所反映。"
+    },
+    {
+      "id": "concept-客观实在性",
+      "name": "客观实在性",
+      "aliases": [],
+      "short_description": "物质唯一根本特性，是自然存在与社会存在的共同本质。"
+    },
+    {
+      "id": "concept-唯物主义一元论",
+      "name": "唯物主义一元论",
+      "aliases": [],
+      "short_description": "主张物质为世界唯一本原，反对唯心主义和二元论。"
+    },
+    {
+      "id": "concept-能动反映论",
+      "name": "能动反映论",
+      "aliases": [],
+      "short_description": "强调意识对物质的反映是能动的、实践的、可深化的认识过程。"
+    },
+    {
+      "id": "concept-普遍联系",
+      "name": "普遍联系",
+      "aliases": [],
+      "short_description": "事物内部各要素及事物之间相互影响、相互制约、相互作用的关系。"
+    },
+    {
+      "id": "concept-联系的客观性",
+      "name": "联系的客观性",
+      "aliases": [],
+      "short_description": "联系是事物本身固有的，不以人的意志为转移。"
+    },
+    {
+      "id": "concept-新事物与旧事物",
+      "name": "新事物与旧事物",
+      "aliases": [],
+      "short_description": "新事物合乎历史前进方向，旧事物丧失必然性而趋于灭亡。"
+    },
+    {
+      "id": "concept-矛盾的同一性与斗争性",
+      "name": "矛盾的同一性与斗争性",
+      "aliases": [],
+      "short_description": "同一性指对立面相互依存与转化，斗争性指对立面相互排斥与分离。"
+    },
+    {
+      "id": "concept-批判的革命性",
+      "name": "批判的革命性",
+      "aliases": [],
+      "short_description": "唯物辩证法反对崇拜任何既成形式，强调对现存事物暂时性与必然灭亡性的理解。"
+    },
+    {
+      "id": "concept-客观辩证法",
+      "name": "客观辩证法",
+      "aliases": [],
+      "short_description": "指自然界和人类社会中普遍存在的联系、发展与矛盾运动的客观规律。"
+    },
+    {
+      "id": "concept-主观辩证法",
+      "name": "主观辩证法",
+      "aliases": [],
+      "short_description": "指人类思维中反映客观辩证法的辩证认识过程，以概念为细胞的逻辑运动。"
+    },
+    {
+      "id": "concept-矛盾分析方法",
+      "name": "矛盾分析方法",
+      "aliases": [],
+      "short_description": "以具体问题具体分析为核心，抓住主要矛盾推动全局工作的根本认识方法。"
+    }
+  ]
+}

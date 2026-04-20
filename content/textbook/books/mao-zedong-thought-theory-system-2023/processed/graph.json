@@ -1,0 +1,2397 @@
+{
+  "meta": {
+    "source": "generated",
+    "book_id": "mao-zedong-thought-theory-system-2023"
+  },
+  "nodes": [
+    {
+      "id": "book-core",
+      "label": "毛泽东思想和中国特色社会主义理论体系概论",
+      "type": "book",
+      "group": "core",
+      "depth": 0,
+      "orbit": 0,
+      "angle": 0,
+      "description": "《毛泽东思想和中国特色社会主义理论体系概论》2023 年版教材。",
+      "summary": "《毛泽东思想和中国特色社会主义理论体系概论》2023 年版教材。",
+      "style_hint": "core"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论人",
+      "label": "第二章 “新民主主义革命理论人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-新民主主义革命理论形成的依据",
+      "label": "第一节 “新民主主义革命理论形成的依据/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人#毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人/第一节-新民主主义革命理论形成的依据",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人/第一节-新民主主义革命理论形成的依据"
+      }
+    },
+    {
+      "id": "concept-第一节",
+      "label": "第一节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第一节??????",
+      "summary": "?????第一节??????"
+    },
+    {
+      "id": "concept-新民主主义革命理论形成的依据",
+      "label": "“新民主主义革命理论形成的依据/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“新民主主义革命理论形成的依据/??????",
+      "summary": "?????“新民主主义革命理论形成的依据/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-新民主主义革命的总路线和基本纲领",
+      "label": "第二节 新民主主义革命的总路线和基本纲领/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人#毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人/第二节-新民主主义革命的总路线和基本纲领",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人/第二节-新民主主义革命的总路线和基本纲领"
+      }
+    },
+    {
+      "id": "concept-第二节",
+      "label": "第二节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第二节??????",
+      "summary": "?????第二节??????"
+    },
+    {
+      "id": "concept-新民主主义革命的总路线和基本纲领",
+      "label": "新民主主义革命的总路线和基本纲领/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????新民主主义革命的总路线和基本纲领/??????",
+      "summary": "?????新民主主义革命的总路线和基本纲领/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验",
+      "label": "第三节 新民主主义革命的道路和基本经验",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人#毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人/第三节-新民主主义革命的道路和基本经验",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论人/第三节-新民主主义革命的道路和基本经验"
+      }
+    },
+    {
+      "id": "concept-第三节",
+      "label": "第三节",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第三节??????",
+      "summary": "?????第三节??????"
+    },
+    {
+      "id": "concept-新民主主义革命的道路和基本经验",
+      "label": "新民主主义革命的道路和基本经验",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????新民主主义革命的道路和基本经验??????",
+      "summary": "?????新民主主义革命的道路和基本经验??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论人",
+      "label": "第三章 “社会主义改造理论人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-从新民主主义到社会主义的转变",
+      "label": "第一节 “从新民主主义到社会主义的转变/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人#毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人/第一节-从新民主主义到社会主义的转变",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人/第一节-从新民主主义到社会主义的转变"
+      }
+    },
+    {
+      "id": "concept-从新民主主义到社会主义的转变",
+      "label": "“从新民主主义到社会主义的转变/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“从新民主主义到社会主义的转变/??????",
+      "summary": "?????“从新民主主义到社会主义的转变/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-社会主义改造道路和历史经验",
+      "label": "第二节 “社会主义改造道路和历史经验",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人#毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人/第二节-社会主义改造道路和历史经验",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人/第二节-社会主义改造道路和历史经验"
+      }
+    },
+    {
+      "id": "concept-社会主义改造道路和历史经验",
+      "label": "“社会主义改造道路和历史经验",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“社会主义改造道路和历史经验??????",
+      "summary": "?????“社会主义改造道路和历史经验??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-社会主义基本制度在中国的确立",
+      "label": "第三节 “社会主义基本制度在中国的确立",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人#毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人/第三节-社会主义基本制度在中国的确立",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论人/第三节-社会主义基本制度在中国的确立"
+      }
+    },
+    {
+      "id": "concept-社会主义基本制度在中国的确立",
+      "label": "“社会主义基本制度在中国的确立",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“社会主义基本制度在中国的确立??????",
+      "summary": "?????“社会主义基本制度在中国的确立??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果丨",
+      "label": "第四章 “社会主义建设道路初步探索的理论成果丨",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果丨",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果丨",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果丨"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-初步探索的重要理论成果",
+      "label": "第一节 “初步探索的重要理论成果/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果丨#毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果丨/第一节-初步探索的重要理论成果",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果丨",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果丨/第一节-初步探索的重要理论成果"
+      }
+    },
+    {
+      "id": "concept-初步探索的重要理论成果",
+      "label": "“初步探索的重要理论成果/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“初步探索的重要理论成果/??????",
+      "summary": "?????“初步探索的重要理论成果/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训",
+      "label": "第二节 “初步探索的意义和经验教训",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果丨#毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果丨/第二节-初步探索的意义和经验教训",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果丨",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果丨/第二节-初步探索的意义和经验教训"
+      }
+    },
+    {
+      "id": "concept-初步探索的意义和经验教训",
+      "label": "“初步探索的意义和经验教训",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“初步探索的意义和经验教训??????",
+      "summary": "?????“初步探索的意义和经验教训??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特色社会主义理论体系的形成发展人",
+      "label": "第五章 “中国特色社会主义理论体系的形成发展人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 4,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特色社会主义理论体系的形成发展人",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特色社会主义理论体系的形成发展人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特色社会主义理论体系的形成发展人"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-中国特色社会主义理论体系形成发展的社会历史条件",
+      "label": "第一节 “中国特色社会主义理论体系形成发展的社会历史条件",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特色社会主义理论体系的形成发展人#毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特色社会主义理论体系的形成发展人/第一节-中国特色社会主义理论体系形成发展的社会历史条件",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特色社会主义理论体系的形成发展人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特色社会主义理论体系的形成发展人/第一节-中国特色社会主义理论体系形成发展的社会历史条件"
+      }
+    },
+    {
+      "id": "concept-中国特色社会主义理论体系形成发展的社会历史条件",
+      "label": "“中国特色社会主义理论体系形成发展的社会历史条件",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“中国特色社会主义理论体系形成发展的社会历史条件??????",
+      "summary": "?????“中国特色社会主义理论体系形成发展的社会历史条件??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程",
+      "label": "第二节 “中国特色社会主义理论体系形成发展过程",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特色社会主义理论体系的形成发展人#毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特色社会主义理论体系的形成发展人/第二节-中国特色社会主义理论体系形成发展过程",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特色社会主义理论体系的形成发展人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特色社会主义理论体系的形成发展人/第二节-中国特色社会主义理论体系形成发展过程"
+      }
+    },
+    {
+      "id": "concept-中国特色社会主义理论体系形成发展过程",
+      "label": "“中国特色社会主义理论体系形成发展过程",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“中国特色社会主义理论体系形成发展过程??????",
+      "summary": "?????“中国特色社会主义理论体系形成发展过程??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论人",
+      "label": "第六章 “邓小平理论人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 5,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论人"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-邓小平理论首要的基本的理论问题和精髓",
+      "label": "第一节 邓小平理论首要的基本的理论问题和精髓",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人#毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论人/第一节-邓小平理论首要的基本的理论问题和精髓",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论人/第一节-邓小平理论首要的基本的理论问题和精髓"
+      }
+    },
+    {
+      "id": "concept-邓小平理论首要的基本的理论问题和精髓",
+      "label": "邓小平理论首要的基本的理论问题和精髓",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????邓小平理论首要的基本的理论问题和精髓??????",
+      "summary": "?????邓小平理论首要的基本的理论问题和精髓??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-邓小平理论的主要内容",
+      "label": "第二节 “邓小平理论的主要内容/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人#毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论人/第二节-邓小平理论的主要内容",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论人/第二节-邓小平理论的主要内容"
+      }
+    },
+    {
+      "id": "concept-邓小平理论的主要内容",
+      "label": "“邓小平理论的主要内容/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“邓小平理论的主要内容/??????",
+      "summary": "?????“邓小平理论的主要内容/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "label": "第三节 邓小平理论的历史地位",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人#毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过/第三节-邓小平理论的历史地位",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过/第三节-邓小平理论的历史地位"
+      }
+    },
+    {
+      "id": "concept-邓小平理论的历史地位",
+      "label": "邓小平理论的历史地位",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????邓小平理论的历史地位??????",
+      "summary": "?????邓小平理论的历史地位??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想人",
+      "label": "第七章 “三个代表“重要思想人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 6,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想人"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-三个代表-重要思意的核心观点",
+      "label": "第一节 “三个代表“重要思意的核心观点",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人#毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想人/第一节-三个代表-重要思意的核心观点",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想人/第一节-三个代表-重要思意的核心观点"
+      }
+    },
+    {
+      "id": "concept-三个代表-重要思意的核心观点",
+      "label": "“三个代表“重要思意的核心观点",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“三个代表“重要思意的核心观点??????",
+      "summary": "?????“三个代表“重要思意的核心观点??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思意的主要内容",
+      "label": "第二节 “三个代表“重要思意的主要内容",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人#毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想人/第二节-三个代表-重要思意的主要内容",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想人/第二节-三个代表-重要思意的主要内容"
+      }
+    },
+    {
+      "id": "concept-三个代表-重要思意的主要内容",
+      "label": "“三个代表“重要思意的主要内容",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“三个代表“重要思意的主要内容??????",
+      "summary": "?????“三个代表“重要思意的主要内容??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "label": "第三节 “三个代表“重要思想的历史地位",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人#毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第三节-三个代表-重要思想的历史地位",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第三节-三个代表-重要思想的历史地位"
+      }
+    },
+    {
+      "id": "concept-三个代表-重要思想的历史地位",
+      "label": "“三个代表“重要思想的历史地位",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“三个代表“重要思想的历史地位??????",
+      "summary": "?????“三个代表“重要思想的历史地位??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观人",
+      "label": "第八章 “科学发展观人",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 7,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一节-科学发展观的科学内涵",
+      "label": "第一节 “科学发展观的科学内涵/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人#毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人/第一节-科学发展观的科学内涵",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人/第一节-科学发展观的科学内涵"
+      }
+    },
+    {
+      "id": "concept-科学发展观的科学内涵",
+      "label": "“科学发展观的科学内涵/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“科学发展观的科学内涵/??????",
+      "summary": "?????“科学发展观的科学内涵/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-科学发展观的主要内容",
+      "label": "第二节 “科学发展观的主要内容/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人#毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人/第二节-科学发展观的主要内容",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人/第二节-科学发展观的主要内容"
+      }
+    },
+    {
+      "id": "concept-科学发展观的主要内容",
+      "label": "“科学发展观的主要内容/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“科学发展观的主要内容/??????",
+      "summary": "?????“科学发展观的主要内容/??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-科学发展觉的历史地位",
+      "label": "第三节 “科学发展觉的历史地位/",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人#毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人/第三节-科学发展觉的历史地位",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观人",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观人/第三节-科学发展觉的历史地位"
+      }
+    },
+    {
+      "id": "concept-科学发展觉的历史地位",
+      "label": "“科学发展觉的历史地位/",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“科学发展觉的历史地位/??????",
+      "summary": "?????“科学发展觉的历史地位/??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "label": "第一章 “毛泽东思想及其历史地位思想理论是社会变革的先导。面对中国近代以后山河碟碎、内忧外患的深重灾难,以毛泽东同志为主要代表的中国共产党人,胸怀远大理想,",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 8,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "label": "第一章 “毛泽东思想及其历史地位思想理论是社会变革的先导。面对中国近代以后山河碟碎、内忧外患的深重灾难,以毛泽东同志为主要代表的中国共产党人,胸怀远大理想, 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想#毛泽东思想和中国特色社会主义理论体系概论/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro"
+      }
+    },
+    {
+      "id": "concept-第一章",
+      "label": "第一章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第一章??????",
+      "summary": "?????第一章??????"
+    },
+    {
+      "id": "concept-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "label": "“毛泽东思想及其历史地位思想理论是社会变革的先导。面对中国近代以后山河碟碎、内忧外患的深重灾难,以毛泽东同志为主要代表的中国共产党人,胸怀远大理想,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“毛泽东思想及其历史地位思想理论是社会变革的先导。面对中国近代以后山河碟碎、内忧外患的深重灾难,以毛泽东同志为主要代表的中国共产党人,胸怀远大理想,??????",
+      "summary": "?????“毛泽东思想及其历史地位思想理论是社会变革的先导。面对中国近代以后山河碟碎、内忧外患的深重灾难,以毛泽东同志为主要代表的中国共产党人,胸怀远大理想,??????"
+    },
+    {
+      "id": "concept-导言",
+      "label": "导言",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????导言??????",
+      "summary": "?????导言??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "label": "第二节 毛泽东思想的主要内容和活的灵魂一、毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题,提出了一系列相互关联的重要理论观点,构成了一个完整的科学思想体系。毛津东思想以独创性的理论丰富和发展了马克思列宁主义,主要体现在以下几个方面。",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想#毛泽东思想和中国特色社会主义理论体系概论/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想/第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想/第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面"
+      }
+    },
+    {
+      "id": "concept-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "label": "毛泽东思想的主要内容和活的灵魂一、毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题,提出了一系列相互关联的重要理论观点,构成了一个完整的科学思想体系。毛津东思想以独创性的理论丰富和发展了马克思列宁主义,主要体现在以下几个方面。",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????毛泽东思想的主要内容和活的灵魂一、毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题,提出了一系列相互关联的重要理论观点,构成了一个完整的科学思想体系。毛津东思想以独创性的理论丰富和发展了马克思列宁主义,主要体现在以下几个方面。??????",
+      "summary": "?????毛泽东思想的主要内容和活的灵魂一、毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题,提出了一系列相互关联的重要理论观点,构成了一个完整的科学思想体系。毛津东思想以独创性的理论丰富和发展了马克思列宁主义,主要体现在以下几个方面。??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "label": "第二章 “新民主主义革命理论没有革命的理论,就没有革命的行动。中国共产党为什么能从小到大、由弱到强?为什么能在其他各种势力都失败的情况下,找到中国革命的正确道路?为什么能带领人民大众,历经28年浴血奋斗,推翻帝国主义、封建主义、官僚资本主义“三座大山“,取得新民主主义革命伟大胜利?为什么能走出“山沟沟“、走向全国执政?这一个又一个“为什么能“的答案,就蕴合在新民主主义革命理论之中。第一节“新民主主义革命理论形成的依据一、近代中国国情和中国革命的时代特征认清中国国情,是解决中国革命问题的基本前提。不了解近代中国国情,不了解中国革命的时代特征,便不可能提出符合中国实际的革命理论,也就无法正确领导中国革命。毛泽东指出:“认清中国社会的性质,",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 9,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "label": "第二章 “新民主主义革命理论没有革命的理论,就没有革命的行动。中国共产党为什么能从小到大、由弱到强?为什么能在其他各种势力都失败的情况下,找到中国革命的正确道路?为什么能带领人民大众,历经28年浴血奋斗,推翻帝国主义、封建主义、官僚资本主义“三座大山“,取得新民主主义革命伟大胜利?为什么能走出“山沟沟“、走向全国执政?这一个又一个“为什么能“的答案,就蕴合在新民主主义革命理论之中。第一节“新民主主义革命理论形成的依据一、近代中国国情和中国革命的时代特征认清中国国情,是解决中国革命问题的基本前提。不了解近代中国国情,不了解中国革命的时代特征,便不可能提出符合中国实际的革命理论,也就无法正确领导中国革命。毛泽东指出:“认清中国社会的性质, 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质#毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro"
+      }
+    },
+    {
+      "id": "concept-第二章",
+      "label": "第二章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第二章??????",
+      "summary": "?????第二章??????"
+    },
+    {
+      "id": "concept-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强",
+      "label": "“新民主主义革命理论没有革命的理论,就没有革命的行动。中国共产党为什么能从小到大、由弱到强",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“新民主主义革命理论没有革命的理论,就没有革命的行动。中国共产党为什么能从小到大、由弱到强??????",
+      "summary": "?????“新民主主义革命理论没有革命的理论,就没有革命的行动。中国共产党为什么能从小到大、由弱到强??????"
+    },
+    {
+      "id": "concept-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路",
+      "label": "为什么能在其他各种势力都失败的情况下,找到中国革命的正确道路",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????为什么能在其他各种势力都失败的情况下,找到中国革命的正确道路??????",
+      "summary": "?????为什么能在其他各种势力都失败的情况下,找到中国革命的正确道路??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-描氏主元荣余白招",
+      "label": "第二节 描氏主元荣余白招",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质#毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质/第二节-描氏主元荣余白招",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质/第二节-描氏主元荣余白招"
+      }
+    },
+    {
+      "id": "concept-描氏主元荣余白招",
+      "label": "描氏主元荣余白招",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????描氏主元荣余白招??????",
+      "summary": "?????描氏主元荣余白招??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "label": "第三节 新民主主义革命的道路和基本经验一、新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命,应该选择什么样的道路,这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题。中国共产党在马克思主义指导下,立足中国国情,走出了一条不同于俄国十月革命的道路,即农村包围城市、武装夺取政权的革命道路。",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质#毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质/第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质/第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路"
+      }
+    },
+    {
+      "id": "concept-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "label": "新民主主义革命的道路和基本经验一、新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命,应该选择什么样的道路,这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题。中国共产党在马克思主义指导下,立足中国国情,走出了一条不同于俄国十月革命的道路,即农村包围城市、武装夺取政权的革命道路。",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????新民主主义革命的道路和基本经验一、新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命,应该选择什么样的道路,这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题。中国共产党在马克思主义指导下,立足中国国情,走出了一条不同于俄国十月革命的道路,即农村包围城市、武装夺取政权的革命道路。??????",
+      "summary": "?????新民主主义革命的道路和基本经验一、新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命,应该选择什么样的道路,这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题。中国共产党在马克思主义指导下,立足中国国情,走出了一条不同于俄国十月革命的道路,即农村包围城市、武装夺取政权的革命道路。??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+      "label": "第三章 社会主义改造理论为有牺牲多壮志,敢教日月换新天。经过28年的浴血奋战和颂强奋斗,中华人民共和国成立了,中国人民真正成为国家的主人,中华民族进入发展进步的新纪元。山河重整,百废待兴,接下汝该怎么走?如何进行社会主义革命?如何改造旧社会,建立新社会?如何尽快实现国家工业化?社会主义改造理论就是对这一系列崭新课题的创造性回答。第一节“从新民主主义到社会主义的转变一、新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成,是我国从新民主主义到社会主义的过渡时期。这一时期,我国社会的性质是新民主主义社会。新民主主义社会不是一个独立的社会形态,而是由新民主主义向社会主义转变的过渡性社会形态。在新民主主义社会中,存在着五种经济成分,即社会主义性质的国显经济、半社会主义性质的合作社经济、农民和手工业者的个体经济、私人资本主义经济和国家资本主义经济。其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式,国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式。所以,主要的经济成分是三种:社会主义经济、个体经济和资本主义经济。新民主主义社会要继续向前发展,就要不断扩大国营经济,同时逐步将资本主义经济和个体经济改变为社会主义经济,使社会主义经济逐步成为我国的经济基础。",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 10,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "label": "第三章 社会主义改造理论为有牺牲多壮志,敢教日月换新天。经过28年的浴血奋战和颂强奋斗,中华人民共和国成立了,中国人民真正成为国家的主人,中华民族进入发展进步的新纪元。山河重整,百废待兴,接下汝该怎么走?如何进行社会主义革命?如何改造旧社会,建立新社会?如何尽快实现国家工业化?社会主义改造理论就是对这一系列崭新课题的创造性回答。第一节“从新民主主义到社会主义的转变一、新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成,是我国从新民主主义到社会主义的过渡时期。这一时期,我国社会的性质是新民主主义社会。新民主主义社会不是一个独立的社会形态,而是由新民主主义向社会主义转变的过渡性社会形态。在新民主主义社会中,存在着五种经济成分,即社会主义性质的国显经济、半社会主义性质的合作社经济、农民和手工业者的个体经济、私人资本主义经济和国家资本主义经济。其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式,国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式。所以,主要的经济成分是三种:社会主义经济、个体经济和资本主义经济。新民主主义社会要继续向前发展,就要不断扩大国营经济,同时逐步将资本主义经济和个体经济改变为社会主义经济,使社会主义经济逐步成为我国的经济基础。 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础#毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础/第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础/第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro"
+      }
+    },
+    {
+      "id": "concept-第三章",
+      "label": "第三章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第三章??????",
+      "summary": "?????第三章??????"
+    },
+    {
+      "id": "concept-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走",
+      "label": "社会主义改造理论为有牺牲多壮志,敢教日月换新天。经过28年的浴血奋战和颂强奋斗,中华人民共和国成立了,中国人民真正成为国家的主人,中华民族进入发展进步的新纪元。山河重整,百废待兴,接下汝该怎么走",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????社会主义改造理论为有牺牲多壮志,敢教日月换新天。经过28年的浴血奋战和颂强奋斗,中华人民共和国成立了,中国人民真正成为国家的主人,中华民族进入发展进步的新纪元。山河重整,百废待兴,接下汝该怎么走??????",
+      "summary": "?????社会主义改造理论为有牺牲多壮志,敢教日月换新天。经过28年的浴血奋战和颂强奋斗,中华人民共和国成立了,中国人民真正成为国家的主人,中华民族进入发展进步的新纪元。山河重整,百废待兴,接下汝该怎么走??????"
+    },
+    {
+      "id": "concept-如何进行社会主义革命",
+      "label": "如何进行社会主义革命",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????如何进行社会主义革命??????",
+      "summary": "?????如何进行社会主义革命??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+      "label": "第四章 “社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义,没有先例可循。社会主义制度确立之后,中国共产党人对此进行了艰辛探索,成就甚为显著,经验弥足珍贵,教训十分深刻。如何回望这段激情而峥嵘的岁月?如何认识这一时期的历史任务?如何正确把握艰辛探索的理论成果?如何认识这一时期与改革开放新时期的关系?这是本章要集中讲述的问题。第一节初步探索的重要理论成果一、调动一切积极因素为社会主义事业服务社会主义改造基本完成后,我国进人社会主义建设时期。如何建设和巩固社会主义,是党面临的一个崭新课题。我们党初步探索适合中国国情的社会主义建设道路,在理论和实践上作出许多开创性贡献,为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验。新中国成立初期,我国主要是学习苏联经验,这在当时是必要的,也取得了一定的成效。但是,照抄照搬苏联经验不符合中国国情,特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上,仍然需要把马克思列宁主义基本原理同中国具体实际进行“第二次结合“,努力找到适合中国特点的社会主义建设道路。",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 11,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "label": "第四章 “社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义,没有先例可循。社会主义制度确立之后,中国共产党人对此进行了艰辛探索,成就甚为显著,经验弥足珍贵,教训十分深刻。如何回望这段激情而峥嵘的岁月?如何认识这一时期的历史任务?如何正确把握艰辛探索的理论成果?如何认识这一时期与改革开放新时期的关系?这是本章要集中讲述的问题。第一节初步探索的重要理论成果一、调动一切积极因素为社会主义事业服务社会主义改造基本完成后,我国进人社会主义建设时期。如何建设和巩固社会主义,是党面临的一个崭新课题。我们党初步探索适合中国国情的社会主义建设道路,在理论和实践上作出许多开创性贡献,为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验。新中国成立初期,我国主要是学习苏联经验,这在当时是必要的,也取得了一定的成效。但是,照抄照搬苏联经验不符合中国国情,特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上,仍然需要把马克思列宁主义基本原理同中国具体实际进行“第二次结合“,努力找到适合中国特点的社会主义建设道路。 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路#毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro"
+      }
+    },
+    {
+      "id": "concept-第四章",
+      "label": "第四章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第四章??????",
+      "summary": "?????第四章??????"
+    },
+    {
+      "id": "concept-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月",
+      "label": "“社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义,没有先例可循。社会主义制度确立之后,中国共产党人对此进行了艰辛探索,成就甚为显著,经验弥足珍贵,教训十分深刻。如何回望这段激情而峥嵘的岁月",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义,没有先例可循。社会主义制度确立之后,中国共产党人对此进行了艰辛探索,成就甚为显著,经验弥足珍贵,教训十分深刻。如何回望这段激情而峥嵘的岁月??????",
+      "summary": "?????“社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义,没有先例可循。社会主义制度确立之后,中国共产党人对此进行了艰辛探索,成就甚为显著,经验弥足珍贵,教训十分深刻。如何回望这段激情而峥嵘的岁月??????"
+    },
+    {
+      "id": "concept-如何认识这一时期的历史任务",
+      "label": "如何认识这一时期的历史任务",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????如何认识这一时期的历史任务??????",
+      "summary": "?????如何认识这一时期的历史任务??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "label": "第二节 初步探索的意义和经验教训一、初步探索的意义在社会主义建设时期,党领导人民探索社会主义建设道路,历经艰辛和曲折,在理论和实践上取得了一系列重要成果。这些成果对于巩固我国社会主义制度,开创和发展中国特色社会主义,促进世界社会主义的发展,具有重要意义。第一,巩固和发展了我国的社会主义制度。社会主义制度建立以后,如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题。作为一种崭新的更高形态的社会制度,社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性。但是,我国人口多、底子薄、经济文化比较落后,社会主义建设的任务艰巨繁重。国际上,以美国为首的西方国家对中国采取敌视政策,并进行封锁和过制,企图颜覆社会主义制度。面对严峻复杂的国内外形势,党带领全国人民,坚持独立自主、自力更生,开始了大规模的社会主义建设,在经济、政治、文化等各方面都取得了重大成就。这些成就的取得,体现了社会主义制度的优越性,增强了广大人民群众走社会主义道路的信心,社会主义制度也在实践中得到发展。第二,为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础。在全面建设社会主义时期,党对社会主义建设道路的探索历经艰辛,",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路#毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路/第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路/第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛"
+      }
+    },
+    {
+      "id": "concept-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "label": "初步探索的意义和经验教训一、初步探索的意义在社会主义建设时期,党领导人民探索社会主义建设道路,历经艰辛和曲折,在理论和实践上取得了一系列重要成果。这些成果对于巩固我国社会主义制度,开创和发展中国特色社会主义,促进世界社会主义的发展,具有重要意义。第一,巩固和发展了我国的社会主义制度。社会主义制度建立以后,如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题。作为一种崭新的更高形态的社会制度,社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性。但是,我国人口多、底子薄、经济文化比较落后,社会主义建设的任务艰巨繁重。国际上,以美国为首的西方国家对中国采取敌视政策,并进行封锁和过制,企图颜覆社会主义制度。面对严峻复杂的国内外形势,党带领全国人民,坚持独立自主、自力更生,开始了大规模的社会主义建设,在经济、政治、文化等各方面都取得了重大成就。这些成就的取得,体现了社会主义制度的优越性,增强了广大人民群众走社会主义道路的信心,社会主义制度也在实践中得到发展。第二,为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础。在全面建设社会主义时期,党对社会主义建设道路的探索历经艰辛,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????初步探索的意义和经验教训一、初步探索的意义在社会主义建设时期,党领导人民探索社会主义建设道路,历经艰辛和曲折,在理论和实践上取得了一系列重要成果。这些成果对于巩固我国社会主义制度,开创和发展中国特色社会主义,促进世界社会主义的发展,具有重要意义。第一,巩固和发展了我国的社会主义制度。社会主义制度建立以后,如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题。作为一种崭新的更高形态的社会制度,社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性。但是,我国人口多、底子薄、经济文化比较落后,社会主义建设的任务艰巨繁重。国际上,以美国为首的西方国家对中国采取敌视政策,并进行封锁和过制,企图颜覆社会主义制度。面对严峻复杂的国内外形势,党带领全国人民,坚持独立自主、自力更生,开始了大规模的社会主义建设,在经济、政治、文化等各方面都取得了重大成就。这些成就的取得,体现了社会主义制度的优越性,增强了广大人民群众走社会主义道路的信心,社会主义制度也在实践中得到发展。第二,为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础。在全面建设社会主义时期,党对社会主义建设道路的探索历经艰辛,??????",
+      "summary": "?????初步探索的意义和经验教训一、初步探索的意义在社会主义建设时期,党领导人民探索社会主义建设道路,历经艰辛和曲折,在理论和实践上取得了一系列重要成果。这些成果对于巩固我国社会主义制度,开创和发展中国特色社会主义,促进世界社会主义的发展,具有重要意义。第一,巩固和发展了我国的社会主义制度。社会主义制度建立以后,如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题。作为一种崭新的更高形态的社会制度,社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性。但是,我国人口多、底子薄、经济文化比较落后,社会主义建设的任务艰巨繁重。国际上,以美国为首的西方国家对中国采取敌视政策,并进行封锁和过制,企图颜覆社会主义制度。面对严峻复杂的国内外形势,党带领全国人民,坚持独立自主、自力更生,开始了大规模的社会主义建设,在经济、政治、文化等各方面都取得了重大成就。这些成就的取得,体现了社会主义制度的优越性,增强了广大人民群众走社会主义道路的信心,社会主义制度也在实践中得到发展。第二,为开创中国特色社会主义提供了宝贵经验、理论准备、物质基础。在全面建设社会主义时期,党对社会主义建设道路的探索历经艰辛,??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "label": "第五章 “中国特位社会主义理论体系的形成发展实跨没有止境,理论创新也没有止境。改革开放以来,我们党继续推进马克思主义中国化时代化,形成和发展了中国特色社会主义理论体系。这一理论体系既展现了中国化时代化马克思主义的勃勃生机,又为我们继续进行理论创新打开了广闻空间。中国特色社会主义理论体系是在什么样的社会历史条件下形成的?经历了怎样的发展历程?这是本章要回答的问题。第一节“中国特色社会主义理论体系形成发展的社会历史条件一、中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系,把揭世界大势才能运筹帷幄,坚持胸怀天下方显大国担当。面对20世纪70年代以来世界格局和国际局势风云激荡的变化,中国共产党人坚持用马克思主义的宽广眼界观察世界,认真研究其他国家兴衰成败的经验教训,以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果,形成并不断发展了中国特色社会主义理论体系,以与时俱进的科学理论为中国发展进步指明路径和方向,也为解决人类面临的共同问题贡献中国智慧和中国方案。中国特色社会主义理论体系,是我们党在深刻洞察国际形势变化和世界发展趋势、科学判断时代主题和时代特征、深刻把揭人类社会发展规律的基础上形成并不断发展的。",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 12,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "label": "第五章 “中国特位社会主义理论体系的形成发展实跨没有止境,理论创新也没有止境。改革开放以来,我们党继续推进马克思主义中国化时代化,形成和发展了中国特色社会主义理论体系。这一理论体系既展现了中国化时代化马克思主义的勃勃生机,又为我们继续进行理论创新打开了广闻空间。中国特色社会主义理论体系是在什么样的社会历史条件下形成的?经历了怎样的发展历程?这是本章要回答的问题。第一节“中国特色社会主义理论体系形成发展的社会历史条件一、中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系,把揭世界大势才能运筹帷幄,坚持胸怀天下方显大国担当。面对20世纪70年代以来世界格局和国际局势风云激荡的变化,中国共产党人坚持用马克思主义的宽广眼界观察世界,认真研究其他国家兴衰成败的经验教训,以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果,形成并不断发展了中国特色社会主义理论体系,以与时俱进的科学理论为中国发展进步指明路径和方向,也为解决人类面临的共同问题贡献中国智慧和中国方案。中国特色社会主义理论体系,是我们党在深刻洞察国际形势变化和世界发展趋势、科学判断时代主题和时代特征、深刻把揭人类社会发展规律的基础上形成并不断发展的。 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的#毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro"
+      }
+    },
+    {
+      "id": "concept-第五章",
+      "label": "第五章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第五章??????",
+      "summary": "?????第五章??????"
+    },
+    {
+      "id": "concept-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的",
+      "label": "“中国特位社会主义理论体系的形成发展实跨没有止境,理论创新也没有止境。改革开放以来,我们党继续推进马克思主义中国化时代化,形成和发展了中国特色社会主义理论体系。这一理论体系既展现了中国化时代化马克思主义的勃勃生机,又为我们继续进行理论创新打开了广闻空间。中国特色社会主义理论体系是在什么样的社会历史条件下形成的",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“中国特位社会主义理论体系的形成发展实跨没有止境,理论创新也没有止境。改革开放以来,我们党继续推进马克思主义中国化时代化,形成和发展了中国特色社会主义理论体系。这一理论体系既展现了中国化时代化马克思主义的勃勃生机,又为我们继续进行理论创新打开了广闻空间。中国特色社会主义理论体系是在什么样的社会历史条件下形成的??????",
+      "summary": "?????“中国特位社会主义理论体系的形成发展实跨没有止境,理论创新也没有止境。改革开放以来,我们党继续推进马克思主义中国化时代化,形成和发展了中国特色社会主义理论体系。这一理论体系既展现了中国化时代化马克思主义的勃勃生机,又为我们继续进行理论创新打开了广闻空间。中国特色社会主义理论体系是在什么样的社会历史条件下形成的??????"
+    },
+    {
+      "id": "concept-经历了怎样的发展历程",
+      "label": "经历了怎样的发展历程",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????经历了怎样的发展历程??????",
+      "summary": "?????经历了怎样的发展历程??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "label": "第二节 “中国特色社会主义理论体系形成发展过程一、中国特色社会主义理论体系的形成“文化大革命“结束后,“中国向何处去“成为摆在中国人民面前头等重要的问题。邓小平以他的远见卓识、丰富政治经验、高超领导艺术,",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的#毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的/第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的/第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术"
+      }
+    },
+    {
+      "id": "concept-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "label": "“中国特色社会主义理论体系形成发展过程一、中国特色社会主义理论体系的形成“文化大革命“结束后,“中国向何处去“成为摆在中国人民面前头等重要的问题。邓小平以他的远见卓识、丰富政治经验、高超领导艺术,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“中国特色社会主义理论体系形成发展过程一、中国特色社会主义理论体系的形成“文化大革命“结束后,“中国向何处去“成为摆在中国人民面前头等重要的问题。邓小平以他的远见卓识、丰富政治经验、高超领导艺术,??????",
+      "summary": "?????“中国特色社会主义理论体系形成发展过程一、中国特色社会主义理论体系的形成“文化大革命“结束后,“中国向何处去“成为摆在中国人民面前头等重要的问题。邓小平以他的远见卓识、丰富政治经验、高超领导艺术,??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国仪视会生义球体系形成发展途",
+      "label": "第二节 中国仪视会生义球体系形成发展途",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的#毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的/第二节-中国仪视会生义球体系形成发展途",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的/第二节-中国仪视会生义球体系形成发展途"
+      }
+    },
+    {
+      "id": "concept-中国仪视会生义球体系形成发展途",
+      "label": "中国仪视会生义球体系形成发展途",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????中国仪视会生义球体系形成发展途??????",
+      "summary": "?????中国仪视会生义球体系形成发展途??????"
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+      "label": "第六章 “邓小平理论立时代潮头,开改革之先。思想解放的滚滚洪流,冲开了神州大地创新创造的闸门。以邓小平同志为主要代表的中国共产党人,顺民意、挽狂澜,实现伟大历史转折,吹响改革开放号角,开辟中国特色社会主义道路,创立邓小平理论.邓小平理论首要的基本的理论问题和精髓是什么?邓小平理论的主要内容有哪些?如何认识邓小平理论的历史地位?我们需要在这一章中寻找答案。第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义、怎样建设社会主义是一个首要的基本的理论问题。“老祖宗“没有讲过,",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 13,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "label": "第六章 “邓小平理论立时代潮头,开改革之先。思想解放的滚滚洪流,冲开了神州大地创新创造的闸门。以邓小平同志为主要代表的中国共产党人,顺民意、挽狂澜,实现伟大历史转折,吹响改革开放号角,开辟中国特色社会主义道路,创立邓小平理论.邓小平理论首要的基本的理论问题和精髓是什么?邓小平理论的主要内容有哪些?如何认识邓小平理论的历史地位?我们需要在这一章中寻找答案。第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义、怎样建设社会主义是一个首要的基本的理论问题。“老祖宗“没有讲过, 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过#毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro"
+      }
+    },
+    {
+      "id": "concept-第六章",
+      "label": "第六章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第六章??????",
+      "summary": "?????第六章??????"
+    },
+    {
+      "id": "concept-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么",
+      "label": "“邓小平理论立时代潮头,开改革之先。思想解放的滚滚洪流,冲开了神州大地创新创造的闸门。以邓小平同志为主要代表的中国共产党人,顺民意、挽狂澜,实现伟大历史转折,吹响改革开放号角,开辟中国特色社会主义道路,创立邓小平理论.邓小平理论首要的基本的理论问题和精髓是什么",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“邓小平理论立时代潮头,开改革之先。思想解放的滚滚洪流,冲开了神州大地创新创造的闸门。以邓小平同志为主要代表的中国共产党人,顺民意、挽狂澜,实现伟大历史转折,吹响改革开放号角,开辟中国特色社会主义道路,创立邓小平理论.邓小平理论首要的基本的理论问题和精髓是什么??????",
+      "summary": "?????“邓小平理论立时代潮头,开改革之先。思想解放的滚滚洪流,冲开了神州大地创新创造的闸门。以邓小平同志为主要代表的中国共产党人,顺民意、挽狂澜,实现伟大历史转折,吹响改革开放号角,开辟中国特色社会主义道路,创立邓小平理论.邓小平理论首要的基本的理论问题和精髓是什么??????"
+    },
+    {
+      "id": "concept-邓小平理论的主要内容有哪些",
+      "label": "邓小平理论的主要内容有哪些",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????邓小平理论的主要内容有哪些??????",
+      "summary": "?????邓小平理论的主要内容有哪些??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "label": "第三节 邓小平理论的历史地位",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过#毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过/第三节-邓小平理论的历史地位",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过/第三节-邓小平理论的历史地位"
+      }
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "label": "第七章 “三个代表“重要思想出纪交营、干年更怡,国际局势风云变幻,改革开放和现代化建设洹忍闸,如何坐持与时侵迹,迎难而上?如何大力推进改革开放?如佣大刀推运党的建设新的伟大工程?以江泽民同志为主要代表的中国共产党人国内外形势十分复杂、世界社会主义出现严重曲折的严峻考验申前,挠卫了中国特色社会主义,形成了“三个代表“重要思想,成功把中国特色",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 14,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "label": "第七章 “三个代表“重要思想出纪交营、干年更怡,国际局势风云变幻,改革开放和现代化建设洹忍闸,如何坐持与时侵迹,迎难而上?如何大力推进改革开放?如佣大刀推运党的建设新的伟大工程?以江泽民同志为主要代表的中国共产党人国内外形势十分复杂、世界社会主义出现严重曲折的严峻考验申前,挠卫了中国特色社会主义,形成了“三个代表“重要思想,成功把中国特色 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色#毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro"
+      }
+    },
+    {
+      "id": "concept-第七章",
+      "label": "第七章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第七章??????",
+      "summary": "?????第七章??????"
+    },
+    {
+      "id": "concept-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上",
+      "label": "“三个代表“重要思想出纪交营、干年更怡,国际局势风云变幻,改革开放和现代化建设洹忍闸,如何坐持与时侵迹,迎难而上",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“三个代表“重要思想出纪交营、干年更怡,国际局势风云变幻,改革开放和现代化建设洹忍闸,如何坐持与时侵迹,迎难而上??????",
+      "summary": "?????“三个代表“重要思想出纪交营、干年更怡,国际局势风云变幻,改革开放和现代化建设洹忍闸,如何坐持与时侵迹,迎难而上??????"
+    },
+    {
+      "id": "concept-如何大力推进改革开放",
+      "label": "如何大力推进改革开放",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????如何大力推进改革开放??????",
+      "summary": "?????如何大力推进改革开放??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "label": "第二节 “三个代表“重要思想的主要内容、发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任,必须始终紧紧抓住发展这个执政兴国的第一要务,把坚持党的先进性和发挥社会主义制度的优越性,落实到发展先进生产力、发展先进文化、实现最广大人民的根本利益上来,推动社会全面进步,促进人的全面发展。紧紧把握住这一点,就从根本上把握了人民的愿望,把握了社会主义现代化建设的本质。中国特色社会主义是靠发展来不断巩固和推进的。社会主义要强大,体现优越性,关键在发展。江津民反复强调:“发展是硬道理,这是我们必须始终坚持的一个战略思想。““特别是我国这样一个发展中大国,",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色#毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国"
+      }
+    },
+    {
+      "id": "concept-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "label": "“三个代表“重要思想的主要内容、发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任,必须始终紧紧抓住发展这个执政兴国的第一要务,把坚持党的先进性和发挥社会主义制度的优越性,落实到发展先进生产力、发展先进文化、实现最广大人民的根本利益上来,推动社会全面进步,促进人的全面发展。紧紧把握住这一点,就从根本上把握了人民的愿望,把握了社会主义现代化建设的本质。中国特色社会主义是靠发展来不断巩固和推进的。社会主义要强大,体现优越性,关键在发展。江津民反复强调:“发展是硬道理,这是我们必须始终坚持的一个战略思想。““特别是我国这样一个发展中大国,",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“三个代表“重要思想的主要内容、发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任,必须始终紧紧抓住发展这个执政兴国的第一要务,把坚持党的先进性和发挥社会主义制度的优越性,落实到发展先进生产力、发展先进文化、实现最广大人民的根本利益上来,推动社会全面进步,促进人的全面发展。紧紧把握住这一点,就从根本上把握了人民的愿望,把握了社会主义现代化建设的本质。中国特色社会主义是靠发展来不断巩固和推进的。社会主义要强大,体现优越性,关键在发展。江津民反复强调:“发展是硬道理,这是我们必须始终坚持的一个战略思想。““特别是我国这样一个发展中大国,??????",
+      "summary": "?????“三个代表“重要思想的主要内容、发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任,必须始终紧紧抓住发展这个执政兴国的第一要务,把坚持党的先进性和发挥社会主义制度的优越性,落实到发展先进生产力、发展先进文化、实现最广大人民的根本利益上来,推动社会全面进步,促进人的全面发展。紧紧把握住这一点,就从根本上把握了人民的愿望,把握了社会主义现代化建设的本质。中国特色社会主义是靠发展来不断巩固和推进的。社会主义要强大,体现优越性,关键在发展。江津民反复强调:“发展是硬道理,这是我们必须始终坚持的一个战略思想。““特别是我国这样一个发展中大国,??????"
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "label": "第三节 “三个代表“重要思想的历史地位",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色#毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第三节-三个代表-重要思想的历史地位",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色/第三节-三个代表-重要思想的历史地位"
+      }
+    },
+    {
+      "id": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵",
+      "label": "第八章 “科学发展观接力奋进续伟业,继往开来谋新篇。进入新世纪,以胡锦涛同志为主要代表的中国共产党人,紧紧抓住我国发展的重要战略机遇期,在全面建设小康社会进程中推进实跋创新、理论创新、制度创新,坚持以人为本、全面协调可持续发展,形成了科学发展观,成功在新的历史起点上坚持和发展了中国特色社会主义:科学发展观的主要内容有哪些?有什么样的历史地位和现实意义?让我们在本章中了解和把握这些内容。第一节科学发展观的科学内涵",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 15,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵"
+      }
+    },
+    {
+      "id": "section-mao-zedong-thought-theory-system-2023-section-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro",
+      "label": "第八章 “科学发展观接力奋进续伟业,继往开来谋新篇。进入新世纪,以胡锦涛同志为主要代表的中国共产党人,紧紧抓住我国发展的重要战略机遇期,在全面建设小康社会进程中推进实跋创新、理论创新、制度创新,坚持以人为本、全面协调可持续发展,形成了科学发展观,成功在新的历史起点上坚持和发展了中国特色社会主义:科学发展观的主要内容有哪些?有什么样的历史地位和现实意义?让我们在本章中了解和把握这些内容。第一节科学发展观的科学内涵 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=mao-zedong-thought-theory-system-2023&chapter_id=mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵#毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵/第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro",
+      "ref": {
+        "book_id": "mao-zedong-thought-theory-system-2023",
+        "chapter_id": "mao-zedong-thought-theory-system-2023:chapter:第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵",
+        "anchor": "毛泽东思想和中国特色社会主义理论体系概论/第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵/第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro"
+      }
+    },
+    {
+      "id": "concept-第八章",
+      "label": "第八章",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????第八章??????",
+      "summary": "?????第八章??????"
+    },
+    {
+      "id": "concept-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些",
+      "label": "“科学发展观接力奋进续伟业,继往开来谋新篇。进入新世纪,以胡锦涛同志为主要代表的中国共产党人,紧紧抓住我国发展的重要战略机遇期,在全面建设小康社会进程中推进实跋创新、理论创新、制度创新,坚持以人为本、全面协调可持续发展,形成了科学发展观,成功在新的历史起点上坚持和发展了中国特色社会主义:科学发展观的主要内容有哪些",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????“科学发展观接力奋进续伟业,继往开来谋新篇。进入新世纪,以胡锦涛同志为主要代表的中国共产党人,紧紧抓住我国发展的重要战略机遇期,在全面建设小康社会进程中推进实跋创新、理论创新、制度创新,坚持以人为本、全面协调可持续发展,形成了科学发展观,成功在新的历史起点上坚持和发展了中国特色社会主义:科学发展观的主要内容有哪些??????",
+      "summary": "?????“科学发展观接力奋进续伟业,继往开来谋新篇。进入新世纪,以胡锦涛同志为主要代表的中国共产党人,紧紧抓住我国发展的重要战略机遇期,在全面建设小康社会进程中推进实跋创新、理论创新、制度创新,坚持以人为本、全面协调可持续发展,形成了科学发展观,成功在新的历史起点上坚持和发展了中国特色社会主义:科学发展观的主要内容有哪些??????"
+    },
+    {
+      "id": "concept-有什么样的历史地位和现实意义",
+      "label": "有什么样的历史地位和现实意义",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 0,
+      "description": "?????有什么样的历史地位和现实意义??????",
+      "summary": "?????有什么样的历史地位和现实意义??????"
+    }
+  ],
+  "edges": [
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-新民主主义革命理论形成的依据",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-新民主主义革命理论形成的依据",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-新民主主义革命理论形成的依据",
+      "target": "concept-新民主主义革命理论形成的依据",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-新民主主义革命的总路线和基本纲领",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-新民主主义革命的总路线和基本纲领",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-新民主主义革命的总路线和基本纲领",
+      "target": "concept-新民主主义革命的总路线和基本纲领",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验",
+      "target": "concept-新民主主义革命的道路和基本经验",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-从新民主主义到社会主义的转变",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-从新民主主义到社会主义的转变",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-从新民主主义到社会主义的转变",
+      "target": "concept-从新民主主义到社会主义的转变",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-社会主义改造道路和历史经验",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-社会主义改造道路和历史经验",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-社会主义改造道路和历史经验",
+      "target": "concept-社会主义改造道路和历史经验",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-社会主义基本制度在中国的确立",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-社会主义基本制度在中国的确立",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-社会主义基本制度在中国的确立",
+      "target": "concept-社会主义基本制度在中国的确立",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果丨",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果丨",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-初步探索的重要理论成果",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-初步探索的重要理论成果",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-初步探索的重要理论成果",
+      "target": "concept-初步探索的重要理论成果",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果丨",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训",
+      "target": "concept-初步探索的意义和经验教训",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特色社会主义理论体系的形成发展人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特色社会主义理论体系的形成发展人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-中国特色社会主义理论体系形成发展的社会历史条件",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-中国特色社会主义理论体系形成发展的社会历史条件",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-中国特色社会主义理论体系形成发展的社会历史条件",
+      "target": "concept-中国特色社会主义理论体系形成发展的社会历史条件",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特色社会主义理论体系的形成发展人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程",
+      "target": "concept-中国特色社会主义理论体系形成发展过程",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-邓小平理论首要的基本的理论问题和精髓",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-邓小平理论首要的基本的理论问题和精髓",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-邓小平理论首要的基本的理论问题和精髓",
+      "target": "concept-邓小平理论首要的基本的理论问题和精髓",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-邓小平理论的主要内容",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-邓小平理论的主要内容",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-邓小平理论的主要内容",
+      "target": "concept-邓小平理论的主要内容",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "target": "concept-邓小平理论的历史地位",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-三个代表-重要思意的核心观点",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-三个代表-重要思意的核心观点",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-三个代表-重要思意的核心观点",
+      "target": "concept-三个代表-重要思意的核心观点",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思意的主要内容",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思意的主要内容",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思意的主要内容",
+      "target": "concept-三个代表-重要思意的主要内容",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "target": "concept-三个代表-重要思想的历史地位",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观人",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一节-科学发展观的科学内涵",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-科学发展观的科学内涵",
+      "target": "concept-第一节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一节-科学发展观的科学内涵",
+      "target": "concept-科学发展观的科学内涵",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-科学发展观的主要内容",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-科学发展观的主要内容",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-科学发展观的主要内容",
+      "target": "concept-科学发展观的主要内容",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观人",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-科学发展觉的历史地位",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-科学发展觉的历史地位",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-科学发展觉的历史地位",
+      "target": "concept-科学发展觉的历史地位",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "target": "concept-第一章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "target": "concept-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "target": "concept-导言",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "target": "concept-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "target": "concept-第二章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "target": "concept-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "target": "concept-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-描氏主元荣余白招",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-描氏主元荣余白招",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-描氏主元荣余白招",
+      "target": "concept-描氏主元荣余白招",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "target": "concept-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "target": "concept-第三章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "target": "concept-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "target": "concept-如何进行社会主义革命",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "target": "concept-第四章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "target": "concept-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "target": "concept-如何认识这一时期的历史任务",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "target": "concept-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "target": "concept-第五章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "target": "concept-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "target": "concept-经历了怎样的发展历程",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "target": "concept-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国仪视会生义球体系形成发展途",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国仪视会生义球体系形成发展途",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-中国仪视会生义球体系形成发展途",
+      "target": "concept-中国仪视会生义球体系形成发展途",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "target": "concept-第六章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "target": "concept-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "target": "concept-邓小平理论的主要内容有哪些",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "target": "concept-邓小平理论的历史地位",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "target": "concept-第七章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "target": "concept-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "target": "concept-如何大力推进改革开放",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "target": "concept-第二节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "target": "concept-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "target": "concept-第三节",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "target": "concept-三个代表-重要思想的历史地位",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵",
+      "target": "section-mao-zedong-thought-theory-system-2023-section-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro",
+      "target": "concept-第八章",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro",
+      "target": "concept-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    },
+    {
+      "source": "section-mao-zedong-thought-theory-system-2023-section-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro",
+      "target": "concept-有什么样的历史地位和现实意义",
+      "type": "explains",
+      "label": "explains",
+      "weight": 0.6
+    }
+  ],
+  "lanes": {
+    "chapters": [
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论人",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论人",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果丨",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特色社会主义理论体系的形成发展人",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论人",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想人",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观人",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色",
+      "chapter-mao-zedong-thought-theory-system-2023-chapter-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵"
+    ],
+    "sections": [
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-新民主主义革命理论形成的依据",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-新民主主义革命的总路线和基本纲领",
+      "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验",
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-从新民主主义到社会主义的转变",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-社会主义改造道路和历史经验",
+      "section-mao-zedong-thought-theory-system-2023-section-第三节-社会主义基本制度在中国的确立",
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-初步探索的重要理论成果",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训",
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-中国特色社会主义理论体系形成发展的社会历史条件",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程",
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-邓小平理论首要的基本的理论问题和精髓",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-邓小平理论的主要内容",
+      "section-mao-zedong-thought-theory-system-2023-section-第三节-邓小平理论的历史地位",
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-三个代表-重要思意的核心观点",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思意的主要内容",
+      "section-mao-zedong-thought-theory-system-2023-section-第三节-三个代表-重要思想的历史地位",
+      "section-mao-zedong-thought-theory-system-2023-section-第一节-科学发展观的科学内涵",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-科学发展观的主要内容",
+      "section-mao-zedong-thought-theory-system-2023-section-第三节-科学发展觉的历史地位",
+      "section-mao-zedong-thought-theory-system-2023-section-第一章-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "section-mao-zedong-thought-theory-system-2023-section-第二章-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路-为什么能带领人民大众-历经28年浴血奋斗-推翻帝国主义-封建主义-官僚资本主义-三座大山-取得新民主主义革命伟大胜利-为什么能走出-山沟沟-走向全国执政-这一个又一个-为什么能-的答案-就蕴合在新民主主义革命理论之中-第一节-新民主主义革命理论形成的依据一-近代中国国情和中国革命的时代特征认清中国国情-是解决中国革命问题的基本前提-不了解近代中国国情-不了解中国革命的时代特征-便不可能提出符合中国实际的革命理论-也就无法正确领导中国革命-毛泽东指出-认清中国社会的性质-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-描氏主元荣余白招",
+      "section-mao-zedong-thought-theory-system-2023-section-第三节-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "section-mao-zedong-thought-theory-system-2023-section-第三章-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走-如何进行社会主义革命-如何改造旧社会-建立新社会-如何尽快实现国家工业化-社会主义改造理论就是对这一系列崭新课题的创造性回答-第一节-从新民主主义到社会主义的转变一-新民主主义社会是一个过渡性的社会从中华人民共和国成立到社会主义改造基本完成-是我国从新民主主义到社会主义的过渡时期-这一时期-我国社会的性质是新民主主义社会-新民主主义社会不是一个独立的社会形态-而是由新民主主义向社会主义转变的过渡性社会形态-在新民主主义社会中-存在着五种经济成分-即社会主义性质的国显经济-半社会主义性质的合作社经济-农民和手工业者的个体经济-私人资本主义经济和国家资本主义经济-其中半社会主义性质的合作社经济是个体经济向社会主义集体经济过渡的形式-国家资本主义经济是私人资本主义经济向社会主义国普经济过渡的形式-所以-主要的经济成分是三种-社会主义经济-个体经济和资本主义经济-新民主主义社会要继续向前发展-就要不断扩大国营经济-同时逐步将资本主义经济和个体经济改变为社会主义经济-使社会主义经济逐步成为我国的经济基础-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第四章-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月-如何认识这一时期的历史任务-如何正确把握艰辛探索的理论成果-如何认识这一时期与改革开放新时期的关系-这是本章要集中讲述的问题-第一节初步探索的重要理论成果一-调动一切积极因素为社会主义事业服务社会主义改造基本完成后-我国进人社会主义建设时期-如何建设和巩固社会主义-是党面临的一个崭新课题-我们党初步探索适合中国国情的社会主义建设道路-在理论和实践上作出许多开创性贡献-为改革开放后开辣中国特色社会主义道路提供了理论淮备和宝贵经验-新中国成立初期-我国主要是学习苏联经验-这在当时是必要的-也取得了一定的成效-但是-照抄照搬苏联经验不符合中国国情-特别是在社会主义改造基本完成以后怎样建设社会主义的道路问题上-仍然需要把马克思列宁主义基本原理同中国具体实际进行-第二次结合-努力找到适合中国特点的社会主义建设道路-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "section-mao-zedong-thought-theory-system-2023-section-第五章-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的-经历了怎样的发展历程-这是本章要回答的问题-第一节-中国特色社会主义理论体系形成发展的社会历史条件一-中国特色社会主义理论体系形成发展的国际背星国际大局与国内大局紧密联系-把揭世界大势才能运筹帷幄-坚持胸怀天下方显大国担当-面对20世纪70年代以来世界格局和国际局势风云激荡的变化-中国共产党人坚持用马克思主义的宽广眼界观察世界-认真研究其他国家兴衰成败的经验教训-以海纳百川的宽闻胸襟吸收借鉴人类一切优秀文明成果-形成并不断发展了中国特色社会主义理论体系-以与时俱进的科学理论为中国发展进步指明路径和方向-也为解决人类面临的共同问题贡献中国智慧和中国方案-中国特色社会主义理论体系-是我们党在深刻洞察国际形势变化和世界发展趋势-科学判断时代主题和时代特征-深刻把揭人类社会发展规律的基础上形成并不断发展的-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-中国仪视会生义球体系形成发展途",
+      "section-mao-zedong-thought-theory-system-2023-section-第六章-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么-邓小平理论的主要内容有哪些-如何认识邓小平理论的历史地位-我们需要在这一章中寻找答案-第一节邓小平理论首要的基本的理论问题和精髓一邓小平理论首要的基本的理论问题在中国这样一个经济文化比较落后的国家建设什么样的社会主义-怎样建设社会主义是一个首要的基本的理论问题-老祖宗-没有讲过-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第七章-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上-如何大力推进改革开放-如佣大刀推运党的建设新的伟大工程-以江泽民同志为主要代表的中国共产党人国内外形势十分复杂-世界社会主义出现严重曲折的严峻考验申前-挠卫了中国特色社会主义-形成了-三个代表-重要思想-成功把中国特色-intro",
+      "section-mao-zedong-thought-theory-system-2023-section-第二节-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "section-mao-zedong-thought-theory-system-2023-section-第八章-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些-有什么样的历史地位和现实意义-让我们在本章中了解和把握这些内容-第一节科学发展观的科学内涵-intro"
+    ],
+    "concepts": [
+      "concept-第一节",
+      "concept-新民主主义革命理论形成的依据",
+      "concept-第二节",
+      "concept-新民主主义革命的总路线和基本纲领",
+      "concept-第三节",
+      "concept-新民主主义革命的道路和基本经验",
+      "concept-从新民主主义到社会主义的转变",
+      "concept-社会主义改造道路和历史经验",
+      "concept-社会主义基本制度在中国的确立",
+      "concept-初步探索的重要理论成果",
+      "concept-初步探索的意义和经验教训",
+      "concept-中国特色社会主义理论体系形成发展的社会历史条件",
+      "concept-中国特色社会主义理论体系形成发展过程",
+      "concept-邓小平理论首要的基本的理论问题和精髓",
+      "concept-邓小平理论的主要内容",
+      "concept-邓小平理论的历史地位",
+      "concept-三个代表-重要思意的核心观点",
+      "concept-三个代表-重要思意的主要内容",
+      "concept-三个代表-重要思想的历史地位",
+      "concept-科学发展观的科学内涵",
+      "concept-科学发展观的主要内容",
+      "concept-科学发展觉的历史地位",
+      "concept-第一章",
+      "concept-毛泽东思想及其历史地位思想理论是社会变革的先导-面对中国近代以后山河碟碎-内忧外患的深重灾难-以毛泽东同志为主要代表的中国共产党人-胸怀远大理想",
+      "concept-导言",
+      "concept-毛泽东思想的主要内容和活的灵魂一-毛泽东思想的主要内容毛泽东思想紧紧围络中国革命和建设的主题-提出了一系列相互关联的重要理论观点-构成了一个完整的科学思想体系-毛津东思想以独创性的理论丰富和发展了马克思列宁主义-主要体现在以下几个方面",
+      "concept-第二章",
+      "concept-新民主主义革命理论没有革命的理论-就没有革命的行动-中国共产党为什么能从小到大-由弱到强",
+      "concept-为什么能在其他各种势力都失败的情况下-找到中国革命的正确道路",
+      "concept-描氏主元荣余白招",
+      "concept-新民主主义革命的道路和基本经验一-新民主主义革命的道路在一个以农民为主体的半殖民地半封建的国度里迹行革命-应该选择什么样的道路-这是中国共产党在领导中国革命的过程中必须面对和回答的重大问题-中国共产党在马克思主义指导下-立足中国国情-走出了一条不同于俄国十月革命的道路-即农村包围城市-武装夺取政权的革命道路",
+      "concept-第三章",
+      "concept-社会主义改造理论为有牺牲多壮志-敢教日月换新天-经过28年的浴血奋战和颂强奋斗-中华人民共和国成立了-中国人民真正成为国家的主人-中华民族进入发展进步的新纪元-山河重整-百废待兴-接下汝该怎么走",
+      "concept-如何进行社会主义革命",
+      "concept-第四章",
+      "concept-社会主义建设道路初步探索的理论成果在一穷二白的东方大国建设社会主义-没有先例可循-社会主义制度确立之后-中国共产党人对此进行了艰辛探索-成就甚为显著-经验弥足珍贵-教训十分深刻-如何回望这段激情而峥嵘的岁月",
+      "concept-如何认识这一时期的历史任务",
+      "concept-初步探索的意义和经验教训一-初步探索的意义在社会主义建设时期-党领导人民探索社会主义建设道路-历经艰辛和曲折-在理论和实践上取得了一系列重要成果-这些成果对于巩固我国社会主义制度-开创和发展中国特色社会主义-促进世界社会主义的发展-具有重要意义-第一-巩固和发展了我国的社会主义制度-社会主义制度建立以后-如何巩固和发展这一制度是我们党必须认真研究和解决的一个重大课题-作为一种崭新的更高形态的社会制度-社会主义制度的建立极大地激发了广大人民群众的建设热情和积极性-但是-我国人口多-底子薄-经济文化比较落后-社会主义建设的任务艰巨繁重-国际上-以美国为首的西方国家对中国采取敌视政策-并进行封锁和过制-企图颜覆社会主义制度-面对严峻复杂的国内外形势-党带领全国人民-坚持独立自主-自力更生-开始了大规模的社会主义建设-在经济-政治-文化等各方面都取得了重大成就-这些成就的取得-体现了社会主义制度的优越性-增强了广大人民群众走社会主义道路的信心-社会主义制度也在实践中得到发展-第二-为开创中国特色社会主义提供了宝贵经验-理论准备-物质基础-在全面建设社会主义时期-党对社会主义建设道路的探索历经艰辛",
+      "concept-第五章",
+      "concept-中国特位社会主义理论体系的形成发展实跨没有止境-理论创新也没有止境-改革开放以来-我们党继续推进马克思主义中国化时代化-形成和发展了中国特色社会主义理论体系-这一理论体系既展现了中国化时代化马克思主义的勃勃生机-又为我们继续进行理论创新打开了广闻空间-中国特色社会主义理论体系是在什么样的社会历史条件下形成的",
+      "concept-经历了怎样的发展历程",
+      "concept-中国特色社会主义理论体系形成发展过程一-中国特色社会主义理论体系的形成-文化大革命-结束后-中国向何处去-成为摆在中国人民面前头等重要的问题-邓小平以他的远见卓识-丰富政治经验-高超领导艺术",
+      "concept-中国仪视会生义球体系形成发展途",
+      "concept-第六章",
+      "concept-邓小平理论立时代潮头-开改革之先-思想解放的滚滚洪流-冲开了神州大地创新创造的闸门-以邓小平同志为主要代表的中国共产党人-顺民意-挽狂澜-实现伟大历史转折-吹响改革开放号角-开辟中国特色社会主义道路-创立邓小平理论-邓小平理论首要的基本的理论问题和精髓是什么",
+      "concept-邓小平理论的主要内容有哪些",
+      "concept-第七章",
+      "concept-三个代表-重要思想出纪交营-干年更怡-国际局势风云变幻-改革开放和现代化建设洹忍闸-如何坐持与时侵迹-迎难而上",
+      "concept-如何大力推进改革开放",
+      "concept-三个代表-重要思想的主要内容-发展是党执政兴国的第一要务党要承抱起推动中国社会进步的历史责任-必须始终紧紧抓住发展这个执政兴国的第一要务-把坚持党的先进性和发挥社会主义制度的优越性-落实到发展先进生产力-发展先进文化-实现最广大人民的根本利益上来-推动社会全面进步-促进人的全面发展-紧紧把握住这一点-就从根本上把握了人民的愿望-把握了社会主义现代化建设的本质-中国特色社会主义是靠发展来不断巩固和推进的-社会主义要强大-体现优越性-关键在发展-江津民反复强调-发展是硬道理-这是我们必须始终坚持的一个战略思想-特别是我国这样一个发展中大国",
+      "concept-第八章",
+      "concept-科学发展观接力奋进续伟业-继往开来谋新篇-进入新世纪-以胡锦涛同志为主要代表的中国共产党人-紧紧抓住我国发展的重要战略机遇期-在全面建设小康社会进程中推进实跋创新-理论创新-制度创新-坚持以人为本-全面协调可持续发展-形成了科学发展观-成功在新的历史起点上坚持和发展了中国特色社会主义-科学发展观的主要内容有哪些",
+      "concept-有什么样的历史地位和现实意义"
+    ]
+  }
+}

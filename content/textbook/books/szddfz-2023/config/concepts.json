@@ -1,0 +1,184 @@
+{
+  "concepts": [
+    {
+      "id": "concept-理想信念",
+      "name": "理想信念",
+      "aliases": [],
+      "short_description": "人生和事业的灯塔，决定方向立场与精神状态，须建立在科学理论和国情认知基础上。"
+    },
+    {
+      "id": "concept-社会主义核心价值观",
+      "name": "社会主义核心价值观",
+      "aliases": [],
+      "short_description": "富强、民主、文明、和谐，自由、平等、公正、法治，爱国、敬业、诚信、友善的24字价值体系。"
+    },
+    {
+      "id": "concept-人生观",
+      "name": "人生观",
+      "aliases": [],
+      "short_description": "人们对人生目的、人生态度、人生价值等问题的总观点和总看法。"
+    },
+    {
+      "id": "concept-人生价值",
+      "name": "人生价值",
+      "aliases": [],
+      "short_description": "对‘什么样的人生才有价值’的回答，核心在于奉献与责任。"
+    },
+    {
+      "id": "concept-中国精神",
+      "name": "中国精神",
+      "aliases": [],
+      "short_description": "以爱国主义为核心的民族精神和以改革创新为核心的时代精神的统一。"
+    },
+    {
+      "id": "concept-中华传统美德",
+      "name": "中华传统美德",
+      "aliases": [],
+      "short_description": "中华优秀传统文化中的道德精髓，是社会主义道德建设的重要源泉。"
+    },
+    {
+      "id": "concept-习近平法治思想",
+      "name": "习近平法治思想",
+      "aliases": [],
+      "short_description": "全面依法治国的指导思想和根本遵循，马克思主义法治理论中国化最新成果。"
+    },
+    {
+      "id": "concept-中国特色社会主义法治道路",
+      "name": "中国特色社会主义法治道路",
+      "aliases": [],
+      "short_description": "立足中国国情、坚持党的领导、人民当家作主、依法治国有机统一的法治路径。"
+    },
+    {
+      "id": "concept-时代新人",
+      "name": "时代新人",
+      "aliases": [],
+      "short_description": "有理想、敢担当、能吃苦、肯奋斗，担当民族复兴大任的当代大学生。"
+    },
+    {
+      "id": "concept-民族复兴",
+      "name": "民族复兴",
+      "aliases": [],
+      "short_description": "中华民族近代以来最伟大的梦想，进入不可逆转的历史进程，青年是先锋力量。"
+    },
+    {
+      "id": "concept-思想道德素质",
+      "name": "思想道德素质",
+      "aliases": [],
+      "short_description": "世界观、人生观、价值观的综合体现，需通过道德认知、养成与实践统一提升。"
+    },
+    {
+      "id": "concept-中国式现代化",
+      "name": "中国式现代化",
+      "aliases": [],
+      "short_description": "党领导人民推进和拓展的现代化道路，是实现民族复兴的必由之路。"
+    },
+    {
+      "id": "concept-青春之问",
+      "name": "青春之问",
+      "aliases": [],
+      "short_description": "大学生关于如何不虚度人生、不负时代的根本性叩问"
+    },
+    {
+      "id": "concept-科学理论指导",
+      "name": "科学理论指导",
+      "aliases": [],
+      "short_description": "以马克思主义等科学理论为指引确立人生方向"
+    },
+    {
+      "id": "concept-人的本质",
+      "name": "人的本质",
+      "aliases": [],
+      "short_description": "在其现实性上，是一切社会关系的总和，社会属性是人的本质属性。"
+    },
+    {
+      "id": "concept-个人与社会的辩证关系",
+      "name": "个人与社会的辩证关系",
+      "aliases": [],
+      "short_description": "相互依存、制约与促进，个人利益与社会利益在根本上一致。"
+    },
+    {
+      "id": "concept-人生目的",
+      "name": "人生目的",
+      "aliases": [],
+      "short_description": "对‘人为什么活着’的回答，是人生观的核心和实践定向依据。"
+    },
+    {
+      "id": "concept-服务人民-奉献社会",
+      "name": "服务人民、奉献社会",
+      "aliases": [],
+      "short_description": "以人民群众为历史主体，将个人奋斗融入国家民族事业的人生追求。"
+    },
+    {
+      "id": "concept-高尚的人生目的",
+      "name": "高尚的人生目的",
+      "aliases": [],
+      "short_description": "与国家前途、民族命运、人民幸福紧密相连的奋斗目标。"
+    },
+    {
+      "id": "concept-积极进取的人生态度",
+      "name": "积极进取的人生态度",
+      "aliases": [],
+      "short_description": "认真务实、乐观向上、勇于开拓、迎难而上的生活立场。"
+    },
+    {
+      "id": "concept-人生价值标准",
+      "name": "人生价值标准",
+      "aliases": [],
+      "short_description": "以奉献为首要尺度，用真善美塑造自我、实现社会价值。"
+    },
+    {
+      "id": "concept-历史唯物主义基础",
+      "name": "历史唯物主义基础",
+      "aliases": [],
+      "short_description": "人民群众是历史创造者，构成服务奉献观的根本理论依据。"
+    },
+    {
+      "id": "concept-人生矛盾的辩证观",
+      "name": "人生矛盾的辩证观",
+      "aliases": [],
+      "short_description": "得失、苦乐、顺逆、生死、荣辱是贯穿人生的五对基本矛盾，需以科学态度辩证认识和积极应对。"
+    },
+    {
+      "id": "concept-得与失的超越视角",
+      "name": "得与失的超越视角",
+      "aliases": [],
+      "short_description": "不执于一时之得，不惧于一时之失，跳出小我计较，在奉献社会中实现更大人生价值。"
+    },
+    {
+      "id": "concept-苦与乐的转化逻辑",
+      "name": "苦与乐的转化逻辑",
+      "aliases": [],
+      "short_description": "奋斗之苦孕育真正之乐，吃苦耐劳、乐观向上是青年成长成才的必经路径。"
+    },
+    {
+      "id": "concept-顺境与逆境的双重价值",
+      "name": "顺境与逆境的双重价值",
+      "aliases": [],
+      "short_description": "顺境需防骄逸，逆境可炼意志，关键在主动作为，将环境转化为人生财富。"
+    },
+    {
+      "id": "concept-生与死的意义尺度",
+      "name": "生与死的意义尺度",
+      "aliases": [],
+      "short_description": "生命有限而意义无限，敬畏生命与勇于奉献统一于为人民、为民族复兴的实践中。"
+    },
+    {
+      "id": "concept-中国特色社会主义共同理想",
+      "name": "中国特色社会主义共同理想",
+      "aliases": [],
+      "short_description": "全国人民团结奋斗的共同思想基础和现实目标。"
+    },
+    {
+      "id": "concept-个人理想",
+      "name": "个人理想",
+      "aliases": [],
+      "short_description": "与社会需要相结合、在实践中逐步实现的个体追求。"
+    },
+    {
+      "id": "concept-立德树人",
+      "name": "立德树人",
+      "aliases": [],
+      "short_description": "高校的根本任务，强调以德为先、培养担当民族复兴大任的时代新人。"
+    }
+  ]
+}

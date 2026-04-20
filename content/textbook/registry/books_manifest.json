@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "book_id": "szddfz-2023",
+      "book_path": "../books/szddfz-2023",
+      "metadata_path": "../books/szddfz-2023/metadata.json",
+      "processed_path": "../books/szddfz-2023/processed/book_bundle.json",
+      "source_type": "markdown",
+      "enabled": true,
+      "ingest_status": "parsed",
+      "visibility": "internal"
+    },
+    {
+      "book_id": "marxism-basic-principles-2023",
+      "book_path": "../books/marxism-basic-principles-2023",
+      "metadata_path": "../books/marxism-basic-principles-2023/metadata.json",
+      "processed_path": "../books/marxism-basic-principles-2023/processed/book_bundle.json",
+      "source_type": "markdown",
+      "enabled": true,
+      "ingest_status": "parsed",
+      "visibility": "internal"
+    }
+  ]
+}

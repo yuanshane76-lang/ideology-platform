@@ -960,3 +960,131 @@ async function pptDownload(){
     btn.disabled=false;btn.innerHTML='<i class="fas fa-download mr-2"></i>下载 PPT';
   }
 }
+
+// ============================================================
+//  每日要闻模块  —  GET /api/daily-news
+// ============================================================
+
+let newsList = [];
+let currentNewsPage = 0;
+const NEWS_PER_PAGE = 2;
+let newsRotationTimer = null;
+
+const TAG_COLORS = {
+  "经济建设": "from-amber-500/30 to-orange-500/30 border-amber-500/40 text-amber-300",
+  "政治建设": "from-rose-500/30 to-pink-500/30 border-rose-500/40 text-rose-300",
+  "文化建设": "from-violet-500/30 to-purple-500/30 border-violet-500/40 text-violet-300",
+  "社会建设": "from-blue-500/30 to-cyan-500/30 border-blue-500/40 text-blue-300",
+  "生态文明": "from-emerald-500/30 to-teal-500/30 border-emerald-500/40 text-emerald-300",
+  "国防外交": "from-sky-500/30 to-blue-500/30 border-sky-500/40 text-sky-300",
+  "党建理论": "from-red-500/30 to-rose-500/30 border-red-500/40 text-red-300",
+  "青年成长": "from-pink-500/30 to-fuchsia-500/30 border-pink-500/40 text-pink-300",
+};
+
+async function loadDailyNews() {
+  try {
+    const resp = await fetch('/api/daily-news?t=' + Date.now());
+    if (!resp.ok) return;
+    const data = await resp.json();
+    newsList = data.news || [];
+    if (newsList.length) {
+      renderNewsCards();
+      startNewsRotation();
+      // 设置日期
+      const dateEl = document.getElementById('news-date');
+      if (dateEl) {
+        const now = new Date();
+        dateEl.textContent = now.getFullYear() + '年' + (now.getMonth() + 1) + '月' + now.getDate() + '日';
+      }
+      // 鼠标悬停暂停轮播
+      const container = document.getElementById('news-cards');
+      if (container) {
+        container.addEventListener('mouseenter', stopNewsRotation);
+        container.addEventListener('mouseleave', startNewsRotation);
+      }
+    }
+  } catch (e) {
+    console.error('加载每日要闻失败', e);
+  }
+}
+
+function renderNewsCards() {
+  const container = document.getElementById('news-cards');
+  if (!container) return;
+  const startIdx = currentNewsPage * NEWS_PER_PAGE;
+  const pageNews = newsList.slice(startIdx, startIdx + NEWS_PER_PAGE);
+  container.innerHTML = pageNews.map((news, idx) => {
+    const tag = news.category || '社会建设';
+    const tagColor = TAG_COLORS[tag] || 'from-white/10 to-white/5';
+    const date = news.publishedAt || '';
+    const summary = news.description || '';
+    const source = news.source || '';
+    return '<a href="' + escHtml(news.url) + '" target="_blank" rel="noopener noreferrer" class="card-hover p-5 rounded-xl bg-gradient-to-br ' + tagColor + ' border border-white/10 hover:border-white/20 transition-all group news-card-animate" style="animation-delay: ' + (idx * 0.1) + 's">' +
+      '<div class="flex items-start justify-between gap-3 mb-3">' +
+        '<span class="text-xs px-2.5 py-1 rounded-full bg-white/20 text-white/90 font-medium">' + escHtml(tag) + '</span>' +
+        '<span class="text-xs text-white/50">' + escHtml(date) + '</span>' +
+      '</div>' +
+      '<h4 class="text-base font-bold text-white mb-2 group-hover:text-orange-300 transition-colors leading-relaxed">' + escHtml(news.title) + '</h4>' +
+      '<p class="text-sm text-white/60 leading-relaxed line-clamp-2 mb-3">' + escHtml(summary) + '</p>' +
+      (news.knowledgePoints && news.knowledgePoints.length ?
+        '<div class="flex flex-wrap gap-1.5 mb-3">' +
+          news.knowledgePoints.map(p => '<span class="text-[10px] px-2 py-0.5 rounded-full bg-white/10 text-white/70">' + escHtml(p) + '</span>').join('') +
+        '</div>' : '') +
+      '<div class="flex items-center justify-between">' +
+        '<span class="text-xs text-white/40"><i class="fas fa-newspaper mr-1"></i>' + escHtml(source) + '</span>' +
+        '<span class="text-xs text-orange-400 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity">查看详情 <i class="fas fa-arrow-right"></i></span>' +
+      '</div>' +
+    '</a>';
+  }).join('');
+  renderNewsIndicators();
+}
+
+function renderNewsIndicators() {
+  const container = document.getElementById('news-indicators');
+  if (!container) return;
+  const totalPages = Math.ceil(newsList.length / NEWS_PER_PAGE);
+  container.innerHTML = Array.from({length: totalPages}, (_, i) => {
+    const activeClass = i === currentNewsPage ? 'bg-orange-400 w-6' : 'bg-white/30 hover:bg-white/50';
+    return '<button onclick="goToNewsPage(' + i + ')" class="h-2 rounded-full transition-all ' + activeClass + '" style="min-width:8px"></button>';
+  }).join('');
+}
+
+function prevNews() {
+  const totalPages = Math.ceil(newsList.length / NEWS_PER_PAGE);
+  currentNewsPage = (currentNewsPage - 1 + totalPages) % totalPages;
+  renderNewsCards();
+  resetNewsRotation();
+}
+
+function nextNews() {
+  const totalPages = Math.ceil(newsList.length / NEWS_PER_PAGE);
+  currentNewsPage = (currentNewsPage + 1) % totalPages;
+  renderNewsCards();
+  resetNewsRotation();
+}
+
+function goToNewsPage(page) {
+  currentNewsPage = page;
+  renderNewsCards();
+  resetNewsRotation();
+}
+
+function startNewsRotation() {
+  stopNewsRotation();
+  newsRotationTimer = setInterval(nextNews, 5000);
+}
+
+function stopNewsRotation() {
+  if (newsRotationTimer) {
+    clearInterval(newsRotationTimer);
+    newsRotationTimer = null;
+  }
+}
+
+function resetNewsRotation() {
+  stopNewsRotation();
+  startNewsRotation();
+}
+
+// 页面加载时自动获取新闻
+document.addEventListener('DOMContentLoaded', loadDailyNews);

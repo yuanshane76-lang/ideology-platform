@@ -10,11 +10,16 @@ from src.debate.service import create_session, get_session, delete_session, stre
 from src.debate.topic_agent import TopicAnalysisAgent
 import json
 import uuid
+from pathlib import Path
 
 app = Flask(__name__)
 
 ppt_agent = PPTAgent()
 topic_agent = TopicAnalysisAgent()
+
+# 注册教材伴读 Blueprint
+from src.textbook import textbook_bp
+app.register_blueprint(textbook_bp)
 
 # 页面路由
 @app.route('/')
@@ -678,6 +683,24 @@ def generate_html_stream():
             'X-Accel-Buffering': 'no'
         }
     )
+
+# ==================== 每日要闻 API ====================
+
+DAILY_NEWS_PATH = Path(__file__).resolve().parent / "daily_news.json"
+
+
+@app.route('/api/daily-news', methods=['GET'])
+def daily_news_endpoint():
+    """读取本地 daily_news.json 返回给前端"""
+    if not DAILY_NEWS_PATH.exists():
+        return jsonify({"news": [], "cached_at": None})
+    try:
+        with DAILY_NEWS_PATH.open("r", encoding="utf-8") as f:
+            return jsonify(json.load(f))
+    except Exception as e:
+        print(f"[DailyNews] 读取 daily_news.json 失败: {e}")
+        return jsonify({"news": [], "cached_at": None})
+
 
 if __name__ == '__main__':
     print("🚀 Server starting on http://0.0.0.0:6006")

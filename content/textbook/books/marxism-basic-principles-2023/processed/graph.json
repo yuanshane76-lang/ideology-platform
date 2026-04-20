@@ -1,0 +1,1988 @@
+{
+  "meta": {
+    "source": "enrichment-driven",
+    "book_id": "marxism-basic-principles-2023",
+    "generated_at": "2026-04-20T10:43:07.042352+00:00",
+    "concept_count": 24,
+    "total_concepts_found": 30
+  },
+  "nodes": [
+    {
+      "id": "book-core",
+      "label": "马克思主义基本原理",
+      "type": "book",
+      "group": "core",
+      "depth": 0,
+      "orbit": 0,
+      "angle": 0,
+      "description": "《马克思主义基本原理》2023 年版教材。",
+      "summary": "《马克思主义基本原理》2023 年版教材。",
+      "style_hint": "core"
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "label": "导论",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 1,
+      "description": "核心概念: 马克思主义, 马克思主义基本原理, 马克思主义三大组成部分, 马克思主义基本立场, 马克思主义创立条件",
+      "summary": "核心概念: 马克思主义, 马克思主义基本原理, 马克思主义三大组成部分, 马克思主义基本立场, 马克思主义创立条件",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "label": "第一章 世界的物质性及发展规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 2,
+      "description": "核心概念: 辩证唯物主义, 世界的物质统一性, 主观能动性与客观规律性, 联系和发展的基本规律, 唯物辩证法",
+      "summary": "核心概念: 辩证唯物主义, 世界的物质统一性, 主观能动性与客观规律性, 联系和发展的基本规律, 唯物辩证法",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "label": "第二章 实践与认识及其发展规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 3,
+      "description": "核心概念: 科学实践观",
+      "summary": "核心概念: 科学实践观",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "label": "第三章 人类社会及其发展规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 4,
+      "description": "核心概念: 社会基本矛盾, 唯物史观",
+      "summary": "核心概念: 社会基本矛盾, 唯物史观",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "label": "第四章 资本主义的本质及规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 5,
+      "description": "核心概念: 资本主义基本矛盾",
+      "summary": "核心概念: 资本主义基本矛盾",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "label": "第五章 资本主义的发展及其趋势",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 6,
+      "description": "",
+      "summary": "",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "label": "第六章 社会主义的发展及其规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 7,
+      "description": "核心概念: 社会主义建设长期性, 唯物史观, 无产阶级历史使命",
+      "summary": "核心概念: 社会主义建设长期性, 唯物史观, 无产阶级历史使命",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "label": "第七章 共产主义崇高理想及其最终实现",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 8,
+      "description": "核心概念: 资本主义基本矛盾, 无产阶级历史使命",
+      "summary": "核心概念: 资本主义基本矛盾, 无产阶级历史使命",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:导论-intro",
+      "label": "导论 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "description": "本节系统阐释马克思主义的科学内涵与理论定位，明确其作为关于人类解放的科学理论体系的本质，界定马克思主义基本原理的核心地位，阐明其哲学、政治经济学、科学社会主义三大组成部分及其立场、观点、方法的有机统一，并从社会根源、阶级基础和思想渊源三方面",
+      "summary": "本节系统阐释马克思主义的科学内涵与理论定位，明确其作为关于人类解放的科学理论体系的本质，界定马克思主义基本原理的核心地位，阐明其哲学、政治经济学、科学社会主义三大组成部分及其立场、观点、方法的有机统一，并从社会根源、阶级基础和思想渊源三方面",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E5%AF%BC%E8%AE%BA%2F%E5%AF%BC%E8%AE%BA-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "label": "第一章 世界的物质性及发展规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "description": "本节导言阐明学习辩证唯物主义的核心目标，强调以马克思主义物质观为基础，把握世界的物质统一性、物质与意识关系、主观能动性与客观规律性的统一，以及联系与发展的基本规律，确立科学世界观和方法论，提升实践中的思维能力。",
+      "summary": "本节导言阐明学习辩证唯物主义的核心目标，强调以马克思主义物质观为基础，把握世界的物质统一性、物质与意识关系、主观能动性与客观规律性的统一，以及联系与发展的基本规律，确立科学世界观和方法论，提升实践中的思维能力。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "label": "第一节 世界的多样性与物质统一性",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "description": "本节阐明辩证唯物主义对世界本质的理解，以哲学基本问题为切入点，界定马克思主义的物质范畴及其客观实在性内涵，揭示其在坚持唯物主义一元论、能动反映论、唯物辩证法和历史唯物主义上的统一性，强调物质观必须立足实践并随科学认识发展而深化。",
+      "summary": "本节阐明辩证唯物主义对世界本质的理解，以哲学基本问题为切入点，界定马克思主义的物质范畴及其客观实在性内涵，揭示其在坚持唯物主义一元论、能动反映论、唯物辩证法和历史唯物主义上的统一性，强调物质观必须立足实践并随科学认识发展而深化。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%80%A7%E4%B8%8E%E7%89%A9%E8%B4%A8%E7%BB%9F%E4%B8%80%E6%80%A7",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "label": "第二节 事物的普遍联系和变化发展",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "description": "本节阐述唯物辩证法的总特征——联系和发展，指出联系具有客观性、普遍性、多样性和条件性；发展体现为新事物产生与旧事物灭亡的前进上升过程；对立统一规律作为根本规律，通过矛盾的同一性与斗争性共同推动事物运动变化。",
+      "summary": "本节阐述唯物辩证法的总特征——联系和发展，指出联系具有客观性、普遍性、多样性和条件性；发展体现为新事物产生与旧事物灭亡的前进上升过程；对立统一规律作为根本规律，通过矛盾的同一性与斗争性共同推动事物运动变化。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E4%BA%8B%E7%89%A9%E7%9A%84%E6%99%AE%E9%81%8D%E8%81%94%E7%B3%BB%E5%92%8C%E5%8F%98%E5%8C%96%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第二节-事物的普遍联系和变化发展"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "label": "第三节 唯物辩证法是认识世界和改造世界的根本方法",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 5,
+      "description": "本节阐明唯物辩证法作为根本方法的本质特征：其批判性与革命性体现为对一切现存事物暂时性的深刻把握；它统一了客观辩证法与主观辩证法，是世界观与方法论的统一；其核心是对立统一规律，由此衍生出矛盾分析方法，并在新时代升华为坚持问题导向的实践要求。",
+      "summary": "本节阐明唯物辩证法作为根本方法的本质特征：其批判性与革命性体现为对一切现存事物暂时性的深刻把握；它统一了客观辩证法与主观辩证法，是世界观与方法论的统一；其核心是对立统一规律，由此衍生出矛盾分析方法，并在新时代升华为坚持问题导向的实践要求。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%94%AF%E7%89%A9%E8%BE%A9%E8%AF%81%E6%B3%95%E6%98%AF%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C%E5%92%8C%E6%94%B9%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%A0%B9%E6%9C%AC%E6%96%B9%E6%B3%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第三节-唯物辩证法是认识世界和改造世界的根本方法"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二章-实践与认识及其发展规律-intro",
+      "label": "第二章 实践与认识及其发展规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 6,
+      "description": "本节导言阐明马克思主义以实践为基础的世界观，指出实践观、认识论和价值论共同构成对人与世界关系的整体把握；强调实践是认识的根基，揭示认识世界与改造世界的统一性，并提出真理与价值辩证统一、理论创新与实践创新良性互动的根本要求。",
+      "summary": "本节导言阐明马克思主义以实践为基础的世界观，指出实践观、认识论和价值论共同构成对人与世界关系的整体把握；强调实践是认识的根基，揭示认识世界与改造世界的统一性，并提出真理与价值辩证统一、理论创新与实践创新良性互动的根本要求。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第二章-实践与认识及其发展规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-实践与认识",
+      "label": "第一节 实践与认识",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 7,
+      "description": "本节系统阐述马克思主义科学实践观的创立过程与核心内涵，批判旧哲学对实践的片面理解，阐明实践是人类能动的、社会性的物质活动，揭示实践在认识来源、发展动力、检验标准及社会生活本质中的决定性作用，并强调实践与认识的辩证统一关系。",
+      "summary": "本节系统阐述马克思主义科学实践观的创立过程与核心内涵，批判旧哲学对实践的片面理解，阐明实践是人类能动的、社会性的物质活动，揭示实践在认识来源、发展动力、检验标准及社会生活本质中的决定性作用，并强调实践与认识的辩证统一关系。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第一节-实践与认识"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-真理与价值",
+      "label": "第二节 真理与价值",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 8,
+      "description": "本节阐述马克思主义真理观的核心要义：真理是主观与客观相符合的客观存在，具有客观性、一元性；同时作为发展过程，兼具绝对性与相对性，二者辩证统一；真理的发现与实现始终以实践为基础，并与价值追求内在统一，反对脱离具体历史条件的教条或实用主义倾向。",
+      "summary": "本节阐述马克思主义真理观的核心要义：真理是主观与客观相符合的客观存在，具有客观性、一元性；同时作为发展过程，兼具绝对性与相对性，二者辩证统一；真理的发现与实现始终以实践为基础，并与价值追求内在统一，反对脱离具体历史条件的教条或实用主义倾向。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E7%9C%9F%E7%90%86%E4%B8%8E%E4%BB%B7%E5%80%BC",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第二节-真理与价值"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-认识世界和改造世界",
+      "label": "第三节 认识世界和改造世界",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 9,
+      "description": "本节阐述认识世界与改造世界的辩证统一关系，强调二者以实践为基础相互促进；指出真理尺度与价值尺度不可分割，统一于新时代中国特色社会主义实践；阐明改造世界包括改造客观世界与主观世界，其核心是世界观的自我革命；最后揭示自由的本质在于认识和利用必然",
+      "summary": "本节阐述认识世界与改造世界的辩证统一关系，强调二者以实践为基础相互促进；指出真理尺度与价值尺度不可分割，统一于新时代中国特色社会主义实践；阐明改造世界包括改造客观世界与主观世界，其核心是世界观的自我革命；最后揭示自由的本质在于认识和利用必然",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C%E5%92%8C%E6%94%B9%E9%80%A0%E4%B8%96%E7%95%8C",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第三节-认识世界和改造世界"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三章-人类社会及其发展规律-intro",
+      "label": "第三章 人类社会及其发展规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 10,
+      "description": "本节导言阐明学习历史唯物主义的核心目标，提出社会存在与社会意识、社会基本矛盾、文明多样性、社会发展动力、人民群众作用等关键命题，强调马克思主义历史唯物主义对破解‘历史之谜’的科学指导价值。",
+      "summary": "本节导言阐明学习历史唯物主义的核心目标，提出社会存在与社会意识、社会基本矛盾、文明多样性、社会发展动力、人民群众作用等关键命题，强调马克思主义历史唯物主义对破解‘历史之谜’的科学指导价值。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第三章-人类社会及其发展规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-人类社会的存在与发展",
+      "label": "第一节 人类社会的存在与发展",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 11,
+      "description": "本节阐述唯物史观的基本立场，指出社会存在决定社会意识，强调自然地理环境、人口因素和物质生产方式共同构成社会存在，其中生产方式起决定作用；社会意识作为精神反映具有层次性与意识形态属性；人类社会发展根植于物质生产实践，并受客观规律支配。",
+      "summary": "本节阐述唯物史观的基本立场，指出社会存在决定社会意识，强调自然地理环境、人口因素和物质生产方式共同构成社会存在，其中生产方式起决定作用；社会意识作为精神反映具有层次性与意识形态属性；人类社会发展根植于物质生产实践，并受客观规律支配。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%8E%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第一节-人类社会的存在与发展"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-社会历史发展的动力",
+      "label": "第二节 社会历史发展的动力",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 12,
+      "description": "本节阐明社会历史发展的根本动力是社会基本矛盾，即生产力与生产关系、经济基础与上层建筑的矛盾运动；指出前者是最基本的动力因素，后者具有反作用；强调在阶级社会中矛盾常表现为阶级斗争，在非革命时期则通过改革实现调适；并说明掌握这一分析方法对理解中",
+      "summary": "本节阐明社会历史发展的根本动力是社会基本矛盾，即生产力与生产关系、经济基础与上层建筑的矛盾运动；指出前者是最基本的动力因素，后者具有反作用；强调在阶级社会中矛盾常表现为阶级斗争，在非革命时期则通过改革实现调适；并说明掌握这一分析方法对理解中",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E7%A4%BE%E4%BC%9A%E5%8E%86%E5%8F%B2%E5%8F%91%E5%B1%95%E7%9A%84%E5%8A%A8%E5%8A%9B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第二节-社会历史发展的动力"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-人民群众在历史发展中的作用",
+      "label": "第三节 人民群众在历史发展中的作用",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 13,
+      "description": "本节阐明唯物史观关于人民群众是历史创造者的根本观点，通过对比群众史观与英雄史观的对立，从现实的人、整体历史过程、历史必然性及人与历史关系层次四个维度论证其科学性，并具体说明人民群众在物质财富、精神财富创造及社会变革中的决定性作用。",
+      "summary": "本节阐明唯物史观关于人民群众是历史创造者的根本观点，通过对比群众史观与英雄史观的对立，从现实的人、整体历史过程、历史必然性及人与历史关系层次四个维度论证其科学性，并具体说明人民群众在物质财富、精神财富创造及社会变革中的决定性作用。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%9C%A8%E5%8E%86%E5%8F%B2%E5%8F%91%E5%B1%95%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第三节-人民群众在历史发展中的作用"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第四章-资本主义的本质及规律-intro",
+      "label": "第四章 资本主义的本质及规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 14,
+      "description": "本节导言阐明学习资本主义本质及规律的目标与要点，强调以马克思主义立场方法剖析私有制下商品经济矛盾、劳动价值论和剩余价值论的核心地位，揭示资本主义基本矛盾及其在经济危机、政治制度和意识形态中的表现，为理解其历史局限性与发展趋势提供理论基础。",
+      "summary": "本节导言阐明学习资本主义本质及规律的目标与要点，强调以马克思主义立场方法剖析私有制下商品经济矛盾、劳动价值论和剩余价值论的核心地位，揭示资本主义基本矛盾及其在经济危机、政治制度和意识形态中的表现，为理解其历史局限性与发展趋势提供理论基础。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第四章-资本主义的本质及规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-商品经济和价值规律",
+      "label": "第一节 商品经济和价值规律",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 15,
+      "description": "本节阐述商品经济产生的历史条件——社会分工与生产资料私有制，剖析商品的二因素（使用价值与价值）及其对立统一关系，揭示生产商品的劳动二重性，并说明商品价值量由社会必要劳动时间决定，从而为理解资本主义经济本质奠定劳动价值论基础。",
+      "summary": "本节阐述商品经济产生的历史条件——社会分工与生产资料私有制，剖析商品的二因素（使用价值与价值）及其对立统一关系，揭示生产商品的劳动二重性，并说明商品价值量由社会必要劳动时间决定，从而为理解资本主义经济本质奠定劳动价值论基础。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%95%86%E5%93%81%E7%BB%8F%E6%B5%8E%E5%92%8C%E4%BB%B7%E5%80%BC%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第一节-商品经济和价值规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-资本主义经济制度",
+      "label": "第二节 资本主义经济制度",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 16,
+      "description": "本节阐述资本主义经济制度的历史起源，指出其产生是生产力发展突破封建生产关系束缚的结果；分析前资本主义社会形态演进逻辑，重点说明资本主义生产关系如何从小商品经济分化和商人高利贷者转化中萌芽，并揭示资本原始积累以暴力剥夺为核心特征，从而确立雇佣",
+      "summary": "本节阐述资本主义经济制度的历史起源，指出其产生是生产力发展突破封建生产关系束缚的结果；分析前资本主义社会形态演进逻辑，重点说明资本主义生产关系如何从小商品经济分化和商人高利贷者转化中萌芽，并揭示资本原始积累以暴力剥夺为核心特征，从而确立雇佣",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%BB%8F%E6%B5%8E%E5%88%B6%E5%BA%A6",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第二节-资本主义经济制度"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-资本主义上层建筑",
+      "label": "第三节 资本主义上层建筑",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 17,
+      "description": "本节阐述资本主义上层建筑由政治制度与意识形态构成，强调其根植于资本主义经济基础并反作用于之；剖析资本主义国家作为资产阶级专政工具的本质，揭示其民主制度、法律原则（私有制、主权在民、分权制衡、人权）的形式进步性与实质局限性，指出其根本功能是维",
+      "summary": "本节阐述资本主义上层建筑由政治制度与意识形态构成，强调其根植于资本主义经济基础并反作用于之；剖析资本主义国家作为资产阶级专政工具的本质，揭示其民主制度、法律原则（私有制、主权在民、分权制衡、人权）的形式进步性与实质局限性，指出其根本功能是维",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%8A%E5%B1%82%E5%BB%BA%E7%AD%91",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第三节-资本主义上层建筑"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第五章-资本主义的发展及其趋势-intro",
+      "label": "第五章 资本主义的发展及其趋势 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 18,
+      "description": "本节导言概述了资本主义从自由竞争到垄断的发展脉络，指出二战后繁荣与近年危机并存的现实，强调需科学认识国家垄断资本主义、经济全球化、当代新变化及其内在矛盾，进而把握资本主义终将被社会主义取代的历史趋势。",
+      "summary": "本节导言概述了资本主义从自由竞争到垄断的发展脉络，指出二战后繁荣与近年危机并存的现实，强调需科学认识国家垄断资本主义、经济全球化、当代新变化及其内在矛盾，进而把握资本主义终将被社会主义取代的历史趋势。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第五章-资本主义的发展及其趋势-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-垄断资本主义的形成与发展",
+      "label": "第一节 垄断资本主义的形成与发展",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 19,
+      "description": "本节阐述垄断资本主义的形成逻辑：自由竞争推动生产集中与资本集中，进而催生垄断；垄断组织以托拉斯等形式实现市场控制；垄断并未消灭竞争，反而使竞争更复杂激烈；金融资本由工银资本融合而成，金融寡头通过参与制与个人联合掌控经济与国家权力。",
+      "summary": "本节阐述垄断资本主义的形成逻辑：自由竞争推动生产集中与资本集中，进而催生垄断；垄断组织以托拉斯等形式实现市场控制；垄断并未消灭竞争，反而使竞争更复杂激烈；金融资本由工银资本融合而成，金融寡头通过参与制与个人联合掌控经济与国家权力。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%9E%84%E6%96%AD%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%BD%A2%E6%88%90%E4%B8%8E%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第一节-垄断资本主义的形成与发展"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-正确认识当代资本主义的新变化",
+      "label": "第二节 正确认识当代资本主义的新变化",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 20,
+      "description": "本节系统阐述二战后资本主义在所有制、劳资关系、阶级结构和经济调节机制四方面的重大变化，指出这些变化虽具进步性和适应性，但未改变资本剥削劳动的本质；国家资本所有制与法人资本所有制凸显资本占有社会化趋势，福利制度与劳资协调机制缓解了矛盾，但并未",
+      "summary": "本节系统阐述二战后资本主义在所有制、劳资关系、阶级结构和经济调节机制四方面的重大变化，指出这些变化虽具进步性和适应性，但未改变资本剥削劳动的本质；国家资本所有制与法人资本所有制凸显资本占有社会化趋势，福利制度与劳资协调机制缓解了矛盾，但并未",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E6%AD%A3%E7%A1%AE%E8%AE%A4%E8%AF%86%E5%BD%93%E4%BB%A3%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%96%B0%E5%8F%98%E5%8C%96",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第二节-正确认识当代资本主义的新变化"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-资本主义的历史地位和发展趋势",
+      "label": "第三节 资本主义的历史地位和发展趋势",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 21,
+      "description": "本节系统分析资本主义的历史地位，既肯定其在解放和发展生产力、推动科技进步与政治制度演进方面的巨大进步性，又深刻揭示其固有局限性，特别是生产社会化与私有制的根本矛盾、财富两极分化与周期性经济危机、资产阶级对经济社会的垄断支配等表现；进而论证资",
+      "summary": "本节系统分析资本主义的历史地位，既肯定其在解放和发展生产力、推动科技进步与政治制度演进方面的巨大进步性，又深刻揭示其固有局限性，特别是生产社会化与私有制的根本矛盾、财富两极分化与周期性经济危机、资产阶级对经济社会的垄断支配等表现；进而论证资",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%94%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%B6%8B%E5%8A%BF%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8E%86%E5%8F%B2%E5%9C%B0%E4%BD%8D%E5%92%8C%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第三节-资本主义的历史地位和发展趋势"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第六章-社会主义的发展及其规律-intro",
+      "label": "第六章 社会主义的发展及其规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 22,
+      "description": "本节导言概述社会主义五百年的演进脉络，强调科学社会主义基本原则的指导地位，指出社会主义建设具有长期性与道路多样性，阐明新时代中国特色社会主义的历史方位与世界意义，揭示社会主义在实践中发展前进的客观规律。",
+      "summary": "本节导言概述社会主义五百年的演进脉络，强调科学社会主义基本原则的指导地位，指出社会主义建设具有长期性与道路多样性，阐明新时代中国特色社会主义的历史方位与世界意义，揭示社会主义在实践中发展前进的客观规律。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第六章-社会主义的发展及其规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-社会主义五百年的历史进程",
+      "label": "第一节 社会主义五百年的历史进程",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 23,
+      "description": "本节系统梳理社会主义五百年的演进脉络，重点阐释社会主义从空想到科学的理论飞跃：空想社会主义提供了宝贵思想材料但存在历史局限；马克思、恩格斯创立唯物史观与剩余价值学说，奠定科学社会主义理论基础；随后社会主义在第一国际推动和巴黎公社实践中，迈出",
+      "summary": "本节系统梳理社会主义五百年的演进脉络，重点阐释社会主义从空想到科学的理论飞跃：空想社会主义提供了宝贵思想材料但存在历史局限；马克思、恩格斯创立唯物史观与剩余价值学说，奠定科学社会主义理论基础；随后社会主义在第一国际推动和巴黎公社实践中，迈出",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E4%BA%94%E7%99%BE%E5%B9%B4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%9B%E7%A8%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第一节-社会主义五百年的历史进程"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-科学社会主义基本原则",
+      "label": "第二节 科学社会主义基本原则",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 24,
+      "description": "本节系统阐述科学社会主义基本原则的核心内容，包括‘两个必然’的历史规律依据、无产阶级作为革命主体的历史使命、无产阶级革命与专政的必要性、生产资料公有制的制度基础地位，以及社会主义生产目的的根本转变；强调这些原则必须坚持，同时要结合中国实际创",
+      "summary": "本节系统阐述科学社会主义基本原则的核心内容，包括‘两个必然’的历史规律依据、无产阶级作为革命主体的历史使命、无产阶级革命与专政的必要性、生产资料公有制的制度基础地位，以及社会主义生产目的的根本转变；强调这些原则必须坚持，同时要结合中国实际创",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E7%A7%91%E5%AD%A6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第二节-科学社会主义基本原则"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-在实践中探索社会主义的发展规律",
+      "label": "第三节 在实践中探索社会主义的发展规律",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 25,
+      "description": "本节聚焦社会主义在实践中的发展规律探索，阐明中国共产党破解历史周期率的两个答案——人民民主监督与党的自我革命；强调经济文化相对落后国家建设社会主义具有长期性，根源在于生产力水平、经济基础、国际环境及执政党认识深化的阶段性；同时指出社会主义发",
+      "summary": "本节聚焦社会主义在实践中的发展规律探索，阐明中国共产党破解历史周期率的两个答案——人民民主监督与党的自我革命；强调经济文化相对落后国家建设社会主义具有长期性，根源在于生产力水平、经济基础、国际环境及执政党认识深化的阶段性；同时指出社会主义发",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%AD%E6%8E%A2%E7%B4%A2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第三节-在实践中探索社会主义的发展规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第七章-共产主义崇高理想及其最终实现-intro",
+      "label": "第七章 共产主义崇高理想及其最终实现 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 26,
+      "description": "本节导言阐明学习共产主义理想的核心目标与要点，强调以科学方法论认识未来社会，揭示共产主义作为社会形态、理论与运动的统一性，突出其实现的历史必然性与长期性，并聚焦远大理想与中国特色社会主义共同理想的内在统一，引导青年坚定信念、投身实践。",
+      "summary": "本节导言阐明学习共产主义理想的核心目标与要点，强调以科学方法论认识未来社会，揭示共产主义作为社会形态、理论与运动的统一性，突出其实现的历史必然性与长期性，并聚焦远大理想与中国特色社会主义共同理想的内在统一，引导青年坚定信念、投身实践。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0%2F%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第七章-共产主义崇高理想及其最终实现-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第一节-展望未来共产主义新社会",
+      "label": "第一节 展望未来共产主义新社会",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 27,
+      "description": "本节阐明共产主义的三重内涵，重点论述马克思主义预见未来社会的四大科学方法论原则：在揭示人类社会发展规律基础上指明方向；在批判资本主义中发现新社会因素；从社会主义实践中深化认识；坚持揭示一般特征而非臆测细节。强调这种科学预见与空想社会主义的根",
+      "summary": "本节阐明共产主义的三重内涵，重点论述马克思主义预见未来社会的四大科学方法论原则：在揭示人类社会发展规律基础上指明方向；在批判资本主义中发现新社会因素；从社会主义实践中深化认识；坚持揭示一般特征而非臆测细节。强调这种科学预见与空想社会主义的根",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E5%B1%95%E6%9C%9B%E6%9C%AA%E6%9D%A5%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%96%B0%E7%A4%BE%E4%BC%9A",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第一节-展望未来共产主义新社会"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第二节-实现共产主义是历史发展的必然趋势",
+      "label": "第二节 实现共产主义是历史发展的必然趋势",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 28,
+      "description": "本节阐明共产主义理想实现的历史必然性，根植于社会形态更替规律和资本主义基本矛盾；强调无产阶级是实现这一理想的现实力量，其解放与全人类解放根本一致；同时指出共产主义实现是长期历史过程，社会主义作为其初级阶段，需经由不发达、比较发达等阶段逐步演",
+      "summary": "本节阐明共产主义理想实现的历史必然性，根植于社会形态更替规律和资本主义基本矛盾；强调无产阶级是实现这一理想的现实力量，其解放与全人类解放根本一致；同时指出共产主义实现是长期历史过程，社会主义作为其初级阶段，需经由不发达、比较发达等阶段逐步演",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E5%AE%9E%E7%8E%B0%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%98%AF%E5%8E%86%E5%8F%B2%E5%8F%91%E5%B1%95%E7%9A%84%E5%BF%85%E7%84%B6%E8%B6%8B%E5%8A%BF",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第二节-实现共产主义是历史发展的必然趋势"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023:section:第三节-共产主义远大理想与中国特色社会主义共同理想",
+      "label": "第三节 共产主义远大理想与中国特色社会主义共同理想",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 29,
+      "description": "本节阐明共产主义远大理想与中国特色社会主义共同理想的关系：前者是最终目标，后者是当前阶段性理想；二者统一于社会主义初级阶段实际，体现为最高纲领与最低纲领的结合。坚持中国特色社会主义道路，就是为实现共产主义所作的实实在在努力，既不能急于求成。",
+      "summary": "本节阐明共产主义远大理想与中国特色社会主义共同理想的关系：前者是最终目标，后者是当前阶段性理想；二者统一于社会主义初级阶段实际，体现为最高纲领与最低纲领的结合。坚持中国特色社会主义道路，就是为实现共产主义所作的实实在在努力，既不能急于求成。",
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E5%B4%87%E9%AB%98%E7%90%86%E6%83%B3%E5%8F%8A%E5%85%B6%E6%9C%80%E7%BB%88%E5%AE%9E%E7%8E%B0%2F%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E8%BF%9C%E5%A4%A7%E7%90%86%E6%83%B3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%85%B1%E5%90%8C%E7%90%86%E6%83%B3",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第三节-共产主义远大理想与中国特色社会主义共同理想"
+      }
+    },
+    {
+      "id": "concept-对立统一规律",
+      "label": "对立统一规律",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 1,
+      "description": "唯物辩证法的实质和核心，揭示事物内部矛盾双方既对立又统一的运动机制。",
+      "summary": "唯物辩证法的实质和核心，揭示事物内部矛盾双方既对立又统一的运动机制。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E4%BA%8B%E7%89%A9%E7%9A%84%E6%99%AE%E9%81%8D%E8%81%94%E7%B3%BB%E5%92%8C%E5%8F%98%E5%8C%96%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第二节-事物的普遍联系和变化发展"
+      }
+    },
+    {
+      "id": "concept-科学实践观",
+      "label": "科学实践观",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 2,
+      "description": "马克思从主观与客观、主体与客体统一出发，揭示实践是能动改造世界的物质活动。",
+      "summary": "马克思从主观与客观、主体与客体统一出发，揭示实践是能动改造世界的物质活动。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E8%B7%B5%E4%B8%8E%E8%AE%A4%E8%AF%86%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第二章-实践与认识及其发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-社会基本矛盾",
+      "label": "社会基本矛盾",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 3,
+      "description": "贯穿社会发展始终、决定社会性质和趋势的生产力与生产关系、经济基础与上层建筑两对根本矛盾。",
+      "summary": "贯穿社会发展始终、决定社会性质和趋势的生产力与生产关系、经济基础与上层建筑两对根本矛盾。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第三章-人类社会及其发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-唯物史观",
+      "label": "唯物史观",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 4,
+      "description": "揭示人类社会发展一般规律，确立人民群众历史主体地位的科学历史观。",
+      "summary": "揭示人类社会发展一般规律，确立人民群众历史主体地位的科学历史观。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%AD%98%E5%9C%A8%E4%B8%8E%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第一节-人类社会的存在与发展"
+      }
+    },
+    {
+      "id": "concept-资本主义基本矛盾",
+      "label": "资本主义基本矛盾",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 5,
+      "description": "生产社会化与生产资料私人占有之间的根本冲突，决定其历史暂时性。",
+      "summary": "生产社会化与生产资料私人占有之间的根本冲突，决定其历史暂时性。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8F%8A%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第四章-资本主义的本质及规律-intro"
+      }
+    },
+    {
+      "id": "concept-社会主义建设长期性",
+      "label": "社会主义建设长期性",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 6,
+      "description": "受生产力、经济基础、国际环境和政党认识水平制约，建设过程必然漫长而艰巨。",
+      "summary": "受生产力、经济基础、国际环境和政党认识水平制约，建设过程必然漫长而艰巨。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第六章-社会主义的发展及其规律-intro"
+      }
+    },
+    {
+      "id": "concept-无产阶级历史使命",
+      "label": "无产阶级历史使命",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 7,
+      "description": "推翻资本主义旧世界，建设社会主义和共产主义新世界，实现自身彻底解放。",
+      "summary": "推翻资本主义旧世界，建设社会主义和共产主义新世界，实现自身彻底解放。",
+      "frequency": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E5%85%AD%E7%AB%A0-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%8A%E5%85%B6%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E7%A7%91%E5%AD%A6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第二节-科学社会主义基本原则"
+      }
+    },
+    {
+      "id": "concept-马克思主义",
+      "label": "马克思主义",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 8,
+      "description": "由马克思恩格斯创立、后继者发展的科学理论体系，关于自然社会思维规律、社会主义取代资本主义、人类解放的。",
+      "summary": "由马克思恩格斯创立、后继者发展的科学理论体系，关于自然社会思维规律、社会主义取代资本主义、人类解放的。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E5%AF%BC%E8%AE%BA%2F%E5%AF%BC%E8%AE%BA-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "concept-马克思主义基本原理",
+      "label": "马克思主义基本原理",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 9,
+      "description": "对马克思主义立场、观点、方法的集中概括，经实践检验具有普遍真理性的核心理论。",
+      "summary": "对马克思主义立场、观点、方法的集中概括，经实践检验具有普遍真理性的核心理论。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E5%AF%BC%E8%AE%BA%2F%E5%AF%BC%E8%AE%BA-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "concept-马克思主义三大组成部分",
+      "label": "马克思主义三大组成部分",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 10,
+      "description": "马克思主义哲学、政治经济学和科学社会主义，有机统一构成理论体系主体。",
+      "summary": "马克思主义哲学、政治经济学和科学社会主义，有机统一构成理论体系主体。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E5%AF%BC%E8%AE%BA%2F%E5%AF%BC%E8%AE%BA-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "concept-马克思主义基本立场",
+      "label": "马克思主义基本立场",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 11,
+      "description": "以人民为中心，以无产阶级和全人类解放为己任，以人的自由全面发展为根本目标。",
+      "summary": "以人民为中心，以无产阶级和全人类解放为己任，以人的自由全面发展为根本目标。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E5%AF%BC%E8%AE%BA%2F%E5%AF%BC%E8%AE%BA-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "concept-马克思主义创立条件",
+      "label": "马克思主义创立条件",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 12,
+      "description": "源于19世纪西欧资本主义发展矛盾、工人运动兴起及德国古典哲学等三大理论来源。",
+      "summary": "源于19世纪西欧资本主义发展矛盾、工人运动兴起及德国古典哲学等三大理论来源。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E5%AF%BC%E8%AE%BA#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E5%AF%BC%E8%AE%BA%2F%E5%AF%BC%E8%AE%BA-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "concept-辩证唯物主义",
+      "label": "辩证唯物主义",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 13,
+      "description": "马克思主义哲学的世界观和方法论，强调物质第一性与矛盾运动的普遍性。",
+      "summary": "马克思主义哲学的世界观和方法论，强调物质第一性与矛盾运动的普遍性。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-世界的物质统一性",
+      "label": "世界的物质统一性",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 14,
+      "description": "世界统一于物质，意识是物质世界长期发展的产物。",
+      "summary": "世界统一于物质，意识是物质世界长期发展的产物。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-主观能动性与客观规律性",
+      "label": "主观能动性与客观规律性",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 15,
+      "description": "人能动认识和改造世界，但必须以尊重客观规律为前提。",
+      "summary": "人能动认识和改造世界，但必须以尊重客观规律为前提。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-联系和发展的基本规律",
+      "label": "联系和发展的基本规律",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 16,
+      "description": "对立统一、质量互变、否定之否定是事物运动的根本规律。",
+      "summary": "对立统一、质量互变、否定之否定是事物运动的根本规律。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-唯物辩证法",
+      "label": "唯物辩证法",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 17,
+      "description": "关于普遍联系和永恒发展的科学方法论，指导实践与思维。",
+      "summary": "关于普遍联系和永恒发展的科学方法论，指导实践与思维。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "concept-哲学基本问题",
+      "label": "哲学基本问题",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 18,
+      "description": "存在和思维的关系问题，包括本原性与同一性两个方面。",
+      "summary": "存在和思维的关系问题，包括本原性与同一性两个方面。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%80%A7%E4%B8%8E%E7%89%A9%E8%B4%A8%E7%BB%9F%E4%B8%80%E6%80%A7",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "concept-物质范畴",
+      "label": "物质范畴",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 19,
+      "description": "标志客观实在的哲学概念，不依赖感觉而存在，能被感觉所反映。",
+      "summary": "标志客观实在的哲学概念，不依赖感觉而存在，能被感觉所反映。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%80%A7%E4%B8%8E%E7%89%A9%E8%B4%A8%E7%BB%9F%E4%B8%80%E6%80%A7",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "concept-客观实在性",
+      "label": "客观实在性",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 20,
+      "description": "物质唯一根本特性，是自然存在与社会存在的共同本质。",
+      "summary": "物质唯一根本特性，是自然存在与社会存在的共同本质。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%80%A7%E4%B8%8E%E7%89%A9%E8%B4%A8%E7%BB%9F%E4%B8%80%E6%80%A7",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "concept-唯物主义一元论",
+      "label": "唯物主义一元论",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 21,
+      "description": "主张物质为世界唯一本原，反对唯心主义和二元论。",
+      "summary": "主张物质为世界唯一本原，反对唯心主义和二元论。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%80%A7%E4%B8%8E%E7%89%A9%E8%B4%A8%E7%BB%9F%E4%B8%80%E6%80%A7",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "concept-能动反映论",
+      "label": "能动反映论",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 22,
+      "description": "强调意识对物质的反映是能动的、实践的、可深化的认识过程。",
+      "summary": "强调意识对物质的反映是能动的、实践的、可深化的认识过程。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%B8%80%E8%8A%82-%E4%B8%96%E7%95%8C%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%80%A7%E4%B8%8E%E7%89%A9%E8%B4%A8%E7%BB%9F%E4%B8%80%E6%80%A7",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "concept-普遍联系",
+      "label": "普遍联系",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 23,
+      "description": "事物内部各要素及事物之间相互影响、相互制约、相互作用的关系。",
+      "summary": "事物内部各要素及事物之间相互影响、相互制约、相互作用的关系。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E4%BA%8B%E7%89%A9%E7%9A%84%E6%99%AE%E9%81%8D%E8%81%94%E7%B3%BB%E5%92%8C%E5%8F%98%E5%8C%96%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第二节-事物的普遍联系和变化发展"
+      }
+    },
+    {
+      "id": "concept-联系的客观性",
+      "label": "联系的客观性",
+      "type": "concept",
+      "group": "concept",
+      "depth": 3,
+      "orbit": 3,
+      "angle": 24,
+      "description": "联系是事物本身固有的，不以人的意志为转移。",
+      "summary": "联系是事物本身固有的，不以人的意志为转移。",
+      "frequency": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023%3Achapter%3A%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B#%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B%2F%E7%AC%AC%E4%BA%8C%E8%8A%82-%E4%BA%8B%E7%89%A9%E7%9A%84%E6%99%AE%E9%81%8D%E8%81%94%E7%B3%BB%E5%92%8C%E5%8F%98%E5%8C%96%E5%8F%91%E5%B1%95",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第二节-事物的普遍联系和变化发展"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:导论",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:book-core->chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:导论->section-marxism-basic-principles-2023:section:导论-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "target": "section-marxism-basic-principles-2023:section:导论-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->section-marxism-basic-principles-2023:section:第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律->section-marxism-basic-principles-2023:section:第二章-实践与认识及其发展规律-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第二章-实践与认识及其发展规律-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律->section-marxism-basic-principles-2023:section:第一节-实践与认识",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第一节-实践与认识",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律->section-marxism-basic-principles-2023:section:第二节-真理与价值",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第二节-真理与价值",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律->section-marxism-basic-principles-2023:section:第三节-认识世界和改造世界",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第三节-认识世界和改造世界",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律->section-marxism-basic-principles-2023:section:第三章-人类社会及其发展规律-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第三章-人类社会及其发展规律-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律->section-marxism-basic-principles-2023:section:第一节-人类社会的存在与发展",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第一节-人类社会的存在与发展",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律->section-marxism-basic-principles-2023:section:第二节-社会历史发展的动力",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第二节-社会历史发展的动力",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律->section-marxism-basic-principles-2023:section:第三节-人民群众在历史发展中的作用",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023:section:第三节-人民群众在历史发展中的作用",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律->section-marxism-basic-principles-2023:section:第四章-资本主义的本质及规律-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023:section:第四章-资本主义的本质及规律-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律->section-marxism-basic-principles-2023:section:第一节-商品经济和价值规律",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023:section:第一节-商品经济和价值规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律->section-marxism-basic-principles-2023:section:第二节-资本主义经济制度",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023:section:第二节-资本主义经济制度",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律->section-marxism-basic-principles-2023:section:第三节-资本主义上层建筑",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023:section:第三节-资本主义上层建筑",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势->section-marxism-basic-principles-2023:section:第五章-资本主义的发展及其趋势-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023:section:第五章-资本主义的发展及其趋势-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势->section-marxism-basic-principles-2023:section:第一节-垄断资本主义的形成与发展",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023:section:第一节-垄断资本主义的形成与发展",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势->section-marxism-basic-principles-2023:section:第二节-正确认识当代资本主义的新变化",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023:section:第二节-正确认识当代资本主义的新变化",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势->section-marxism-basic-principles-2023:section:第三节-资本主义的历史地位和发展趋势",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023:section:第三节-资本主义的历史地位和发展趋势",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律->section-marxism-basic-principles-2023:section:第六章-社会主义的发展及其规律-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023:section:第六章-社会主义的发展及其规律-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律->section-marxism-basic-principles-2023:section:第一节-社会主义五百年的历史进程",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023:section:第一节-社会主义五百年的历史进程",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律->section-marxism-basic-principles-2023:section:第二节-科学社会主义基本原则",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023:section:第二节-科学社会主义基本原则",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律->section-marxism-basic-principles-2023:section:第三节-在实践中探索社会主义的发展规律",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023:section:第三节-在实践中探索社会主义的发展规律",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现->section-marxism-basic-principles-2023:section:第七章-共产主义崇高理想及其最终实现-intro",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023:section:第七章-共产主义崇高理想及其最终实现-intro",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现->section-marxism-basic-principles-2023:section:第一节-展望未来共产主义新社会",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023:section:第一节-展望未来共产主义新社会",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现->section-marxism-basic-principles-2023:section:第二节-实现共产主义是历史发展的必然趋势",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023:section:第二节-实现共产主义是历史发展的必然趋势",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现->section-marxism-basic-principles-2023:section:第三节-共产主义远大理想与中国特色社会主义共同理想",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023:section:第三节-共产主义远大理想与中国特色社会主义共同理想",
+      "label": "contains",
+      "type": "contains"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展->concept-对立统一规律",
+      "source": "section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "target": "concept-对立统一规律",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-对立统一规律",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-对立统一规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第二章-实践与认识及其发展规律-intro->concept-科学实践观",
+      "source": "section-marxism-basic-principles-2023:section:第二章-实践与认识及其发展规律-intro",
+      "target": "concept-科学实践观",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律->concept-科学实践观",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "target": "concept-科学实践观",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第三章-人类社会及其发展规律-intro->concept-社会基本矛盾",
+      "source": "section-marxism-basic-principles-2023:section:第三章-人类社会及其发展规律-intro",
+      "target": "concept-社会基本矛盾",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律->concept-社会基本矛盾",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "target": "concept-社会基本矛盾",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一节-人类社会的存在与发展->concept-唯物史观",
+      "source": "section-marxism-basic-principles-2023:section:第一节-人类社会的存在与发展",
+      "target": "concept-唯物史观",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律->concept-唯物史观",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "target": "concept-唯物史观",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第四章-资本主义的本质及规律-intro->concept-资本主义基本矛盾",
+      "source": "section-marxism-basic-principles-2023:section:第四章-资本主义的本质及规律-intro",
+      "target": "concept-资本主义基本矛盾",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律->concept-资本主义基本矛盾",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "target": "concept-资本主义基本矛盾",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第六章-社会主义的发展及其规律-intro->concept-社会主义建设长期性",
+      "source": "section-marxism-basic-principles-2023:section:第六章-社会主义的发展及其规律-intro",
+      "target": "concept-社会主义建设长期性",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律->concept-社会主义建设长期性",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "target": "concept-社会主义建设长期性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第二节-科学社会主义基本原则->concept-无产阶级历史使命",
+      "source": "section-marxism-basic-principles-2023:section:第二节-科学社会主义基本原则",
+      "target": "concept-无产阶级历史使命",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律->concept-无产阶级历史使命",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "target": "concept-无产阶级历史使命",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:导论-intro->concept-马克思主义",
+      "source": "section-marxism-basic-principles-2023:section:导论-intro",
+      "target": "concept-马克思主义",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:导论->concept-马克思主义",
+      "source": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "target": "concept-马克思主义",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:导论-intro->concept-马克思主义基本原理",
+      "source": "section-marxism-basic-principles-2023:section:导论-intro",
+      "target": "concept-马克思主义基本原理",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:导论->concept-马克思主义基本原理",
+      "source": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "target": "concept-马克思主义基本原理",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:导论-intro->concept-马克思主义三大组成部分",
+      "source": "section-marxism-basic-principles-2023:section:导论-intro",
+      "target": "concept-马克思主义三大组成部分",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:导论->concept-马克思主义三大组成部分",
+      "source": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "target": "concept-马克思主义三大组成部分",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:导论-intro->concept-马克思主义基本立场",
+      "source": "section-marxism-basic-principles-2023:section:导论-intro",
+      "target": "concept-马克思主义基本立场",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:导论->concept-马克思主义基本立场",
+      "source": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "target": "concept-马克思主义基本立场",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:导论-intro->concept-马克思主义创立条件",
+      "source": "section-marxism-basic-principles-2023:section:导论-intro",
+      "target": "concept-马克思主义创立条件",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:导论->concept-马克思主义创立条件",
+      "source": "chapter-marxism-basic-principles-2023:chapter:导论",
+      "target": "concept-马克思主义创立条件",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro->concept-辩证唯物主义",
+      "source": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "target": "concept-辩证唯物主义",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-辩证唯物主义",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-辩证唯物主义",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro->concept-世界的物质统一性",
+      "source": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "target": "concept-世界的物质统一性",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-世界的物质统一性",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-世界的物质统一性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro->concept-主观能动性与客观规律性",
+      "source": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "target": "concept-主观能动性与客观规律性",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-主观能动性与客观规律性",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-主观能动性与客观规律性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro->concept-联系和发展的基本规律",
+      "source": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "target": "concept-联系和发展的基本规律",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-联系和发展的基本规律",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-联系和发展的基本规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro->concept-唯物辩证法",
+      "source": "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "target": "concept-唯物辩证法",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-唯物辩证法",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-唯物辩证法",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性->concept-哲学基本问题",
+      "source": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "target": "concept-哲学基本问题",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-哲学基本问题",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-哲学基本问题",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性->concept-物质范畴",
+      "source": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "target": "concept-物质范畴",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-物质范畴",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-物质范畴",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性->concept-客观实在性",
+      "source": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "target": "concept-客观实在性",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-客观实在性",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-客观实在性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性->concept-唯物主义一元论",
+      "source": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "target": "concept-唯物主义一元论",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-唯物主义一元论",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-唯物主义一元论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性->concept-能动反映论",
+      "source": "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "target": "concept-能动反映论",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-能动反映论",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-能动反映论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展->concept-普遍联系",
+      "source": "section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "target": "concept-普遍联系",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-普遍联系",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-普遍联系",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展->concept-联系的客观性",
+      "source": "section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "target": "concept-联系的客观性",
+      "label": "explains",
+      "type": "explains"
+    },
+    {
+      "id": "edge:chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律->concept-联系的客观性",
+      "source": "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "target": "concept-联系的客观性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义->concept-马克思主义基本原理",
+      "source": "concept-马克思主义",
+      "target": "concept-马克思主义基本原理",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义->concept-马克思主义三大组成部分",
+      "source": "concept-马克思主义",
+      "target": "concept-马克思主义三大组成部分",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义->concept-马克思主义基本立场",
+      "source": "concept-马克思主义",
+      "target": "concept-马克思主义基本立场",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义->concept-马克思主义创立条件",
+      "source": "concept-马克思主义",
+      "target": "concept-马克思主义创立条件",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义基本原理->concept-马克思主义三大组成部分",
+      "source": "concept-马克思主义基本原理",
+      "target": "concept-马克思主义三大组成部分",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义基本原理->concept-马克思主义基本立场",
+      "source": "concept-马克思主义基本原理",
+      "target": "concept-马克思主义基本立场",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义基本原理->concept-马克思主义创立条件",
+      "source": "concept-马克思主义基本原理",
+      "target": "concept-马克思主义创立条件",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义三大组成部分->concept-马克思主义基本立场",
+      "source": "concept-马克思主义三大组成部分",
+      "target": "concept-马克思主义基本立场",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义三大组成部分->concept-马克思主义创立条件",
+      "source": "concept-马克思主义三大组成部分",
+      "target": "concept-马克思主义创立条件",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-马克思主义基本立场->concept-马克思主义创立条件",
+      "source": "concept-马克思主义基本立场",
+      "target": "concept-马克思主义创立条件",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-辩证唯物主义->concept-世界的物质统一性",
+      "source": "concept-辩证唯物主义",
+      "target": "concept-世界的物质统一性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-辩证唯物主义->concept-主观能动性与客观规律性",
+      "source": "concept-辩证唯物主义",
+      "target": "concept-主观能动性与客观规律性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-辩证唯物主义->concept-联系和发展的基本规律",
+      "source": "concept-辩证唯物主义",
+      "target": "concept-联系和发展的基本规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-辩证唯物主义->concept-唯物辩证法",
+      "source": "concept-辩证唯物主义",
+      "target": "concept-唯物辩证法",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-世界的物质统一性->concept-主观能动性与客观规律性",
+      "source": "concept-世界的物质统一性",
+      "target": "concept-主观能动性与客观规律性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-世界的物质统一性->concept-联系和发展的基本规律",
+      "source": "concept-世界的物质统一性",
+      "target": "concept-联系和发展的基本规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-世界的物质统一性->concept-唯物辩证法",
+      "source": "concept-世界的物质统一性",
+      "target": "concept-唯物辩证法",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-主观能动性与客观规律性->concept-联系和发展的基本规律",
+      "source": "concept-主观能动性与客观规律性",
+      "target": "concept-联系和发展的基本规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-主观能动性与客观规律性->concept-唯物辩证法",
+      "source": "concept-主观能动性与客观规律性",
+      "target": "concept-唯物辩证法",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-联系和发展的基本规律->concept-唯物辩证法",
+      "source": "concept-联系和发展的基本规律",
+      "target": "concept-唯物辩证法",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-哲学基本问题->concept-物质范畴",
+      "source": "concept-哲学基本问题",
+      "target": "concept-物质范畴",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-哲学基本问题->concept-客观实在性",
+      "source": "concept-哲学基本问题",
+      "target": "concept-客观实在性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-哲学基本问题->concept-唯物主义一元论",
+      "source": "concept-哲学基本问题",
+      "target": "concept-唯物主义一元论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-哲学基本问题->concept-能动反映论",
+      "source": "concept-哲学基本问题",
+      "target": "concept-能动反映论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-物质范畴->concept-客观实在性",
+      "source": "concept-物质范畴",
+      "target": "concept-客观实在性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-物质范畴->concept-唯物主义一元论",
+      "source": "concept-物质范畴",
+      "target": "concept-唯物主义一元论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-物质范畴->concept-能动反映论",
+      "source": "concept-物质范畴",
+      "target": "concept-能动反映论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-客观实在性->concept-唯物主义一元论",
+      "source": "concept-客观实在性",
+      "target": "concept-唯物主义一元论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-客观实在性->concept-能动反映论",
+      "source": "concept-客观实在性",
+      "target": "concept-能动反映论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-唯物主义一元论->concept-能动反映论",
+      "source": "concept-唯物主义一元论",
+      "target": "concept-能动反映论",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-普遍联系->concept-联系的客观性",
+      "source": "concept-普遍联系",
+      "target": "concept-联系的客观性",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-普遍联系->concept-对立统一规律",
+      "source": "concept-普遍联系",
+      "target": "concept-对立统一规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-联系的客观性->concept-对立统一规律",
+      "source": "concept-联系的客观性",
+      "target": "concept-对立统一规律",
+      "label": "relates_to",
+      "type": "relates_to"
+    },
+    {
+      "id": "edge:concept-资本主义基本矛盾->concept-无产阶级历史使命",
+      "source": "concept-资本主义基本矛盾",
+      "target": "concept-无产阶级历史使命",
+      "label": "relates_to",
+      "type": "relates_to"
+    }
+  ],
+  "lanes": {
+    "chapters": [
+      "chapter-marxism-basic-principles-2023:chapter:导论",
+      "chapter-marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "chapter-marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "chapter-marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "chapter-marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "chapter-marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "chapter-marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "chapter-marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现"
+    ],
+    "sections": [
+      "section-marxism-basic-principles-2023:section:导论-intro",
+      "section-marxism-basic-principles-2023:section:第一章-世界的物质性及发展规律-intro",
+      "section-marxism-basic-principles-2023:section:第一节-世界的多样性与物质统一性",
+      "section-marxism-basic-principles-2023:section:第二节-事物的普遍联系和变化发展",
+      "section-marxism-basic-principles-2023:section:第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "section-marxism-basic-principles-2023:section:第二章-实践与认识及其发展规律-intro",
+      "section-marxism-basic-principles-2023:section:第一节-实践与认识",
+      "section-marxism-basic-principles-2023:section:第二节-真理与价值",
+      "section-marxism-basic-principles-2023:section:第三节-认识世界和改造世界",
+      "section-marxism-basic-principles-2023:section:第三章-人类社会及其发展规律-intro",
+      "section-marxism-basic-principles-2023:section:第一节-人类社会的存在与发展",
+      "section-marxism-basic-principles-2023:section:第二节-社会历史发展的动力",
+      "section-marxism-basic-principles-2023:section:第三节-人民群众在历史发展中的作用",
+      "section-marxism-basic-principles-2023:section:第四章-资本主义的本质及规律-intro",
+      "section-marxism-basic-principles-2023:section:第一节-商品经济和价值规律",
+      "section-marxism-basic-principles-2023:section:第二节-资本主义经济制度",
+      "section-marxism-basic-principles-2023:section:第三节-资本主义上层建筑",
+      "section-marxism-basic-principles-2023:section:第五章-资本主义的发展及其趋势-intro",
+      "section-marxism-basic-principles-2023:section:第一节-垄断资本主义的形成与发展",
+      "section-marxism-basic-principles-2023:section:第二节-正确认识当代资本主义的新变化",
+      "section-marxism-basic-principles-2023:section:第三节-资本主义的历史地位和发展趋势",
+      "section-marxism-basic-principles-2023:section:第六章-社会主义的发展及其规律-intro",
+      "section-marxism-basic-principles-2023:section:第一节-社会主义五百年的历史进程",
+      "section-marxism-basic-principles-2023:section:第二节-科学社会主义基本原则",
+      "section-marxism-basic-principles-2023:section:第三节-在实践中探索社会主义的发展规律",
+      "section-marxism-basic-principles-2023:section:第七章-共产主义崇高理想及其最终实现-intro",
+      "section-marxism-basic-principles-2023:section:第一节-展望未来共产主义新社会",
+      "section-marxism-basic-principles-2023:section:第二节-实现共产主义是历史发展的必然趋势",
+      "section-marxism-basic-principles-2023:section:第三节-共产主义远大理想与中国特色社会主义共同理想"
+    ],
+    "concepts": [
+      "concept-对立统一规律",
+      "concept-科学实践观",
+      "concept-社会基本矛盾",
+      "concept-唯物史观",
+      "concept-资本主义基本矛盾",
+      "concept-社会主义建设长期性",
+      "concept-无产阶级历史使命",
+      "concept-马克思主义",
+      "concept-马克思主义基本原理",
+      "concept-马克思主义三大组成部分",
+      "concept-马克思主义基本立场",
+      "concept-马克思主义创立条件",
+      "concept-辩证唯物主义",
+      "concept-世界的物质统一性",
+      "concept-主观能动性与客观规律性",
+      "concept-联系和发展的基本规律",
+      "concept-唯物辩证法",
+      "concept-哲学基本问题",
+      "concept-物质范畴",
+      "concept-客观实在性",
+      "concept-唯物主义一元论",
+      "concept-能动反映论",
+      "concept-普遍联系",
+      "concept-联系的客观性"
+    ]
+  }
+}

@@ -1,0 +1,883 @@
+{
+  "meta": {
+    "source": "generated",
+    "book_id": "marxism-basic-principles-2023"
+  },
+  "nodes": [
+    {
+      "id": "book-core",
+      "label": "马克思主义基本原理",
+      "type": "book",
+      "group": "core",
+      "depth": 0,
+      "orbit": 0,
+      "angle": 0,
+      "description": "《马克思主义基本原理》2023 年版教材。",
+      "summary": "《马克思主义基本原理》2023 年版教材。",
+      "style_hint": "core"
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-导论",
+      "label": "导论",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:导论",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-导论-intro",
+      "label": "导论 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:导论#马克思主义基本原理/导论/导论-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:导论",
+        "anchor": "马克思主义基本原理/导论/导论-intro"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "label": "第一章 世界的物质性及发展规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一章-世界的物质性及发展规律-intro",
+      "label": "第一章 世界的物质性及发展规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律#马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一章-世界的物质性及发展规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-世界的多样性与物质统一性",
+      "label": "第一节 世界的多样性与物质统一性",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律#马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第一节-世界的多样性与物质统一性"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-事物的普遍联系和变化发展",
+      "label": "第二节 事物的普遍联系和变化发展",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律#马克思主义基本原理/第一章-世界的物质性及发展规律/第二节-事物的普遍联系和变化发展",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第二节-事物的普遍联系和变化发展"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "label": "第三节 唯物辩证法是认识世界和改造世界的根本方法",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律#马克思主义基本原理/第一章-世界的物质性及发展规律/第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第一章-世界的物质性及发展规律",
+        "anchor": "马克思主义基本原理/第一章-世界的物质性及发展规律/第三节-唯物辩证法是认识世界和改造世界的根本方法"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "label": "第二章 实践与认识及其发展规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二章-实践与认识及其发展规律-intro",
+      "label": "第二章 实践与认识及其发展规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律#马克思主义基本原理/第二章-实践与认识及其发展规律/第二章-实践与认识及其发展规律-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第二章-实践与认识及其发展规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-实践与认识",
+      "label": "第一节 实践与认识",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律#马克思主义基本原理/第二章-实践与认识及其发展规律/第一节-实践与认识",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第一节-实践与认识"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-真理与价值",
+      "label": "第二节 真理与价值",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律#马克思主义基本原理/第二章-实践与认识及其发展规律/第二节-真理与价值",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第二节-真理与价值"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-认识世界和改造世界",
+      "label": "第三节 认识世界和改造世界",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律#马克思主义基本原理/第二章-实践与认识及其发展规律/第三节-认识世界和改造世界",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第二章-实践与认识及其发展规律",
+        "anchor": "马克思主义基本原理/第二章-实践与认识及其发展规律/第三节-认识世界和改造世界"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "label": "第三章 人类社会及其发展规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三章-人类社会及其发展规律-intro",
+      "label": "第三章 人类社会及其发展规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律#马克思主义基本原理/第三章-人类社会及其发展规律/第三章-人类社会及其发展规律-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第三章-人类社会及其发展规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-人类社会的存在与发展",
+      "label": "第一节 人类社会的存在与发展",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律#马克思主义基本原理/第三章-人类社会及其发展规律/第一节-人类社会的存在与发展",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第一节-人类社会的存在与发展"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-社会历史发展的动力",
+      "label": "第二节 社会历史发展的动力",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律#马克思主义基本原理/第三章-人类社会及其发展规律/第二节-社会历史发展的动力",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第二节-社会历史发展的动力"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-人民群众在历史发展中的作用",
+      "label": "第三节 人民群众在历史发展中的作用",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律#马克思主义基本原理/第三章-人类社会及其发展规律/第三节-人民群众在历史发展中的作用",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第三章-人类社会及其发展规律",
+        "anchor": "马克思主义基本原理/第三章-人类社会及其发展规律/第三节-人民群众在历史发展中的作用"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "label": "第四章 资本主义的本质及规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 5,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第四章-资本主义的本质及规律-intro",
+      "label": "第四章 资本主义的本质及规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律#马克思主义基本原理/第四章-资本主义的本质及规律/第四章-资本主义的本质及规律-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第四章-资本主义的本质及规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-商品经济和价值规律",
+      "label": "第一节 商品经济和价值规律",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律#马克思主义基本原理/第四章-资本主义的本质及规律/第一节-商品经济和价值规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第一节-商品经济和价值规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-资本主义经济制度",
+      "label": "第二节 资本主义经济制度",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律#马克思主义基本原理/第四章-资本主义的本质及规律/第二节-资本主义经济制度",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第二节-资本主义经济制度"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-资本主义上层建筑",
+      "label": "第三节 资本主义上层建筑",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律#马克思主义基本原理/第四章-资本主义的本质及规律/第三节-资本主义上层建筑",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第四章-资本主义的本质及规律",
+        "anchor": "马克思主义基本原理/第四章-资本主义的本质及规律/第三节-资本主义上层建筑"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "label": "第五章 资本主义的发展及其趋势",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 6,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第五章-资本主义的发展及其趋势-intro",
+      "label": "第五章 资本主义的发展及其趋势 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势#马克思主义基本原理/第五章-资本主义的发展及其趋势/第五章-资本主义的发展及其趋势-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第五章-资本主义的发展及其趋势-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-垄断资本主义的形成与发展",
+      "label": "第一节 垄断资本主义的形成与发展",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势#马克思主义基本原理/第五章-资本主义的发展及其趋势/第一节-垄断资本主义的形成与发展",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第一节-垄断资本主义的形成与发展"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-正确认识当代资本主义的新变化",
+      "label": "第二节 正确认识当代资本主义的新变化",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势#马克思主义基本原理/第五章-资本主义的发展及其趋势/第二节-正确认识当代资本主义的新变化",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第二节-正确认识当代资本主义的新变化"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-资本主义的历史地位和发展趋势",
+      "label": "第三节 资本主义的历史地位和发展趋势",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势#马克思主义基本原理/第五章-资本主义的发展及其趋势/第三节-资本主义的历史地位和发展趋势",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第五章-资本主义的发展及其趋势",
+        "anchor": "马克思主义基本原理/第五章-资本主义的发展及其趋势/第三节-资本主义的历史地位和发展趋势"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "label": "第六章 社会主义的发展及其规律",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 7,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第六章-社会主义的发展及其规律-intro",
+      "label": "第六章 社会主义的发展及其规律 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律#马克思主义基本原理/第六章-社会主义的发展及其规律/第六章-社会主义的发展及其规律-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第六章-社会主义的发展及其规律-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-社会主义五百年的历史进程",
+      "label": "第一节 社会主义五百年的历史进程",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律#马克思主义基本原理/第六章-社会主义的发展及其规律/第一节-社会主义五百年的历史进程",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第一节-社会主义五百年的历史进程"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-科学社会主义基本原则",
+      "label": "第二节 科学社会主义基本原则",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律#马克思主义基本原理/第六章-社会主义的发展及其规律/第二节-科学社会主义基本原则",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第二节-科学社会主义基本原则"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-在实践中探索社会主义的发展规律",
+      "label": "第三节 在实践中探索社会主义的发展规律",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律#马克思主义基本原理/第六章-社会主义的发展及其规律/第三节-在实践中探索社会主义的发展规律",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第六章-社会主义的发展及其规律",
+        "anchor": "马克思主义基本原理/第六章-社会主义的发展及其规律/第三节-在实践中探索社会主义的发展规律"
+      }
+    },
+    {
+      "id": "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现",
+      "label": "第七章 共产主义崇高理想及其最终实现",
+      "type": "chapter",
+      "group": "chapter",
+      "depth": 1,
+      "orbit": 1,
+      "angle": 8,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第七章-共产主义崇高理想及其最终实现-intro",
+      "label": "第七章 共产主义崇高理想及其最终实现 导言",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 1,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现#马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第七章-共产主义崇高理想及其最终实现-intro",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第七章-共产主义崇高理想及其最终实现-intro"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第一节-展望未来共产主义新社会",
+      "label": "第一节 展望未来共产主义新社会",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 2,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现#马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第一节-展望未来共产主义新社会",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第一节-展望未来共产主义新社会"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第二节-实现共产主义是历史发展的必然趋势",
+      "label": "第二节 实现共产主义是历史发展的必然趋势",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 3,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现#马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第二节-实现共产主义是历史发展的必然趋势",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第二节-实现共产主义是历史发展的必然趋势"
+      }
+    },
+    {
+      "id": "section-marxism-basic-principles-2023-section-第三节-共产主义远大理想与中国特色社会主义共同理想",
+      "label": "第三节 共产主义远大理想与中国特色社会主义共同理想",
+      "type": "section",
+      "group": "section",
+      "depth": 2,
+      "orbit": 2,
+      "angle": 4,
+      "href": "/reader?book_id=marxism-basic-principles-2023&chapter_id=marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现#马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第三节-共产主义远大理想与中国特色社会主义共同理想",
+      "ref": {
+        "book_id": "marxism-basic-principles-2023",
+        "chapter_id": "marxism-basic-principles-2023:chapter:第七章-共产主义崇高理想及其最终实现",
+        "anchor": "马克思主义基本原理/第七章-共产主义崇高理想及其最终实现/第三节-共产主义远大理想与中国特色社会主义共同理想"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-导论",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-导论",
+      "target": "section-marxism-basic-principles-2023-section-导论-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第一章-世界的物质性及发展规律-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第一节-世界的多样性与物质统一性",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第二节-事物的普遍联系和变化发展",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第二章-实践与认识及其发展规律-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第一节-实践与认识",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第二节-真理与价值",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第三节-认识世界和改造世界",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第三章-人类社会及其发展规律-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第一节-人类社会的存在与发展",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第二节-社会历史发展的动力",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "target": "section-marxism-basic-principles-2023-section-第三节-人民群众在历史发展中的作用",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023-section-第四章-资本主义的本质及规律-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023-section-第一节-商品经济和价值规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023-section-第二节-资本主义经济制度",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "target": "section-marxism-basic-principles-2023-section-第三节-资本主义上层建筑",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023-section-第五章-资本主义的发展及其趋势-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023-section-第一节-垄断资本主义的形成与发展",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023-section-第二节-正确认识当代资本主义的新变化",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "target": "section-marxism-basic-principles-2023-section-第三节-资本主义的历史地位和发展趋势",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023-section-第六章-社会主义的发展及其规律-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023-section-第一节-社会主义五百年的历史进程",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023-section-第二节-科学社会主义基本原则",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "target": "section-marxism-basic-principles-2023-section-第三节-在实践中探索社会主义的发展规律",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "book-core",
+      "target": "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现",
+      "type": "contains",
+      "label": "contains",
+      "weight": 1.0
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023-section-第七章-共产主义崇高理想及其最终实现-intro",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023-section-第一节-展望未来共产主义新社会",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023-section-第二节-实现共产主义是历史发展的必然趋势",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    },
+    {
+      "source": "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现",
+      "target": "section-marxism-basic-principles-2023-section-第三节-共产主义远大理想与中国特色社会主义共同理想",
+      "type": "contains",
+      "label": "contains",
+      "weight": 0.8
+    }
+  ],
+  "lanes": {
+    "chapters": [
+      "chapter-marxism-basic-principles-2023-chapter-导论",
+      "chapter-marxism-basic-principles-2023-chapter-第一章-世界的物质性及发展规律",
+      "chapter-marxism-basic-principles-2023-chapter-第二章-实践与认识及其发展规律",
+      "chapter-marxism-basic-principles-2023-chapter-第三章-人类社会及其发展规律",
+      "chapter-marxism-basic-principles-2023-chapter-第四章-资本主义的本质及规律",
+      "chapter-marxism-basic-principles-2023-chapter-第五章-资本主义的发展及其趋势",
+      "chapter-marxism-basic-principles-2023-chapter-第六章-社会主义的发展及其规律",
+      "chapter-marxism-basic-principles-2023-chapter-第七章-共产主义崇高理想及其最终实现"
+    ],
+    "sections": [
+      "section-marxism-basic-principles-2023-section-导论-intro",
+      "section-marxism-basic-principles-2023-section-第一章-世界的物质性及发展规律-intro",
+      "section-marxism-basic-principles-2023-section-第一节-世界的多样性与物质统一性",
+      "section-marxism-basic-principles-2023-section-第二节-事物的普遍联系和变化发展",
+      "section-marxism-basic-principles-2023-section-第三节-唯物辩证法是认识世界和改造世界的根本方法",
+      "section-marxism-basic-principles-2023-section-第二章-实践与认识及其发展规律-intro",
+      "section-marxism-basic-principles-2023-section-第一节-实践与认识",
+      "section-marxism-basic-principles-2023-section-第二节-真理与价值",
+      "section-marxism-basic-principles-2023-section-第三节-认识世界和改造世界",
+      "section-marxism-basic-principles-2023-section-第三章-人类社会及其发展规律-intro",
+      "section-marxism-basic-principles-2023-section-第一节-人类社会的存在与发展",
+      "section-marxism-basic-principles-2023-section-第二节-社会历史发展的动力",
+      "section-marxism-basic-principles-2023-section-第三节-人民群众在历史发展中的作用",
+      "section-marxism-basic-principles-2023-section-第四章-资本主义的本质及规律-intro",
+      "section-marxism-basic-principles-2023-section-第一节-商品经济和价值规律",
+      "section-marxism-basic-principles-2023-section-第二节-资本主义经济制度",
+      "section-marxism-basic-principles-2023-section-第三节-资本主义上层建筑",
+      "section-marxism-basic-principles-2023-section-第五章-资本主义的发展及其趋势-intro",
+      "section-marxism-basic-principles-2023-section-第一节-垄断资本主义的形成与发展",
+      "section-marxism-basic-principles-2023-section-第二节-正确认识当代资本主义的新变化",
+      "section-marxism-basic-principles-2023-section-第三节-资本主义的历史地位和发展趋势",
+      "section-marxism-basic-principles-2023-section-第六章-社会主义的发展及其规律-intro",
+      "section-marxism-basic-principles-2023-section-第一节-社会主义五百年的历史进程",
+      "section-marxism-basic-principles-2023-section-第二节-科学社会主义基本原则",
+      "section-marxism-basic-principles-2023-section-第三节-在实践中探索社会主义的发展规律",
+      "section-marxism-basic-principles-2023-section-第七章-共产主义崇高理想及其最终实现-intro",
+      "section-marxism-basic-principles-2023-section-第一节-展望未来共产主义新社会",
+      "section-marxism-basic-principles-2023-section-第二节-实现共产主义是历史发展的必然趋势",
+      "section-marxism-basic-principles-2023-section-第三节-共产主义远大理想与中国特色社会主义共同理想"
+    ],
+    "concepts": [
+      "concept-core",
+      "concept-concept"
+    ]
+  }
+}

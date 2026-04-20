@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <script src="/static/marked.min.js"></script>
 <script>
-tailwind.config={theme:{extend:{colors:{brand:'#F97316','brand-light':'#FFF7ED','brand-dark':'#EA580C',accent:'#DC2626','accent-light':'#FEF2F2',debate:'#2563EB','debate-light':'#EFF6FF',amber:'#D97706','amber-light':'#FFFBEB',emerald:'#059669','emerald-light':'#ECFDF5'}}}}
+tailwind.config={theme:{extend:{colors:{brand:'#F97316','brand-light':'#FFF7ED','brand-dark':'#EA580C',accent:'#DC2626','accent-light':'#FEF2F2',debate:'#2563EB','debate-light':'#EFF6FF',amber:'#D97706','amber-light':'#FFFBEB',emerald:'#059669','emerald-light':'#ECFDF5',teal:'#0D9488','teal-light':'#F0FDFA'}}}}
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap');
@@ -42,6 +42,10 @@ body{margin:0;overflow-x:hidden;background:#111}
 .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(100px);opacity:0;transition:all .4s ease;z-index:9999}
 .toast.show{transform:translateX(-50%) translateY(0);opacity:1}
 .gradient-brand{background:linear-gradient(135deg,#F97316,#DC2626)}
+@keyframes fadeInUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.news-card-animate{animation:fadeInUp .5s ease forwards}
+@keyframes pulse-dot{0%,100%{opacity:1}50%{opacity:.4}}
+.pulse-dot{animation:pulse-dot 2s ease-in-out infinite}
 </style>
 </head>
 <body>
@@ -56,11 +60,12 @@ body{margin:0;overflow-x:hidden;background:#111}
 </div>
 <span class="text-xl font-bold text-white tracking-wide">思政云伴侣</span>
 </div>
-<div class="hidden md:flex items-center gap-1">
+<div class="hidden md:flex items-center gap-1 flex-nowrap">
 <a onclick="showPage('home')" class="nav-pill active px-4 py-2 rounded-full text-sm text-white/80 border border-transparent cursor-pointer">首页</a>
 <a onclick="showPage('qa')" class="nav-pill px-4 py-2 rounded-full text-sm text-white/80 border border-transparent cursor-pointer">思政云问答</a>
-<a onclick="showPage('debate')" class="nav-pill px-4 py-2 rounded-full text-sm text-white/80 border border-transparent cursor-pointer">思政云理辩</a>
+<a onclick="showPage('debate')" class="nav-pill px-4 py-2 rounded-full text-sm text-white/80 border border-transparent cursor-pointer whitespace-nowrap">思政云理辩</a>
 <a onclick="showPage('ppt')" class="nav-pill px-4 py-2 rounded-full text-sm text-white/80 border border-transparent cursor-pointer">思政云备课</a>
+<a onclick="showPage('textbook')" class="nav-pill px-4 py-2 rounded-full text-sm text-white/80 border border-transparent cursor-pointer">思政云伴读</a>
 </div>
 <div class="flex items-center gap-3">
 <div class="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-white/70"><i class="fas fa-user text-sm"></i></div>
@@ -82,7 +87,7 @@ body{margin:0;overflow-x:hidden;background:#111}
 </p>
 
 <!-- 三大功能入口 — 修复撞色 -->
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
 <div onclick="showPage('qa')" class="card-hover glass rounded-2xl p-6 cursor-pointer group slide-in" style="animation-delay:.4s">
 <div class="card-icon w-14 h-14 rounded-2xl bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center mb-5 shadow-lg shadow-orange-500/20">
 <i class="fas fa-comments text-white text-2xl"></i>
@@ -92,7 +97,7 @@ body{margin:0;overflow-x:hidden;background:#111}
 <h3 class="text-lg font-bold text-white">思政云问答</h3>
 </div>
 <p class="text-sm text-white/40 mb-4 leading-relaxed">思政课程智能问答，理论溯源与时政案例双库检索，引用文献一键下载</p>
-<div class="flex items-center gap-2 text-orange-400">
+<div class="flex items-center gap-2 text-orange-400 whitespace-nowrap">
 <span class="text-sm font-medium">开始提问</span>
 <i class="fas fa-arrow-right text-xs group-hover:translate-x-1 transition-transform"></i>
 </div>
@@ -107,7 +112,7 @@ body{margin:0;overflow-x:hidden;background:#111}
 <h3 class="text-lg font-bold text-white">思政云理辩</h3>
 </div>
 <p class="text-sm text-white/40 mb-4 leading-relaxed">AI 正反方哲学交锋训练，用户驱动攻防+裁判总结，真理越辩越明</p>
-<div class="flex items-center gap-2 text-blue-400">
+<div class="flex items-center gap-2 text-blue-400 whitespace-nowrap">
 <span class="text-sm font-medium">开始交锋</span>
 <i class="fas fa-arrow-right text-xs group-hover:translate-x-1 transition-transform"></i>
 </div>
@@ -123,10 +128,66 @@ body{margin:0;overflow-x:hidden;background:#111}
 <h3 class="text-lg font-bold text-white">思政云备课</h3>
 </div>
 <p class="text-sm text-white/40 mb-4 leading-relaxed">AI 大纲生成 → 在线编辑 → 主题预览 → 一键下载 PPT</p>
-<div class="flex items-center gap-2 text-violet-400">
+<div class="flex items-center gap-2 text-violet-400 whitespace-nowrap">
 <span class="text-sm font-medium">开始生成</span>
 <i class="fas fa-arrow-right text-xs group-hover:translate-x-1 transition-transform"></i>
 </div>
+</div>
+
+<!-- 教材伴读卡片 -->
+<div onclick="showPage('textbook')" class="card-hover glass rounded-2xl p-6 cursor-pointer group slide-in" style="animation-delay:.7s">
+<div class="card-icon w-14 h-14 rounded-2xl flex items-center justify-center mb-5 shadow-lg shadow-yellow-500/30" style="background:linear-gradient(135deg,#FBBF24,#F97316)">
+<i class="fas fa-book-open text-white text-2xl"></i>
+</div>
+<div class="flex items-center gap-2 mb-2">
+<span class="text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider border" style="background:rgba(251,191,36,.2);color:#FDE68A;border-color:rgba(251,191,36,.35)">Reader</span>
+<h3 class="text-lg font-bold text-white">思政云伴读</h3>
+</div>
+<p class="text-sm mb-4 leading-relaxed" style="color:rgba(255,255,255,.6)">思政教材智能伴读 + AI答疑辅助 + 知识星图可视化</p>
+<div class="flex items-center gap-2 whitespace-nowrap" style="color:#FCD34D">
+<span class="text-sm font-semibold">开始阅读</span>
+<i class="fas fa-arrow-right text-xs group-hover:translate-x-1 transition-transform"></i>
+</div>
+</div>
+</div>
+</div>
+
+<!-- 时政要闻板块 -->
+<div class="mt-14 max-w-5xl mx-auto slide-in" style="animation-delay:.7s">
+<div class="text-center mb-5">
+<span class="text-xs text-white/60 uppercase tracking-widest">Daily News</span>
+</div>
+
+<div class="glass rounded-2xl p-6 overflow-hidden">
+<div class="flex items-center justify-between mb-5">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-xl bg-gradient-to-br from-rose-500 to-pink-500 flex items-center justify-center shadow-lg shadow-rose-500/20">
+<i class="fas fa-newspaper text-white"></i>
+</div>
+<div>
+<h3 class="text-lg font-bold text-white">时政要闻</h3>
+<p class="text-xs text-white/50">近3日青年热点速览</p>
+</div>
+</div>
+<div class="flex items-center gap-2">
+<span class="px-2.5 py-1 rounded-full bg-emerald-400/25 text-emerald-400 text-xs font-medium flex items-center gap-1.5">
+<span class="w-1.5 h-1.5 rounded-full bg-emerald-300 pulse-dot"></span>
+实时更新
+</span>
+<span id="news-date" class="text-xs text-white/40"></span>
+</div>
+</div>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="news-cards"></div>
+
+<div class="flex items-center justify-center gap-2 mt-4">
+<button onclick="prevNews()" class="w-8 h-8 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white/60 hover:text-white transition-colors">
+<i class="fas fa-chevron-left text-xs"></i>
+</button>
+<div id="news-indicators" class="flex gap-1.5"></div>
+<button onclick="nextNews()" class="w-8 h-8 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white/60 hover:text-white transition-colors">
+<i class="fas fa-chevron-right text-xs"></i>
+</button>
 </div>
 </div>
 </div>
@@ -451,7 +512,176 @@ body{margin:0;overflow-x:hidden;background:#111}
 </div>
 </div>
 
-<!-- Toast -->
+<!-- ==================== 思政云伴读页 ==================== -->
+<div id="page-textbook" class="feature-page flex-col bg-slate-50" style="height:100vh">
+<header class="shrink-0 bg-white/95 backdrop-blur-xl border-b border-slate-100 z-40">
+<div class="max-w-7xl mx-auto px-6 py-3 flex items-center justify-between">
+<div class="flex items-center gap-3">
+<button onclick="showPage('home')" class="w-9 h-9 rounded-xl bg-slate-100 flex items-center justify-center hover:bg-slate-200 transition-colors"><i class="fas fa-arrow-left text-slate-500"></i></button>
+<div class="w-8 h-8 rounded-lg bg-teal flex items-center justify-center"><i class="fas fa-book-open text-white text-sm"></i></div>
+<h1 class="text-lg font-bold text-slate-800">思政云伴读</h1>
+</div>
+<div class="flex items-center gap-2">
+<button onclick="showTextView('list')" id="tb-list-btn" class="px-3 py-1.5 rounded-lg bg-teal text-white text-xs font-medium">教材列表</button>
+<button onclick="showTextView('reader')" id="tb-reader-btn" class="hidden px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 text-xs font-medium hover:bg-slate-200">阅读器</button>
+</div>
+</div>
+</header>
+
+<!-- 子视图: 教材列表 -->
+<div id="tb-view-list" class="flex-1 overflow-y-auto p-6">
+<div class="max-w-6xl mx-auto">
+<div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 mb-6">
+<div class="flex items-center gap-3 mb-4">
+<div class="w-12 h-12 rounded-2xl bg-gradient-to-br from-teal-100 to-emerald-100 flex items-center justify-center border border-teal-200">
+<i class="fas fa-book-open text-teal text-xl"></i>
+</div>
+<div>
+<h2 class="text-xl font-bold text-slate-800">思政教材智能伴读</h2>
+<p class="text-sm text-slate-500">选择一本教材，进入智能阅读与知识探索</p>
+</div>
+</div>
+</div>
+<div id="tb-book-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+<!-- 动态渲染 -->
+</div>
+</div>
+</div>
+
+<!-- 子视图: 阅读器 -->
+<div id="tb-view-reader" class="hidden flex-1 min-h-0">
+<!-- 移动端 TOC 切换按钮 -->
+<div class="xl:hidden sticky top-0 z-10 bg-white border-b border-slate-100 px-4 py-2 flex items-center gap-3">
+<button onclick="toggleTocPanel()" class="px-3 py-1.5 rounded-lg bg-slate-100 text-xs font-medium text-slate-700 hover:bg-slate-200"><i class="fas fa-list-tree mr-1"></i>目录</button>
+<span class="text-sm text-slate-800 font-bold truncate" id="tb-reader-booktitle-mobile">--</span>
+</div>
+<!-- 移动端 TOC 面板（默认隐藏） -->
+<div id="tb-toc-mobile" class="xl:hidden hidden bg-white border-b border-slate-100 max-h-60 overflow-y-auto p-3" id="tb-toc-list-mobile"></div>
+
+<div class="grid grid-cols-1 xl:grid-cols-[260px_minmax(0,1fr)_340px] gap-0 h-full">
+<!-- 左侧目录 -->
+<aside class="hidden xl:flex flex-col bg-white border-r border-slate-100 overflow-y-auto">
+<div class="p-4 border-b border-slate-100">
+<div class="text-xs font-semibold text-teal uppercase tracking-wider">当前教材</div>
+<div class="mt-2 text-sm font-bold text-slate-800" id="tb-reader-booktitle">--</div>
+</div>
+<div class="flex-1 overflow-y-auto p-3" id="tb-toc-list">
+<div class="text-xs text-slate-400 text-center py-6">加载中...</div>
+</div>
+</aside>
+
+<!-- 中间正文 -->
+<main class="flex-1 overflow-y-auto bg-slate-50/50 p-5">
+<div id="tb-reader-content">
+<div class="text-center py-16 text-slate-400 text-sm">请选择一本教材开始阅读</div>
+</div>
+</main>
+
+<!-- 右侧伴读区 -->
+<aside class="hidden xl:flex flex-col bg-white border-l border-slate-100 overflow-y-auto">
+<div class="p-4 border-b border-slate-100">
+<div class="flex items-center gap-2">
+<i class="fas fa-sparkles text-teal"></i>
+<h3 class="text-sm font-bold text-slate-800">伴读助手</h3>
+</div>
+</div>
+<div class="flex-1 overflow-y-auto p-4 space-y-4" id="tb-companion-panel">
+<!-- 伴读动作区 -->
+<div class="bg-gradient-to-br from-teal-50 to-emerald-50 rounded-xl p-4 border border-teal-100">
+<div class="flex items-center justify-between mb-3">
+<span class="text-sm font-semibold text-slate-800">AI 伴读动作</span>
+<span class="text-[11px] px-2 py-0.5 rounded-full bg-slate-100 text-slate-500" id="tb-action-label">未触发</span>
+</div>
+<div class="space-y-2">
+<button onclick="tbDoAction('explain')" class="w-full flex items-center gap-3 p-2.5 rounded-xl border border-rose-200 bg-white hover:bg-rose-50 transition-colors text-left">
+<span class="w-8 h-8 rounded-lg bg-rose-100 text-rose-600 flex items-center justify-center shrink-0"><i class="fas fa-lightbulb text-xs"></i></span>
+<span><span class="text-sm font-medium text-slate-700">解释这段</span><br><span class="text-xs text-slate-500">把这段讲明白</span></span>
+</button>
+<button onclick="tbDoAction('ask')" class="w-full flex items-center gap-3 p-2.5 rounded-xl border border-amber-200 bg-white hover:bg-amber-50 transition-colors text-left">
+<span class="w-8 h-8 rounded-lg bg-amber-100 text-amber-600 flex items-center justify-center shrink-0"><i class="fas fa-circle-question text-xs"></i></span>
+<span><span class="text-sm font-medium text-slate-700">基于这段提问</span><br><span class="text-xs text-slate-500">继续往下学</span></span>
+</button>
+<button onclick="tbDoAction('note')" class="w-full flex items-center gap-3 p-2.5 rounded-xl border border-sky-200 bg-white hover:bg-sky-50 transition-colors text-left">
+<span class="w-8 h-8 rounded-lg bg-sky-100 text-sky-600 flex items-center justify-center shrink-0"><i class="fas fa-pen-to-square text-xs"></i></span>
+<span><span class="text-sm font-medium text-slate-700">生成笔记</span><br><span class="text-xs text-slate-500">整理成可直接记录的内容</span></span>
+</button>
+</div>
+</div>
+<!-- 上下文 -->
+<div class="rounded-xl bg-slate-50 border border-slate-100 p-4">
+<div class="flex items-center gap-2 mb-2"><i class="fas fa-bookmark text-teal text-xs"></i><span class="text-xs font-semibold text-slate-700">当前上下文</span></div>
+<p class="text-sm text-slate-600" id="tb-chapter-title">--</p>
+<p class="text-xs text-slate-500" id="tb-section-title">--</p>
+<div class="mt-2 text-xs text-slate-500 bg-white rounded-lg border border-slate-100 p-2 max-h-24 overflow-y-auto whitespace-pre-wrap" id="tb-block-preview">点击左侧正文段落</div>
+</div>
+<!-- 伴读结果 -->
+<div class="rounded-xl bg-slate-50 border border-slate-100 p-4">
+<div class="flex items-center gap-2 mb-2"><i class="fas fa-file-text text-teal text-xs"></i><span class="text-xs font-semibold text-slate-700">动作结果</span></div>
+<div id="tb-result-loading" class="hidden flex items-center gap-2 text-sm text-teal"><i class="fas fa-spinner fa-spin"></i>正在请求模型...</div>
+<div id="tb-result-error" class="hidden text-sm text-red-600 bg-red-50 rounded-lg p-2"></div>
+<div id="tb-result-empty" class="text-sm text-slate-500">请先点击正文段落，再选择伴读动作</div>
+<div id="tb-result-text" class="hidden text-sm text-slate-700 whitespace-pre-wrap leading-7"></div>
+<ul id="tb-result-items" class="hidden space-y-2 text-sm text-slate-700"></ul>
+</div>
+<!-- 相关概念 -->
+<div class="rounded-xl bg-slate-50 border border-slate-100 p-4">
+<div class="flex items-center gap-2 mb-2"><i class="fas fa-lightbulb text-teal text-xs"></i><span class="text-xs font-semibold text-slate-700">相关概念</span></div>
+<div class="flex flex-wrap gap-1.5" id="tb-concepts"><span class="text-xs text-slate-400">--</span></div>
+</div>
+<!-- 追问对话 -->
+<div class="rounded-xl bg-teal-50 border border-teal-100 p-4">
+<div class="flex items-center gap-2 mb-2"><i class="fas fa-comments text-teal text-xs"></i><span class="text-xs font-semibold text-slate-700">追问对话</span></div>
+<div id="tb-chat-history" class="space-y-2 mb-3 max-h-40 overflow-y-auto"></div>
+<div class="flex gap-2">
+<input id="tb-chat-input" class="flex-1 rounded-lg border border-slate-200 px-3 py-1.5 text-xs focus:outline-none focus:border-teal-400" placeholder="基于当前段落追问..." onkeydown="if(event.key==='Enter')tbSendChat()">
+<button onclick="tbSendChat()" class="px-3 py-1.5 rounded-lg bg-teal text-white text-xs font-medium hover:bg-teal-700 transition-colors">发送</button>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+
+<!-- 子视图: 知识星图 -->
+<div id="tb-view-graph" class="hidden flex-1 min-h-0">
+<div class="grid xl:grid-cols-[minmax(0,1fr)_360px] gap-0 h-full">
+<div class="flex flex-col bg-white overflow-y-auto p-5">
+<div class="flex items-center justify-between mb-4">
+<div>
+<h3 class="text-xl font-bold text-slate-800">知识星图</h3>
+<p class="text-sm text-slate-500 mt-1">拖动浏览，滚轮缩放</p>
+</div>
+<div class="flex gap-2" id="tb-graph-legend"></div>
+</div>
+<!-- 统计卡片 -->
+<div class="grid grid-cols-4 gap-3 mb-5" id="tb-graph-stats"></div>
+<!-- SVG 图谱 -->
+<div class="flex-1 bg-slate-50 rounded-xl border border-slate-200 relative" style="min-height:500px">
+<svg id="tb-graph-svg" class="w-full h-full" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid meet"></svg>
+<div class="absolute bottom-3 left-3 text-xs text-slate-400">滚轮缩放 · 拖动画布 · 双击重置</div>
+</div>
+</div>
+<!-- 右侧节点详情 -->
+<aside class="bg-white border-l border-slate-100 overflow-y-auto p-5">
+<div class="rounded-xl bg-gradient-to-br from-teal-50 to-emerald-50 p-4 border border-teal-100 mb-4">
+<div class="flex items-center gap-2 mb-3"><i class="fas fa-binary text-teal text-sm"></i><span class="text-sm font-semibold text-slate-800">节点详情</span></div>
+<div id="tb-graph-detail">
+<span class="text-xs px-2 py-0.5 rounded-full bg-teal-100 text-teal" id="tb-gd-type">--</span>
+<h4 class="mt-3 text-lg font-bold text-slate-800" id="tb-gd-label">点击图谱节点查看</h4>
+<p class="mt-2 text-sm text-slate-600 leading-6" id="tb-gd-desc"></p>
+<div class="mt-3 text-xs text-slate-500" id="tb-gd-meta"></div>
+</div>
+</div>
+<div class="rounded-xl bg-slate-50 border border-slate-100 p-4">
+<div class="flex items-center gap-2 mb-3"><i class="fas fa-share-2 text-teal text-sm"></i><span class="text-sm font-semibold text-slate-800">关联节点</span></div>
+<div id="tb-graph-linked" class="space-y-2">
+<span class="text-xs text-slate-400">点击节点查看关联</span>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
 <div id="toast" class="toast glass-light px-5 py-3 rounded-xl shadow-xl text-sm font-medium text-slate-800"></div>
 
 <!-- 引用详情模态框 -->
@@ -468,5 +698,6 @@ body{margin:0;overflow-x:hidden;background:#111}
 </div>
 
 <script src="/static/home-app.js"></script>
+<script src="/static/textbook.js"></script>
 </body>
 </html>

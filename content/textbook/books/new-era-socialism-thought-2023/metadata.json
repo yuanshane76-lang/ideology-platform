@@ -1,0 +1,12 @@
+{
+  "book_id": "new-era-socialism-thought-2023",
+  "title": "新时代中国特色社会主义思想概论",
+  "subject": "思想政治理论课",
+  "version": "2023",
+  "description": "《新时代中国特色社会主义思想概论》2023 年版教材。",
+  "enabled": true,
+  "source_type": "markdown",
+  "ingest_status": "parsed",
+  "source_path": "content/books/new-era-socialism-thought-2023/source/book.md",
+  "processed_path": "content/books/new-era-socialism-thought-2023/processed/book.json"
+}
