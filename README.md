@@ -10,6 +10,8 @@
 [![Qdrant](https://img.shields.io/badge/Qdrant-1.9-red.svg)](https://qdrant.tech/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+**🌐 在线访问：http://82.156.211.237:6006**
+
 </div>
 
 ---
