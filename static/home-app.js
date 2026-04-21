@@ -176,8 +176,8 @@ async function sendQA(text){
   if(qaGenerating) return;
 
   const box=document.getElementById('qa-messages');
-  // 首次发送移除欢迎卡片
-  const welcome=box.querySelector('.bg-white.rounded-2xl.p-8');
+  // 首次发送移除欢迎卡片（匹配 p-6 的欢迎卡片）
+  const welcome=box.querySelector('.bg-white.rounded-2xl.p-6');
   if(welcome) welcome.remove();
 
   appendQAMsg('user', escHtml(text));
