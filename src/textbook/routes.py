@@ -70,16 +70,29 @@ def textbook_book_detail(book_id: str):
 
 @textbook_bp.route('/api/textbook/reader', methods=['GET'])
 def textbook_reader():
+    import time
+    start_time = time.time()
+    
     book_id = request.args.get('book_id', '').strip() or get_default_book_id()
     chapter_id = request.args.get('chapter_id', '').strip() or None
+    
+    print(f"[textbook_reader] book_id={book_id}, chapter_id={chapter_id}")
 
     if not book_id:
         return jsonify({'error': 'No registered books available'}), 404
 
     try:
         page_data = get_reader_page_data(book_id, chapter_id=chapter_id)
-    except KeyError:
+        elapsed = time.time() - start_time
+        print(f"[textbook_reader] success, elapsed={elapsed:.2f}s, chapter={page_data.get('chapter', {}).get('title', 'N/A')}")
+    except KeyError as e:
+        print(f"[textbook_reader] KeyError: {e}")
         return jsonify({'error': f'Unknown book_id: {book_id}'}), 404
+    except Exception as e:
+        print(f"[textbook_reader] Exception: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({'error': str(e)}), 500
 
     return jsonify(page_data)
 

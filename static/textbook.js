@@ -106,18 +106,40 @@ function renderReader(data) {
         </div>
         <div class="ml-2 space-y-0.5">
           ${(ch.sections || []).map(s => `
-            <div class="block px-2 py-1 text-xs text-slate-500 rounded hover:bg-slate-50 hover:text-teal-700 truncate cursor-pointer" onclick="navigateToSection('${data.book_id}', '${ch.id}', '${escAttr(s.anchor)}')">${s.title}</div>
+            <div class="block px-2 py-1 text-xs text-slate-500 rounded hover:bg-slate-50 hover:text-teal-700 truncate cursor-pointer" data-book-id="${data.book_id}" data-chapter-id="${ch.id}" data-anchor="${escAttr(s.anchor)}">${s.title}</div>
           `).join('')}
         </div>
       </div>
     `).join('');
+    // 绑定事件委托，避免内联onclick的转义问题
+    tocEl.querySelectorAll('[data-anchor]').forEach(el => {
+      el.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const bookId = this.dataset.bookId;
+        const chapterId = this.dataset.chapterId;
+        const anchor = this.dataset.anchor;
+        navigateToSection(bookId, chapterId, anchor, e);
+      });
+    });
   } else {
     tocEl.innerHTML = '<div class="text-xs text-slate-400 text-center py-4">暂无目录</div>';
   }
 
   // 同步移动端 TOC
   const mobileToc = document.getElementById('tb-toc-mobile');
-  if (mobileToc) mobileToc.innerHTML = tocEl.innerHTML;
+  if (mobileToc) {
+    mobileToc.innerHTML = tocEl.innerHTML;
+    // 为移动端目录也绑定事件
+    mobileToc.querySelectorAll('[data-anchor]').forEach(el => {
+      el.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const bookId = this.dataset.bookId;
+        const chapterId = this.dataset.chapterId;
+        const anchor = this.dataset.anchor;
+        navigateToSection(bookId, chapterId, anchor, e);
+      });
+    });
+  }
 
   // 正文
   const contentEl = document.getElementById('tb-reader-content');
@@ -163,24 +185,94 @@ function renderReader(data) {
 
 // ==================== 目录跳转 ====================
 
+// 生成骨架屏 HTML
+function getSkeletonHTML() {
+  return `
+    <div class="animate-pulse space-y-4 p-4">
+      <div class="h-8 bg-slate-200 rounded w-3/4"></div>
+      <div class="space-y-2">
+        <div class="h-4 bg-slate-200 rounded"></div>
+        <div class="h-4 bg-slate-200 rounded w-5/6"></div>
+        <div class="h-4 bg-slate-200 rounded w-4/6"></div>
+      </div>
+      <div class="h-6 bg-slate-200 rounded w-1/2 mt-6"></div>
+      <div class="space-y-2">
+        <div class="h-4 bg-slate-200 rounded"></div>
+        <div class="h-4 bg-slate-200 rounded w-5/6"></div>
+        <div class="h-4 bg-slate-200 rounded"></div>
+        <div class="h-4 bg-slate-200 rounded w-3/4"></div>
+      </div>
+    </div>
+  `;
+}
+
 async function navigateToChapter(bookId, chapterId, scrollTarget) {
+  // 显示骨架屏加载状态
+  const contentEl = document.getElementById('tb-reader-content');
+  if (contentEl) {
+    contentEl.innerHTML = getSkeletonHTML();
+  }
+  
+  console.log('navigateToChapter called:', { bookId, chapterId, scrollTarget });
+  
   try {
-    const resp = await fetch(`/api/textbook/reader?book_id=${bookId}&chapter_id=${chapterId}`);
-    TB.readerData = await resp.json();
-    renderReader(TB.readerData);
+    const url = `/api/textbook/reader?book_id=${encodeURIComponent(bookId)}&chapter_id=${encodeURIComponent(chapterId)}`;
+    console.log('fetching URL:', url);
+    
+    // 添加超时控制
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 10000); // 10秒超时
+    
+    const resp = await fetch(url, { signal: controller.signal });
+    clearTimeout(timeoutId);
+    
+    console.log('response status:', resp.status);
+    
+    if (!resp.ok) {
+      throw new Error(`HTTP error! status: ${resp.status}`);
+    }
+    
+    const data = await resp.json();
+    console.log('response data:', { 
+      hasBook: !!data.book, 
+      hasToc: !!data.toc, 
+      tocLength: data.toc?.length,
+      hasStructuredContent: data.has_structured_content,
+      chapterTitle: data.chapter?.title,
+      sectionGroupsLength: data.section_groups?.length
+    });
+    
+    TB.readerData = data;
+    renderReader(data);
+    
     // 滚动到正文顶部 或 指定 section
     if (scrollTarget) {
-      setTimeout(() => scrollToSection(scrollTarget), 150);
+      // 使用 requestAnimationFrame 确保 DOM 已更新，比 setTimeout 更快
+      requestAnimationFrame(() => {
+        console.log('scrolling to target after chapter load:', scrollTarget);
+        scrollToSection(scrollTarget);
+      });
     } else {
-      const contentEl = document.getElementById('tb-reader-content');
       if (contentEl) contentEl.scrollTop = 0;
     }
   } catch (e) {
     console.error('navigateToChapter error:', e);
+    if (contentEl) {
+      const errorMsg = e.name === 'AbortError' ? '请求超时，请重试' : `加载失败: ${e.message}`;
+      contentEl.innerHTML = `<div class="text-center py-16 text-red-500"><i class="fas fa-exclamation-circle text-3xl mb-3"></i><p>${errorMsg}</p><button onclick="navigateToChapter('${bookId}', '${chapterId}', ${scrollTarget ? `'${scrollTarget}'` : 'null'})" class="mt-4 px-4 py-2 bg-teal text-white rounded-lg text-sm">重试</button></div>`;
+    }
   }
 }
 
-function navigateToSection(bookId, chapterId, anchor) {
+function navigateToSection(bookId, chapterId, anchor, event) {
+  // 阻止事件冒泡，防止多次触发
+  if (event) {
+    event.preventDefault();
+    event.stopPropagation();
+  }
+  
+  console.log('navigateToSection called:', { bookId, chapterId, anchor });
+  
   // 确保切换到阅读器视图
   const readerView = document.getElementById('tb-view-reader');
   if (readerView && readerView.classList.contains('hidden')) {
@@ -188,18 +280,98 @@ function navigateToSection(bookId, chapterId, anchor) {
   }
 
   // 判断目标 section 是否在当前已渲染的 DOM 中
-  let el = document.getElementById(safeId(anchor));
-  if (!el) el = document.querySelector(`[data-raw-anchor="${CSS.escape(anchor)}"]`);
+  let el = findElementByAnchor(anchor);
+  console.log('findElementByAnchor result:', el ? 'found' : 'not found');
+  
   if (el) {
     // 当前章节内，直接滚动
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    el.style.transition = 'background 0.3s';
-    el.style.background = 'rgba(13,148,136,0.08)';
-    setTimeout(() => { el.style.background = ''; }, 1500);
+    scrollElementIntoView(el);
   } else {
     // 跨章节，先加载目标章节再滚动
+    console.log('cross-chapter navigation, loading chapter:', chapterId);
     navigateToChapter(bookId, chapterId, anchor);
   }
+}
+
+// 辅助函数：通过 anchor 查找元素
+function findElementByAnchor(anchor) {
+  if (!anchor) return null;
+  
+  console.log('findElementByAnchor searching for:', anchor);
+  
+  let el = null;
+  
+  // 1. 先尝试按 safeId 查找
+  const safeAnchorId = safeId(anchor);
+  console.log('trying safeId:', safeAnchorId);
+  try {
+    el = document.getElementById(safeAnchorId);
+  } catch (e) {}
+  if (el) console.log('found by safeId');
+  
+  // 2. 再尝试按 data-raw-anchor 属性查找（使用更安全的属性选择器）
+  if (!el) {
+    try {
+      // 使用属性选择器而不是 CSS.escape，兼容性更好
+      const allElements = document.querySelectorAll('[data-raw-anchor]');
+      console.log('checking data-raw-anchor on', allElements.length, 'elements');
+      for (const elem of allElements) {
+        const rawAnchor = elem.getAttribute('data-raw-anchor');
+        if (rawAnchor === anchor) {
+          el = elem;
+          console.log('found by data-raw-anchor match');
+          break;
+        }
+      }
+      if (!el) {
+        // 打印前5个元素的data-raw-anchor值用于调试
+        const firstFew = Array.from(allElements).slice(0, 5).map(e => e.getAttribute('data-raw-anchor'));
+        console.log('first 5 data-raw-anchor values:', firstFew);
+      }
+    } catch (e) {
+      console.error('error in data-raw-anchor search:', e);
+    }
+  }
+  
+  // 3. 最后尝试原始 id
+  if (!el) {
+    console.log('trying original anchor as id');
+    try { 
+      el = document.getElementById(anchor); 
+    } catch(e) {}
+    if (el) console.log('found by original id');
+  }
+  
+  return el;
+}
+
+// 辅助函数：滚动元素到视图中
+function scrollElementIntoView(el) {
+  if (!el) return;
+  
+  const contentEl = document.getElementById('tb-reader-content');
+  if (!contentEl) return;
+  
+  // 先尝试使用 scrollIntoView，它更可靠
+  try {
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } catch (e) {
+    // 降级方案：手动计算滚动位置
+    const containerRect = contentEl.getBoundingClientRect();
+    const elRect = el.getBoundingClientRect();
+    const relativeTop = elRect.top - containerRect.top + contentEl.scrollTop - 20;
+    contentEl.scrollTo({
+      top: Math.max(0, relativeTop),
+      behavior: 'smooth'
+    });
+  }
+  
+  // 高亮效果
+  el.style.transition = 'background 0.3s';
+  el.style.background = 'rgba(13,148,136,0.08)';
+  setTimeout(() => { 
+    el.style.background = ''; 
+  }, 1500);
 }
 
 function selectBlock(el) {
@@ -243,6 +415,15 @@ function selectBlock(el) {
 
 async function tbDoAction(action) {
   if (!TB.currentBookId || !TB.currentBlockId) {
+    // 在结果区域直接显示提示，比 toast 更显眼
+    document.getElementById('tb-result-loading').classList.add('hidden');
+    document.getElementById('tb-result-empty').classList.add('hidden');
+    document.getElementById('tb-result-text').classList.add('hidden');
+    document.getElementById('tb-result-items').classList.add('hidden');
+    document.getElementById('tb-result-error').classList.add('hidden');
+    const errEl = document.getElementById('tb-result-error');
+    errEl.textContent = '请先点击左侧正文中的段落，再点击伴读动作按钮';
+    errEl.classList.remove('hidden');
     showToast('请先点击左侧正文段落');
     return;
   }
@@ -695,7 +876,22 @@ function escHtml(v) {
 }
 
 function escAttr(v) {
-  return String(v||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return String(v||'')
+    .replace(/&/g,'&amp;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;');
+}
+
+// 用于JavaScript字符串转义（用于onclick等JS上下文）
+function escJs(v) {
+  return String(v||'')
+    .replace(/\\/g,'\\\\')
+    .replace(/'/g,"\\'")
+    .replace(/"/g,'\\"')
+    .replace(/\n/g,'\\n')
+    .replace(/\r/g,'\\r');
 }
 
 function safeId(anchor) {
@@ -705,19 +901,9 @@ function safeId(anchor) {
 
 function scrollToSection(anchor) {
   if (!anchor) return;
-  // 先尝试按 safeId 查找
-  let el = document.getElementById(safeId(anchor));
-  // 再尝试按 data-raw-anchor 属性查找
-  if (!el) el = document.querySelector(`[data-raw-anchor="${CSS.escape(anchor)}"]`);
-  // 最后尝试原始 id
-  if (!el) {
-    try { el = document.getElementById(anchor); } catch(e) {}
-  }
+  const el = findElementByAnchor(anchor);
   if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    el.style.transition = 'background 0.3s';
-    el.style.background = 'rgba(13,148,136,0.08)';
-    setTimeout(() => { el.style.background = ''; }, 1500);
+    scrollElementIntoView(el);
   }
 }
 

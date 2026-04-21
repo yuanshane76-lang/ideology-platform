@@ -287,32 +287,6 @@ def _enrich_block(
         if keyword_id in keywords
     ]
 
-    if not enriched['relatedConcepts'] or not enriched['relatedKeywords']:
-        block_enrichment = enrich_block(
-            book_title=book_title,
-            chapter_title=chapter.get('title', ''),
-            section_title=section.get('title', ''),
-            block_text=block.get('clean_text', ''),
-        )
-        if not enriched['relatedConcepts']:
-            enriched['relatedConcepts'] = [
-                {
-                    'id': f"block-concept:{block['id']}:{_safe_term_id(item.get('name', ''))}",
-                    'name': item.get('name', ''),
-                    'shortDescription': item.get('description', item.get('name', '')),
-                }
-                for item in block_enrichment.get('concepts', [])
-                if item.get('name')
-            ]
-        if not enriched['relatedKeywords']:
-            enriched['relatedKeywords'] = [
-                {
-                    'id': f"block-keyword:{block['id']}:{_safe_term_id(term)}",
-                    'term': term,
-                }
-                for term in block_enrichment.get('keywords', [])
-                if term
-            ]
     return enriched
 
 
