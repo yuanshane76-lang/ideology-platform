@@ -382,7 +382,7 @@ Copyright (c) 2025 yuanshane76-lang
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: 45070293@qq.com
 - 🐙 GitHub Issues: [提交问题](https://github.com/yuanshane76-lang/ideology-platform/issues)
 
 ---
