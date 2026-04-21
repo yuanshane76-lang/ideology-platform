@@ -1,4 +1,4 @@
-# Ideology-Platform 🎓
+# Ideology-Platform 🎓 思政云
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 [![Qdrant](https://img.shields.io/badge/Qdrant-1.9-red.svg)](https://qdrant.tech/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**🌐 在线访问：http://82.156.211.237:6006**
+**🌐 在线体验：http://82.156.211.237:6006**
 
 </div>
 
@@ -18,15 +18,82 @@
 
 ## 📖 项目简介
 
-**Ideology-Platform** 是一个面向高校思政教育领域的智能化教学辅助平台，融合了检索增强生成（RAG）、多智能体协作、流式推理等前沿 AI 技术，为思政课程学习提供智能问答、PPT 自动生成、哲学辩论训练三大核心功能。
+**Ideology-Platform（思政云）** 是一款面向高校思政教育领域的智能化教学辅助平台，融合检索增强生成（RAG）、多智能体协作、流式推理等前沿 AI 技术，为思政课程学习提供一站式智能服务。
 
-本平台覆盖《马克思主义基本原理》、《思想道德与法治》、《中国近现代史纲要》、《毛泽东思想和中国特色社会主义理论体系概论》、《习近平新时代中国特色社会主义思想概论》等核心思政课程内容。
+平台覆盖《马克思主义基本原理》、《思想道德与法治》、《中国近现代史纲要》、《毛泽东思想和中国特色社会主义理论体系概论》、《习近平新时代中国特色社会主义思想概论》等核心思政课程内容。
 
 ---
 
-## 🏗️ 系统架构
+## ✨ 五大核心功能
 
-### 整体架构图
+### 📚 1. 教材伴读系统
+
+沉浸式结构化阅读体验，让思政教材"活"起来：
+
+- **智能目录导航**：可视化章节结构，一键跳转到任意小节
+- **AI 伴读助手**：选中任意段落，即可进行解释、提问、记笔记
+- **概念关联图谱**：自动识别并关联相关知识点，构建知识网络
+- **阅读进度同步**：自动保存阅读位置，支持多设备接续阅读
+
+> 💡 **使用场景**：课前预习时快速定位重点，课后复习时查漏补缺
+
+---
+
+### 💬 2. 智能问答系统
+
+基于 RAG 技术的思政知识问答，让理论学习更高效：
+
+- **双库融合检索**：教材知识库 + 时政案例库，理论与实践结合
+- **流式实时响应**：AI 思考过程实时可见，答案逐字呈现
+- **精准溯源引用**：每个答案都附带原文出处，支持一键跳转验证
+- **多轮上下文对话**：支持追问和深入探讨，像老师一样耐心解答
+
+> 💡 **使用场景**：遇到不理解的概念随时提问，写论文时查找理论依据
+
+---
+
+### 📊 3. PPT 智能生成
+
+输入主题，一键生成专业级思政课件：
+
+- **AI 大纲规划**：自动分析主题，生成逻辑清晰的幻灯片结构
+- **智能内容填充**：结合教材内容自动填充每页要点
+- **精美主题切换**：党建红、科技蓝、学术绿等多种风格可选
+- **高清导出下载**：自动生成可编辑的 `.pptx` 文件
+
+> 💡 **使用场景**：课堂展示、小组汇报、党课宣讲，5 分钟搞定课件
+
+---
+
+### ⚔️ 4. 红芯理辩系统
+
+基于辩证思维的 AI 辩论训练，提升批判性思维能力：
+
+- **三方角色扮演**：红芯正方、红芯反方、红芯裁判，模拟真实辩论
+- **哲学深度论证**：结合马克思主义原理进行立论与反驳
+- **攻防策略训练**：学习如何构建论点、寻找漏洞、组织反击
+- **全程记录复盘**：保存辩论记录，支持事后回顾分析
+
+> 💡 **使用场景**：准备辩论赛、锻炼思辨能力、深入理解辩证唯物主义
+
+---
+
+### 📰 5. 思政要闻整理
+
+每日自动聚合最新时政热点，理论联系实际：
+
+- **智能抓取聚合**：自动采集权威媒体的时政要闻
+- **AI 智能摘要**：自动生成新闻摘要，快速了解核心内容
+- **理论关联分析**：自动关联教材相关知识点，学以致用
+- **定时更新推送**：每日 8 点自动刷新，保持内容时效性
+
+> 💡 **使用场景**：了解时事动态、积累时政案例、准备时政考试
+
+---
+
+## 🏗️ 技术架构
+
+### 系统架构图
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -72,186 +139,16 @@
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+### 核心技术栈
 
-## 🔧 核心技术框架
-
-### 1. 多智能体协作系统 (LangGraph)
-
-采用 **Supervisor 模式** 构建多智能体协作网络，实现复杂任务的分解与协同处理：
-
-| 智能体 | 职责 | 技术实现 |
-|--------|------|----------|
-| **RouterAgent** | 意图识别与路由分发 | LLM-based Classification |
-| **MemoryAgent** | 对话上下文检索与管理 | Vector Similarity Search |
-| **TheoryRetriever** | 理论知识库检索 | Hybrid RAG (Dense + Sparse) |
-| **PoliticsRetriever** | 时政案例库检索 | Temporal-aware Retrieval |
-| **GeneratorAgent** | 答案生成与流式输出 | Streaming Generation |
-| **ValidatorAgent** | 答案质量校验 | LLM-as-Judge |
-
-```python
-# 工作流状态机定义
-class AgentState(TypedDict):
-    query: str
-    intent: str
-    context: List[Document]
-    references: List[Reference]
-    answer: str
-    validation: ValidationResult
-```
-
-### 2. 检索增强生成 (RAG)
-
-#### 双库检索架构
-
-```
-┌─────────────────┐     ┌─────────────────┐
-│   Theory DB     │     │   Politics DB   │
-│  (教材知识库)    │     │  (时政案例库)   │
-│                 │     │                 │
-│ • 马克思主义原理 │     │ • 时事新闻      │
-│ • 思想道德与法治 │     │ • 政策解读      │
-│ • 毛泽东思想概论 │     │ • 社会热点      │
-│ • 中国近现代史  │     │ • 典型案例      │
-│ • 新时代思想    │     │                 │
-└────────┬────────┘     └────────┬────────┘
-         │                       │
-         └───────────┬───────────┘
-                     ▼
-         ┌─────────────────────┐
-         │  Reference Composer │
-         │  • 向量去重         │
-         │  • 内容清洗         │
-         │  • 引用高亮         │
-         └─────────────────────┘
-```
-
-#### 向量检索配置
-
-```python
-# Qdrant 向量数据库配置
-COLLECTION_CONFIG = {
-    "vectors": {
-        "size": 1024,           # text-embedding-v4 维度
-        "distance": "Cosine"    # 余弦相似度
-    },
-    "optimizers_config": {
-        "indexing_threshold": 10000
-    }
-}
-
-# 检索策略
-RETRIEVAL_STRATEGY = {
-    "top_k": 8,
-    "score_threshold": 0.7,
-    "rerank": True,
-    "hybrid_search": True      # 混合稠密+稀疏检索
-}
-```
-
-### 3. 流式响应系统 (SSE)
-
-基于 Server-Sent Events 实现实时流式输出，提供即时反馈：
-
-```python
-# Flask SSE 响应模式
-@app.route('/api/chat', methods=['POST'])
-def chat_endpoint():
-    return Response(
-        stream_with_context(chat_service_stream(conversation_id, query)),
-        mimetype='text/event-stream',
-        headers={
-            'Cache-Control': 'no-cache',
-            'X-Accel-Buffering': 'no'  # 禁用 Nginx 缓冲
-        }
-    )
-```
-
-**流式事件类型**：
-- `thinking`: 思考过程展示
-- `content`: 内容增量输出
-- `reference`: 引用文献推送
-- `done`: 完成信号
-
-### 4. HTML-to-PPTX 生成引擎
-
-创新性地采用 HTML 作为中间表示，实现高度灵活的 PPT 生成：
-
-```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│  AI Outline │ ──▶ │ HTML Slides │ ──▶ │  Playwright │ ──▶ │  python-pptx│
-│  Generator  │     │  Generator  │     │  Screenshot │     │  Assembler  │
-└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
-                                                │
-                                                ▼
-                                        ┌─────────────┐
-                                        │ PNG → PPTX  │
-                                        │  Slide      │
-                                        └─────────────┘
-```
-
-**主题系统**：
-
-| 主题 | 配色方案 | CSS 变量 |
-|------|----------|----------|
-| 党建红 | `#C41E3A` + `#FFD700` | `--primary`, `--accent` |
-| 科技蓝 | `#1E90FF` + `#00CED1` | `--primary`, `--accent` |
-| 简约白 | `#FFFFFF` + `#6B7280` | `--primary`, `--accent` |
-| 学术绿 | `#059669` + `#34D399` | `--primary`, `--accent` |
-
-### 5. 红芯理辩系统
-
-基于辩证思维的 AI 辩论训练系统：
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     Debate Session Flow                          │
-│                                                                   │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐   │
-│  │  Topic   │ ─▶ │  Pro     │ ─▶ │  Con     │ ─▶ │  Judge   │   │
-│  │ Analysis │    │ Opening  │    │ Rebuttal │    │ Summary  │   │
-│  └──────────┘    └──────────┘    └──────────┘    └──────────┘   │
-│       │              │               │               │          │
-│       ▼              ▼               ▼               ▼          │
-│  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐   │
-│  │ Stance   │    │ Marxism  │    │ Dialectic│    │ Synthesis│   │
-│  │ Detection│    │ Principles│    │ Analysis │    │ & Insight│   │
-│  └──────────┘    └──────────┘    └──────────┘    └──────────┘   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-**辩论角色设定**：
-- **红芯正方**: 坚定捍卫马克思主义立场，逻辑清晰有力
-- **红芯反方**: 犀利辩证，多角度审视，指出逻辑漏洞
-- **红芯裁判**: 中立客观，综合评议，提炼哲学启示
-
----
-
-## ✨ 核心功能
-
-### 1. 智能问答系统
-基于 RAG 技术的思政知识问答，支持多轮对话和理论溯源：
-- **双库检索**：教材知识库 + 时政案例库
-- **流式输出**：实时显示 AI 思考过程和答案
-- **引用标注**：答案附带原文出处，支持点击查看
-
-### 2. PPT 智能生成
-输入主题自动生成完整 PPT，支持多种主题风格：
-- **大纲生成**：AI 自动规划幻灯片结构
-- **HTML 渲染**：使用 Playwright 截图生成高清图片
-- **一键下载**：自动生成 `.pptx` 文件
-
-### 3. 红芯理辩系统
-基于辩证思维的 AI 辩论训练：
-- **角色扮演**：正方、反方、裁判三方辩论
-- **哲学深度**：结合马克思主义原理进行论证
-- **攻防训练**：帮助用户锻炼批判性思维
-
-### 4. 教材伴读系统
-结构化阅读思政教材，支持目录导航：
-- **章节跳转**：快速定位到指定小节
-- **伴读辅助**：基于当前段落进行解释、提问、笔记
-- **概念关联**：自动关联相关知识点
+| 技术领域 | 选型 | 说明 |
+|---------|------|------|
+| **后端框架** | Flask | 轻量级 Python Web 框架 |
+| **AI 框架** | LangGraph | 多智能体工作流编排 |
+| **向量数据库** | Qdrant | 高性能向量检索 |
+| **LLM 服务** | DashScope | 阿里云大模型 API |
+| **前端技术** | Tailwind CSS | 原子化 CSS 框架 |
+| **PPT 生成** | Playwright + python-pptx | HTML 渲染转 PPT |
 
 ---
 
@@ -268,7 +165,7 @@ def chat_endpoint():
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yuanshane76-lang/ideology-rag.git
+git clone https://github.com/yuanshane76-lang/ideology-platform.git
 cd ideology-platform
 
 # 2. 安装依赖
@@ -386,9 +283,6 @@ pip install -r requirements.txt
 
 # 3. 使用Gunicorn启动（单进程多线程，避免Qdrant锁文件问题）
 gunicorn -w 1 --threads 6 -b 127.0.0.1:6006 --timeout 120 app:app
-
-# 4. 配置Nginx反向代理
-sudo nano /etc/nginx/sites-available/ideology
 ```
 
 **Nginx配置**：
@@ -435,12 +329,6 @@ crontab -e
 0 8 * * * cd /path/to/ideology-platform && /path/to/venv/bin/python refresh_news.py >> /var/log/news_refresh.log 2>&1
 ```
 
-**Qdrant并发说明**：
-- 本地模式仅支持单进程多线程
-- 使用 `gunicorn -w 1 --threads 6` 避免锁文件冲突
-- <20并发场景完全够用
-- 如需更高并发，建议改用Qdrant Docker容器
-
 ---
 
 ## 📁 项目结构
@@ -450,202 +338,23 @@ ideology-platform/
 ├── app.py                      # Flask 主应用入口
 ├── requirements.txt            # Python 依赖
 ├── .env                        # 环境变量配置
+├── LICENSE                     # MIT 许可证
 │
 ├── src/                        # 核心源代码
 │   ├── agents/                 # 智能体模块
-│   │   ├── router_agent.py     # 路由智能体
-│   │   ├── memory_agent.py     # 记忆智能体
-│   │   ├── theory_retriever_agent.py   # 理论检索智能体
-│   │   ├── politics_retriever_agent.py # 时政检索智能体
-│   │   ├── generator_agent.py  # 生成智能体
-│   │   └── validator_agent.py  # 验证智能体
-│   │
 │   ├── ppt/                    # PPT 生成模块
-│   │   ├── agent.py            # PPT 智能体入口
-│   │   ├── outline_generator.py    # 大纲生成器
-│   │   ├── html_generator.py       # HTML 幻灯片生成
-│   │   ├── html_to_ppt.py          # HTML 转 PPT
-│   │   ├── chapter_builders.py     # 章节构建器
-│   │   └── themes/                 # 主题系统
-│   │       └── html_themes.py
-│   │
 │   ├── debate/                 # 红芯理辩模块
-│   │   ├── models.py           # 数据模型
-│   │   ├── service.py          # 辩论服务
-│   │   ├── constants.py        # 常量定义
-│   │   └── topic_agent.py      # 辩题分析智能体
-│   │
-│   ├── graph.py                # LangGraph 工作流定义
-│   ├── service.py              # 对话服务层
-│   ├── retriever.py            # 检索逻辑
-│   ├── reference_composer.py   # 引用文献整合器
-│   ├── clients.py              # API 客户端
-│   ├── config.py               # 配置管理
-│   └── conversation.py         # 对话管理
+│   ├── textbook/               # 教材伴读模块
+│   ├── news/                   # 思政要闻模块
+│   ├── graph.py                # LangGraph 工作流
+│   └── service.py              # 对话服务层
 │
 ├── templates/                  # HTML 模板
-│   ├── index.html              # 问答页面
-│   ├── ppt.html                # PPT 生成页面
-│   └── debate.html             # 红芯理辩页面
-│
 ├── static/                     # 静态资源
-│   ├── app.js                  # 问答前端逻辑
-│   ├── ppt.js                  # PPT 前端逻辑
-│   ├── debate.js               # 理辩前端逻辑
-│   └── style.css               # 样式文件
-│
-├── Qdrant/                     # 向量数据库存储
-│   └── qdrant_db/
-│       └── collection/
-│           ├── theory/         # 理论知识库
-│           ├── moment/         # 时政案例库
-│           └── debate/         # 辩论素材库
-│
-├── outputs/                    # 输出文件
-│   ├── html/                   # HTML 幻灯片缓存
-│   └── ppt/                    # 生成的 PPT 文件
-│
-└── tests/                      # 测试用例
-    └── test_*.py
+├── content/                    # 教材内容数据
+├── Qdrant/                     # 向量数据库（需单独获取）
+└── scripts/                    # 数据处理脚本
 ```
-
----
-
-## ⚡ 性能优化
-
-### 优化措施
-
-| 优化项 | 改动 | 效果 |
-|--------|------|------|
-| **API 并发控制** | Semaphore 3 → 8 | 充分利用百炼高并发能力 |
-| **生成模型选择** | qwen3-max → qwen-turbo | 延迟降低 50% |
-| **验证模型优化** | qwen-flash → qwen-turbo | 延迟降低 40% |
-| **高亮识别异步化** | 同步阻塞 → 后台异步 | 不阻塞主流程响应 |
-| **引用清理并发** | 串行处理 → 并发处理 N 条 | 引用加载加速 70% |
-
-### 性能指标
-
-| 指标 | 优化前 | 优化后 | 提升 |
-|------|--------|--------|------|
-| 总响应耗时 | 15s | 5-6s | ⬇️ 65% |
-| 首字延迟 | 2s | 0.5s | ⬇️ 75% |
-| 引用加载 | 8s | 2-3s | ⬇️ 70% |
-| 文档下载 | 8-10s | 1-2s | ⬇️ 80% |
-
----
-
-## 🔌 API 接口
-
-### 对话接口
-
-```http
-POST /api/chat
-Content-Type: application/json
-
-{
-  "query": "马克思主义的基本特征是什么？",
-  "conversation_id": "optional-uuid"
-}
-
-Response: SSE Stream
-event: thinking
-data: {"content": "正在检索相关知识..."}
-
-event: content
-data: {"content": "马克思主义的基本特征包括..."}
-
-event: reference
-data: {"references": [...]}
-
-event: done
-data: {"conversation_id": "uuid", "title": "自动生成的标题"}
-```
-
-### PPT 生成接口
-
-```http
-POST /api/ppt/outline
-Content-Type: application/json
-
-{
-  "query": "生成一份关于文化自信的 PPT"
-}
-
-Response:
-{
-  "success": true,
-  "outline": {
-    "title": "文化自信",
-    "chapters": [...]
-  }
-}
-```
-
-### 辩论接口
-
-```http
-POST /api/debate/stream
-Content-Type: application/json
-
-{
-  "title": "努力一定能改变命运吗",
-  "rounds": 2
-}
-
-Response: SSE Stream
-event: protagonist
-data: {"content": "正方观点..."}
-
-event: antagonist
-data: {"content": "反方反驳..."}
-
-event: judge
-data: {"content": "裁判总结..."}
-```
-
----
-
-## 🛠️ 技术栈
-
-### 后端
-
-| 技术 | 版本 | 用途 |
-|------|------|------|
-| Python | 3.13 | 主要开发语言 |
-| Flask | 3.0 | Web 框架 |
-| LangGraph | 0.2+ | 多智能体工作流编排 |
-| LangChain | 0.2+ | LLM 应用开发框架 |
-| Qdrant | 1.9+ | 向量数据库 |
-| DashScope | 1.14+ | 阿里云大模型服务 |
-
-### 文档处理
-
-| 技术 | 用途 |
-|------|------|
-| python-docx | Word 文档生成 |
-| python-pptx | PPT 文件组装 |
-| Playwright | HTML 截图渲染 |
-
-### 前端
-
-| 技术 | 用途 |
-|------|------|
-| HTML5 | 页面结构 |
-| Tailwind CSS | 样式框架 |
-| Vanilla JavaScript | 交互逻辑 |
-| Server-Sent Events | 流式通信 |
-
----
-
-## 📊 系统特性
-
-- ✅ **多智能体协作**: Supervisor 模式编排，职责分离，高效协同
-- ✅ **双库检索增强**: 理论+时政双库互补，知识覆盖全面
-- ✅ **流式实时响应**: SSE 长连接，首字延迟 < 1s
-- ✅ **引用溯源**: 自动提取、清理、高亮引用文献
-- ✅ **PPT 智能生成**: HTML 中间表示，主题灵活可扩展
-- ✅ **辩证思维训练**: 红芯理辩系统，哲学方法论实践
-- ✅ **高性能并发**: 异步处理，响应时间优化 65%+
 
 ---
 
@@ -654,21 +363,32 @@ data: {"content": "裁判总结..."}
 欢迎提交 Issue 和 Pull Request！
 
 1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建 Pull Request
+5. 打开一个 Pull Request
 
 ---
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
+本项目基于 [MIT License](LICENSE) 开源。
+
+Copyright (c) 2025 yuanshane76-lang
+
+---
+
+## 💬 联系我们
+
+如有问题或建议，欢迎通过以下方式联系：
+
+- 📧 Email: [your-email@example.com]
+- 🐙 GitHub Issues: [提交问题](https://github.com/yuanshane76-lang/ideology-platform/issues)
 
 ---
 
 <div align="center">
 
-**如果这个项目对你有帮助，请给一个 ⭐️ Star！**
+**⭐ 如果这个项目对你有帮助，请给个 Star 支持一下！**
 
 </div>
