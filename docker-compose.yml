@@ -1,0 +1,37 @@
+# 思政云伴侣 - Docker Compose 一键部署
+# 使用方法: docker compose up -d
+
+services:
+  ideology:
+    build: .
+    container_name: ideology-platform
+    restart: unless-stopped
+    ports:
+      - "6006:6006"
+    volumes:
+      # 持久化：向量数据库（必需）
+      - ./Qdrant/qdrant_db:/app/Qdrant/qdrant_db
+      # 持久化：教材内容数据
+      - ./content:/app/content
+      # 持久化：下载文件 & 输出
+      - ./downloads:/app/downloads
+      - ./outputs:/app/outputs
+      # 持久化：会话缓存 & 数据库
+      - ./cache:/app/cache
+      - ./chat_history.db:/app/chat_history.db
+      # 每日要闻数据
+      - ./daily_news.json:/app/daily_news.json
+    env_file:
+      - .env
+    environment:
+      - QDRANT_PATH=./Qdrant/qdrant_db
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6006/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+    deploy:
+      resources:
+        limits:
+          memory: 1.5G

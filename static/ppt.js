@@ -504,7 +504,7 @@ function showResult(result) {
                 <i data-lucide="play-circle" class="w-5 h-5"></i>
                 在线预览
             </button>
-            <a href="${downloadUrl}" class="flex-1 py-3 px-4 bg-gradient-to-r from-rose-500 to-orange-500 text-white rounded-xl font-medium text-center hover:shadow-lg transition-all flex items-center justify-center gap-2">
+            <a href="${downloadUrl}" download="${title}.pptx" class="flex-1 py-3 px-4 bg-gradient-to-r from-rose-500 to-orange-500 text-white rounded-xl font-medium text-center hover:shadow-lg transition-all flex items-center justify-center gap-2">
                 <i data-lucide="download" class="w-5 h-5"></i>
                 下载 PPT
             </a>
